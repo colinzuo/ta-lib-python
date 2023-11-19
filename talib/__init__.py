@@ -109,13 +109,6 @@ for func_name in __TA_FUNCTION_NAMES__:
     setattr(func, func_name, wrapped_func)
     globals()[func_name] = wrapped_func
 
-stream_func_names = ['stream_%s' % fname for fname in __TA_FUNCTION_NAMES__]
-stream = __import__("stream", globals(), locals(), stream_func_names, level=1)
-for func_name, stream_func_name in zip(__TA_FUNCTION_NAMES__, stream_func_names):
-    wrapped_func = _wrapper(getattr(stream, func_name))
-    setattr(stream, func_name, wrapped_func)
-    globals()[stream_func_name] = wrapped_func
-
 __version__ = '0.4.27'
 
 # In order to use this python library, talib (i.e. this __file__) will be
@@ -325,4 +318,4 @@ def get_function_groups():
     """
     return __function_groups__.copy()
 
-__all__ = ['get_functions', 'get_function_groups'] + __TA_FUNCTION_NAMES__ + ["stream_%s" % name for name in __TA_FUNCTION_NAMES__]
+__all__ = ['get_functions', 'get_function_groups'] + __TA_FUNCTION_NAMES__

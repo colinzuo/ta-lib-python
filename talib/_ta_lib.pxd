@@ -1,6 +1,6 @@
 #cython: language_level=2
 
-cdef extern from "ta-lib/ta_defs.h":
+cdef extern from "ta_defs.h":
 
     ctypedef int TA_RetCode
     TA_RetCode TA_SUCCESS = 0
@@ -84,7 +84,7 @@ cdef extern from "ta-lib/ta_defs.h":
     TA_CandleSettingType TA_Equal = 10
     TA_CandleSettingType TA_AllCandleSettings = 11
 
-cdef extern from "ta-lib/ta_common.h":
+cdef extern from "ta_common.h":
     const char *TA_GetVersionString()
     const char *TA_GetVersionMajor()
     const char *TA_GetVersionMinor()
@@ -109,90 +109,7 @@ cdef extern from "ta-lib/ta_common.h":
     TA_RetCode TA_Initialize()
     TA_RetCode TA_Shutdown()
 
-cdef extern from "ta-lib/ta_abstract.h":
-
-    TA_RetCode TA_GroupTableAlloc(TA_StringTable **table)
-    TA_RetCode TA_GroupTableFree(TA_StringTable *table)
-
-    TA_RetCode TA_FuncTableAlloc(const char *group, TA_StringTable **table)
-    TA_RetCode TA_FuncTableFree(TA_StringTable *table)
-
-    ctypedef unsigned int TA_FuncHandle
-    TA_RetCode TA_GetFuncHandle(const char *name, const TA_FuncHandle **handle)
-
-    ctypedef int TA_FuncFlags
-    ctypedef struct TA_FuncInfo:
-        const char *name
-        const char *group
-        const char *hint
-        const char *camelCaseName
-        TA_FuncFlags flags
-        unsigned int nbInput
-        unsigned int nbOptInput
-        unsigned int nbOutput
-        const TA_FuncHandle *handle
-
-    TA_RetCode TA_GetFuncInfo(const TA_FuncHandle *handle, const TA_FuncInfo **funcInfo)
-
-    ctypedef int TA_InputParameterType
-    TA_InputParameterType TA_Input_Price = 0
-    TA_InputParameterType TA_Input_Real = 1
-    TA_InputParameterType TA_Input_Integer = 2
-
-    ctypedef int TA_OptInputParameterType
-    TA_OptInputParameterType TA_OptInput_RealRange = 0
-    TA_OptInputParameterType TA_OptInput_RealList = 1
-    TA_OptInputParameterType TA_OptInput_IntegerRange = 2
-    TA_OptInputParameterType TA_OptInput_IntegerList = 3
-
-    ctypedef int TA_OutputParameterType
-    TA_OutputParameterType TA_Output_Real = 0
-    TA_OutputParameterType TA_Output_Integer = 1
-
-    ctypedef int TA_InputFlags
-    ctypedef int TA_OptInputFlags
-    ctypedef int TA_OutputFlags
-
-    ctypedef struct TA_InputParameterInfo:
-        TA_InputParameterType type
-        const char *paramName
-        TA_InputFlags flags
-
-    ctypedef struct TA_OptInputParameterInfo:
-        TA_OptInputParameterType type
-        const char *paramName
-        TA_OptInputFlags flags
-        const char *displayName
-        const void *dataSet
-        TA_Real defaultValue
-        const char *hint
-        const char *helpFile
-
-    ctypedef struct TA_OutputParameterInfo:
-        TA_OutputParameterType type
-        const char *paramName
-        TA_OutputFlags flags
-
-    TA_RetCode TA_GetInputParameterInfo(const TA_FuncHandle *handle, unsigned int paramIndex, const TA_InputParameterInfo **info)
-    TA_RetCode TA_GetOptInputParameterInfo(const TA_FuncHandle *handle, unsigned int paramIndex, const TA_OptInputParameterInfo **info)
-    TA_RetCode TA_GetOutputParameterInfo(const TA_FuncHandle *handle, unsigned int paramIndex, const TA_OutputParameterInfo **info)
-
-    ctypedef struct TA_ParamHolder:
-        void *hiddenData
-
-    TA_RetCode TA_ParamHolderAlloc(const TA_FuncHandle *handle, TA_ParamHolder **allocatedParams) # get_lookback()
-    TA_RetCode TA_ParamHolderFree(TA_ParamHolder *params)
-
-    TA_RetCode TA_SetOptInputParamInteger(TA_ParamHolder *params, unsigned int paramIndex, TA_Integer optInValue)
-    TA_RetCode TA_SetOptInputParamReal(TA_ParamHolder *params, unsigned int paramIndex, TA_Real optInValue)
-
-    TA_RetCode TA_GetLookback(const TA_ParamHolder *params, TA_Integer *lookback)
-
-    TA_RetCode TA_CallFunc(const TA_ParamHolder *params, TA_Integer startIdx, TA_Integer endIdx, TA_Integer *outBegIdx, TA_Integer *outNbElement)
-
-    char* TA_FunctionDescriptionXML()
-
-cdef extern from "ta-lib/ta_func.h":
+cdef extern from "ta_func.h":
     TA_RetCode TA_ACOS(int startIdx, int endIdx, const double inReal[], int *outBegIdx, int *outNBElement, double outReal[])
     int TA_ACOS_Lookback()
     TA_RetCode TA_AD(int startIdx, int endIdx, const double inHigh[], const double inLow[], const double inClose[], const double inVolume[], int *outBegIdx, int *outNBElement, double outReal[])
