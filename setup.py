@@ -63,8 +63,11 @@ if not platform_supported:
 try:
     from Cython.Distutils import build_ext as cython_build_ext
     has_cython = True
-except ImportError:
+except ImportError as ex:
+    print(f"has_cython {ex}")
     has_cython = False
+
+print(f"has_cython {has_cython}")
 
 for path in library_dirs:
     try:
@@ -145,7 +148,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='TA-Lib',
-    version='0.4.27',
+    version='0.4.29',
     description='Python wrapper for TA-Lib',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -172,6 +175,8 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
         "Programming Language :: Cython",
         "Topic :: Office/Business :: Financial",
         "Topic :: Scientific/Engineering :: Mathematics",

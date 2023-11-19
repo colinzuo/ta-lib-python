@@ -4,18 +4,18 @@
 {
     "distutils": {
         "depends": [
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include\\numpy\\arrayobject.h",
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include\\numpy\\arrayscalars.h",
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include\\numpy\\ndarrayobject.h",
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include\\numpy\\ndarraytypes.h",
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include\\numpy\\ufuncobject.h",
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include\\numpy\\arrayobject.h",
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include\\numpy\\arrayscalars.h",
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include\\numpy\\ndarrayobject.h",
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include\\numpy\\ndarraytypes.h",
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include\\numpy\\ufuncobject.h",
             "C:\\work3\\repos\\myself\\ta-lib-base\\include\\ta_common.h",
             "C:\\work3\\repos\\myself\\ta-lib-base\\include\\ta_defs.h",
             "C:\\work3\\repos\\myself\\ta-lib-base\\include\\ta_func.h"
         ],
         "include_dirs": [
             "C:\\work3\\repos\\myself\\ta-lib-base\\include",
-            "C:\\Users\\bfzuo\\.virtualenvs\\ta-lib-python-LNlyCZud\\lib\\site-packages\\numpy\\core\\include"
+            "C:\\Users\\bfzuo\\AppData\\Local\\Temp\\pip-build-env-3mj0rsjs\\normal\\Lib\\site-packages\\numpy\\core\\include"
         ],
         "libraries": [
             "ta_libc_Release"
@@ -1530,7 +1530,7 @@ static const char *__pyx_f[] = {
 
 /* #### Code section: numeric_typedefs ### */
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":730
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":730
  * # in Cython to enable them only on the right systems.
  * 
  * ctypedef npy_int8       int8_t             # <<<<<<<<<<<<<<
@@ -1539,7 +1539,7 @@ static const char *__pyx_f[] = {
  */
 typedef npy_int8 __pyx_t_5numpy_int8_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":731
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":731
  * 
  * ctypedef npy_int8       int8_t
  * ctypedef npy_int16      int16_t             # <<<<<<<<<<<<<<
@@ -1548,7 +1548,7 @@ typedef npy_int8 __pyx_t_5numpy_int8_t;
  */
 typedef npy_int16 __pyx_t_5numpy_int16_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":732
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":732
  * ctypedef npy_int8       int8_t
  * ctypedef npy_int16      int16_t
  * ctypedef npy_int32      int32_t             # <<<<<<<<<<<<<<
@@ -1557,7 +1557,7 @@ typedef npy_int16 __pyx_t_5numpy_int16_t;
  */
 typedef npy_int32 __pyx_t_5numpy_int32_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":733
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":733
  * ctypedef npy_int16      int16_t
  * ctypedef npy_int32      int32_t
  * ctypedef npy_int64      int64_t             # <<<<<<<<<<<<<<
@@ -1566,7 +1566,7 @@ typedef npy_int32 __pyx_t_5numpy_int32_t;
  */
 typedef npy_int64 __pyx_t_5numpy_int64_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":737
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":737
  * #ctypedef npy_int128     int128_t
  * 
  * ctypedef npy_uint8      uint8_t             # <<<<<<<<<<<<<<
@@ -1575,7 +1575,7 @@ typedef npy_int64 __pyx_t_5numpy_int64_t;
  */
 typedef npy_uint8 __pyx_t_5numpy_uint8_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":738
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":738
  * 
  * ctypedef npy_uint8      uint8_t
  * ctypedef npy_uint16     uint16_t             # <<<<<<<<<<<<<<
@@ -1584,7 +1584,7 @@ typedef npy_uint8 __pyx_t_5numpy_uint8_t;
  */
 typedef npy_uint16 __pyx_t_5numpy_uint16_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":739
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":739
  * ctypedef npy_uint8      uint8_t
  * ctypedef npy_uint16     uint16_t
  * ctypedef npy_uint32     uint32_t             # <<<<<<<<<<<<<<
@@ -1593,7 +1593,7 @@ typedef npy_uint16 __pyx_t_5numpy_uint16_t;
  */
 typedef npy_uint32 __pyx_t_5numpy_uint32_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":740
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":740
  * ctypedef npy_uint16     uint16_t
  * ctypedef npy_uint32     uint32_t
  * ctypedef npy_uint64     uint64_t             # <<<<<<<<<<<<<<
@@ -1602,7 +1602,7 @@ typedef npy_uint32 __pyx_t_5numpy_uint32_t;
  */
 typedef npy_uint64 __pyx_t_5numpy_uint64_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":744
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":744
  * #ctypedef npy_uint128    uint128_t
  * 
  * ctypedef npy_float32    float32_t             # <<<<<<<<<<<<<<
@@ -1611,7 +1611,7 @@ typedef npy_uint64 __pyx_t_5numpy_uint64_t;
  */
 typedef npy_float32 __pyx_t_5numpy_float32_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":745
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":745
  * 
  * ctypedef npy_float32    float32_t
  * ctypedef npy_float64    float64_t             # <<<<<<<<<<<<<<
@@ -1620,7 +1620,7 @@ typedef npy_float32 __pyx_t_5numpy_float32_t;
  */
 typedef npy_float64 __pyx_t_5numpy_float64_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":754
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":754
  * # The int types are mapped a bit surprising --
  * # numpy.int corresponds to 'l' and numpy.long to 'q'
  * ctypedef npy_long       int_t             # <<<<<<<<<<<<<<
@@ -1629,7 +1629,7 @@ typedef npy_float64 __pyx_t_5numpy_float64_t;
  */
 typedef npy_long __pyx_t_5numpy_int_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":755
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":755
  * # numpy.int corresponds to 'l' and numpy.long to 'q'
  * ctypedef npy_long       int_t
  * ctypedef npy_longlong   longlong_t             # <<<<<<<<<<<<<<
@@ -1638,7 +1638,7 @@ typedef npy_long __pyx_t_5numpy_int_t;
  */
 typedef npy_longlong __pyx_t_5numpy_longlong_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":757
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":757
  * ctypedef npy_longlong   longlong_t
  * 
  * ctypedef npy_ulong      uint_t             # <<<<<<<<<<<<<<
@@ -1647,7 +1647,7 @@ typedef npy_longlong __pyx_t_5numpy_longlong_t;
  */
 typedef npy_ulong __pyx_t_5numpy_uint_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":758
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":758
  * 
  * ctypedef npy_ulong      uint_t
  * ctypedef npy_ulonglong  ulonglong_t             # <<<<<<<<<<<<<<
@@ -1656,7 +1656,7 @@ typedef npy_ulong __pyx_t_5numpy_uint_t;
  */
 typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":760
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":760
  * ctypedef npy_ulonglong  ulonglong_t
  * 
  * ctypedef npy_intp       intp_t             # <<<<<<<<<<<<<<
@@ -1665,7 +1665,7 @@ typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;
  */
 typedef npy_intp __pyx_t_5numpy_intp_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":761
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":761
  * 
  * ctypedef npy_intp       intp_t
  * ctypedef npy_uintp      uintp_t             # <<<<<<<<<<<<<<
@@ -1674,7 +1674,7 @@ typedef npy_intp __pyx_t_5numpy_intp_t;
  */
 typedef npy_uintp __pyx_t_5numpy_uintp_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":763
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":763
  * ctypedef npy_uintp      uintp_t
  * 
  * ctypedef npy_double     float_t             # <<<<<<<<<<<<<<
@@ -1683,7 +1683,7 @@ typedef npy_uintp __pyx_t_5numpy_uintp_t;
  */
 typedef npy_double __pyx_t_5numpy_float_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":764
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":764
  * 
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t             # <<<<<<<<<<<<<<
@@ -1692,7 +1692,7 @@ typedef npy_double __pyx_t_5numpy_float_t;
  */
 typedef npy_double __pyx_t_5numpy_double_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":765
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":765
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t
  * ctypedef npy_longdouble longdouble_t             # <<<<<<<<<<<<<<
@@ -1729,7 +1729,7 @@ static CYTHON_INLINE __pyx_t_double_complex __pyx_t_double_complex_from_parts(do
 
 /*--- Type declarations ---*/
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":767
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":767
  * ctypedef npy_longdouble longdouble_t
  * 
  * ctypedef npy_cfloat      cfloat_t             # <<<<<<<<<<<<<<
@@ -1738,7 +1738,7 @@ static CYTHON_INLINE __pyx_t_double_complex __pyx_t_double_complex_from_parts(do
  */
 typedef npy_cfloat __pyx_t_5numpy_cfloat_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":768
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":768
  * 
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t             # <<<<<<<<<<<<<<
@@ -1747,7 +1747,7 @@ typedef npy_cfloat __pyx_t_5numpy_cfloat_t;
  */
 typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":769
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":769
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t
  * ctypedef npy_clongdouble clongdouble_t             # <<<<<<<<<<<<<<
@@ -1756,7 +1756,7 @@ typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
  */
 typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":771
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":771
  * ctypedef npy_clongdouble clongdouble_t
  * 
  * ctypedef npy_cdouble     complex_t             # <<<<<<<<<<<<<<
@@ -2685,7 +2685,7 @@ static const char __pyx_k_TAN[] = "TAN";
 static const char __pyx_k_TSF[] = "TSF";
 static const char __pyx_k_VAR[] = "VAR";
 static const char __pyx_k_WMA[] = "WMA";
-static const char __pyx_k__37[] = ".";
+static const char __pyx_k__36[] = ".";
 static const char __pyx_k_all[] = "__all__";
 static const char __pyx_k_doc[] = "__doc__";
 static const char __pyx_k_low[] = "low";
@@ -2713,7 +2713,7 @@ static const char __pyx_k_SQRT[] = "SQRT";
 static const char __pyx_k_TANH[] = "TANH";
 static const char __pyx_k_TEMA[] = "TEMA";
 static const char __pyx_k_TRIX[] = "TRIX";
-static const char __pyx_k__234[] = "?";
+static const char __pyx_k__233[] = "?";
 static const char __pyx_k_dict[] = "__dict__";
 static const char __pyx_k_high[] = "high";
 static const char __pyx_k_init[] = "__init__";
@@ -3089,7 +3089,6 @@ static const char __pyx_k_TA_LINEARREG_ANGLE[] = "TA_LINEARREG_ANGLE";
 static const char __pyx_k_TA_LINEARREG_SLOPE[] = "TA_LINEARREG_SLOPE";
 static const char __pyx_k_asyncio_coroutines[] = "asyncio.coroutines";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
-static const char __pyx_k_inputs_are_all_NaN[] = "inputs are all NaN";
 static const char __pyx_k_CDLCONCEALBABYSWALL[] = "CDLCONCEALBABYSWALL";
 static const char __pyx_k_CDLGAPSIDESIDEWHITE[] = "CDLGAPSIDESIDEWHITE";
 static const char __pyx_k_CDLRISEFALL3METHODS[] = "CDLRISEFALL3METHODS";
@@ -3772,8 +3771,8 @@ typedef struct {
   PyObject *__pyx_n_s_WILLR;
   PyObject *__pyx_n_s_WMA;
   PyObject *__pyx_kp_s_Weighted_Moving_Average;
-  PyObject *__pyx_n_s__234;
-  PyObject *__pyx_kp_u__37;
+  PyObject *__pyx_n_s__233;
+  PyObject *__pyx_kp_u__36;
   PyObject *__pyx_n_s_acceleration;
   PyObject *__pyx_n_s_accelerationinitlong;
   PyObject *__pyx_n_s_accelerationinitshort;
@@ -3810,7 +3809,6 @@ typedef struct {
   PyObject *__pyx_kp_s_input_array_has_wrong_dimensions;
   PyObject *__pyx_kp_s_input_array_lengths_are_differen;
   PyObject *__pyx_kp_s_input_array_type_is_not_double;
-  PyObject *__pyx_kp_s_inputs_are_all_NaN;
   PyObject *__pyx_n_s_is_coroutine;
   PyObject *__pyx_n_s_length;
   PyObject *__pyx_n_s_lookback;
@@ -3927,98 +3925,98 @@ typedef struct {
   PyObject *__pyx_tuple__4;
   PyObject *__pyx_tuple__5;
   PyObject *__pyx_tuple__6;
-  PyObject *__pyx_tuple__7;
-  PyObject *__pyx_tuple__9;
+  PyObject *__pyx_tuple__8;
+  PyObject *__pyx_tuple__11;
   PyObject *__pyx_tuple__12;
   PyObject *__pyx_tuple__13;
   PyObject *__pyx_tuple__14;
-  PyObject *__pyx_tuple__15;
-  PyObject *__pyx_tuple__17;
-  PyObject *__pyx_tuple__19;
-  PyObject *__pyx_tuple__21;
-  PyObject *__pyx_tuple__23;
-  PyObject *__pyx_tuple__25;
+  PyObject *__pyx_tuple__16;
+  PyObject *__pyx_tuple__18;
+  PyObject *__pyx_tuple__20;
+  PyObject *__pyx_tuple__22;
+  PyObject *__pyx_tuple__24;
+  PyObject *__pyx_tuple__26;
   PyObject *__pyx_tuple__27;
   PyObject *__pyx_tuple__28;
   PyObject *__pyx_tuple__29;
   PyObject *__pyx_tuple__30;
   PyObject *__pyx_tuple__31;
   PyObject *__pyx_tuple__32;
-  PyObject *__pyx_tuple__33;
-  PyObject *__pyx_tuple__35;
-  PyObject *__pyx_tuple__38;
-  PyObject *__pyx_tuple__40;
-  PyObject *__pyx_tuple__42;
-  PyObject *__pyx_tuple__44;
-  PyObject *__pyx_tuple__46;
-  PyObject *__pyx_tuple__49;
-  PyObject *__pyx_tuple__51;
-  PyObject *__pyx_tuple__53;
-  PyObject *__pyx_tuple__58;
-  PyObject *__pyx_tuple__60;
-  PyObject *__pyx_tuple__62;
-  PyObject *__pyx_tuple__66;
-  PyObject *__pyx_tuple__74;
-  PyObject *__pyx_codeobj__8;
-  PyObject *__pyx_tuple__130;
-  PyObject *__pyx_tuple__143;
-  PyObject *__pyx_tuple__145;
-  PyObject *__pyx_tuple__148;
-  PyObject *__pyx_tuple__157;
-  PyObject *__pyx_tuple__159;
-  PyObject *__pyx_tuple__161;
-  PyObject *__pyx_tuple__163;
-  PyObject *__pyx_tuple__165;
-  PyObject *__pyx_tuple__167;
-  PyObject *__pyx_tuple__170;
-  PyObject *__pyx_tuple__172;
-  PyObject *__pyx_tuple__174;
-  PyObject *__pyx_tuple__180;
-  PyObject *__pyx_tuple__182;
-  PyObject *__pyx_tuple__189;
-  PyObject *__pyx_tuple__199;
-  PyObject *__pyx_tuple__201;
-  PyObject *__pyx_tuple__207;
-  PyObject *__pyx_tuple__209;
-  PyObject *__pyx_tuple__211;
-  PyObject *__pyx_tuple__213;
-  PyObject *__pyx_tuple__217;
-  PyObject *__pyx_tuple__222;
-  PyObject *__pyx_tuple__228;
+  PyObject *__pyx_tuple__34;
+  PyObject *__pyx_tuple__37;
+  PyObject *__pyx_tuple__39;
+  PyObject *__pyx_tuple__41;
+  PyObject *__pyx_tuple__43;
+  PyObject *__pyx_tuple__45;
+  PyObject *__pyx_tuple__48;
+  PyObject *__pyx_tuple__50;
+  PyObject *__pyx_tuple__52;
+  PyObject *__pyx_tuple__57;
+  PyObject *__pyx_tuple__59;
+  PyObject *__pyx_tuple__61;
+  PyObject *__pyx_tuple__65;
+  PyObject *__pyx_tuple__73;
+  PyObject *__pyx_codeobj__7;
+  PyObject *__pyx_codeobj__9;
+  PyObject *__pyx_tuple__129;
+  PyObject *__pyx_tuple__142;
+  PyObject *__pyx_tuple__144;
+  PyObject *__pyx_tuple__147;
+  PyObject *__pyx_tuple__156;
+  PyObject *__pyx_tuple__158;
+  PyObject *__pyx_tuple__160;
+  PyObject *__pyx_tuple__162;
+  PyObject *__pyx_tuple__164;
+  PyObject *__pyx_tuple__166;
+  PyObject *__pyx_tuple__169;
+  PyObject *__pyx_tuple__171;
+  PyObject *__pyx_tuple__173;
+  PyObject *__pyx_tuple__179;
+  PyObject *__pyx_tuple__181;
+  PyObject *__pyx_tuple__188;
+  PyObject *__pyx_tuple__198;
+  PyObject *__pyx_tuple__200;
+  PyObject *__pyx_tuple__206;
+  PyObject *__pyx_tuple__208;
+  PyObject *__pyx_tuple__210;
+  PyObject *__pyx_tuple__212;
+  PyObject *__pyx_tuple__216;
+  PyObject *__pyx_tuple__221;
+  PyObject *__pyx_tuple__227;
   PyObject *__pyx_codeobj__10;
-  PyObject *__pyx_codeobj__11;
-  PyObject *__pyx_codeobj__16;
-  PyObject *__pyx_codeobj__18;
-  PyObject *__pyx_codeobj__20;
-  PyObject *__pyx_codeobj__22;
-  PyObject *__pyx_codeobj__24;
-  PyObject *__pyx_codeobj__26;
-  PyObject *__pyx_codeobj__34;
-  PyObject *__pyx_codeobj__36;
-  PyObject *__pyx_codeobj__39;
-  PyObject *__pyx_codeobj__41;
-  PyObject *__pyx_codeobj__43;
-  PyObject *__pyx_codeobj__45;
+  PyObject *__pyx_codeobj__15;
+  PyObject *__pyx_codeobj__17;
+  PyObject *__pyx_codeobj__19;
+  PyObject *__pyx_codeobj__21;
+  PyObject *__pyx_codeobj__23;
+  PyObject *__pyx_codeobj__25;
+  PyObject *__pyx_codeobj__33;
+  PyObject *__pyx_codeobj__35;
+  PyObject *__pyx_codeobj__38;
+  PyObject *__pyx_codeobj__40;
+  PyObject *__pyx_codeobj__42;
+  PyObject *__pyx_codeobj__44;
+  PyObject *__pyx_codeobj__46;
   PyObject *__pyx_codeobj__47;
-  PyObject *__pyx_codeobj__48;
-  PyObject *__pyx_codeobj__50;
-  PyObject *__pyx_codeobj__52;
+  PyObject *__pyx_codeobj__49;
+  PyObject *__pyx_codeobj__51;
+  PyObject *__pyx_codeobj__53;
   PyObject *__pyx_codeobj__54;
   PyObject *__pyx_codeobj__55;
   PyObject *__pyx_codeobj__56;
-  PyObject *__pyx_codeobj__57;
-  PyObject *__pyx_codeobj__59;
-  PyObject *__pyx_codeobj__61;
+  PyObject *__pyx_codeobj__58;
+  PyObject *__pyx_codeobj__60;
+  PyObject *__pyx_codeobj__62;
   PyObject *__pyx_codeobj__63;
   PyObject *__pyx_codeobj__64;
-  PyObject *__pyx_codeobj__65;
+  PyObject *__pyx_codeobj__66;
   PyObject *__pyx_codeobj__67;
   PyObject *__pyx_codeobj__68;
   PyObject *__pyx_codeobj__69;
   PyObject *__pyx_codeobj__70;
   PyObject *__pyx_codeobj__71;
   PyObject *__pyx_codeobj__72;
-  PyObject *__pyx_codeobj__73;
+  PyObject *__pyx_codeobj__74;
   PyObject *__pyx_codeobj__75;
   PyObject *__pyx_codeobj__76;
   PyObject *__pyx_codeobj__77;
@@ -4073,7 +4071,7 @@ typedef struct {
   PyObject *__pyx_codeobj__126;
   PyObject *__pyx_codeobj__127;
   PyObject *__pyx_codeobj__128;
-  PyObject *__pyx_codeobj__129;
+  PyObject *__pyx_codeobj__130;
   PyObject *__pyx_codeobj__131;
   PyObject *__pyx_codeobj__132;
   PyObject *__pyx_codeobj__133;
@@ -4085,10 +4083,10 @@ typedef struct {
   PyObject *__pyx_codeobj__139;
   PyObject *__pyx_codeobj__140;
   PyObject *__pyx_codeobj__141;
-  PyObject *__pyx_codeobj__142;
-  PyObject *__pyx_codeobj__144;
+  PyObject *__pyx_codeobj__143;
+  PyObject *__pyx_codeobj__145;
   PyObject *__pyx_codeobj__146;
-  PyObject *__pyx_codeobj__147;
+  PyObject *__pyx_codeobj__148;
   PyObject *__pyx_codeobj__149;
   PyObject *__pyx_codeobj__150;
   PyObject *__pyx_codeobj__151;
@@ -4096,28 +4094,28 @@ typedef struct {
   PyObject *__pyx_codeobj__153;
   PyObject *__pyx_codeobj__154;
   PyObject *__pyx_codeobj__155;
-  PyObject *__pyx_codeobj__156;
-  PyObject *__pyx_codeobj__158;
-  PyObject *__pyx_codeobj__160;
-  PyObject *__pyx_codeobj__162;
-  PyObject *__pyx_codeobj__164;
-  PyObject *__pyx_codeobj__166;
+  PyObject *__pyx_codeobj__157;
+  PyObject *__pyx_codeobj__159;
+  PyObject *__pyx_codeobj__161;
+  PyObject *__pyx_codeobj__163;
+  PyObject *__pyx_codeobj__165;
+  PyObject *__pyx_codeobj__167;
   PyObject *__pyx_codeobj__168;
-  PyObject *__pyx_codeobj__169;
-  PyObject *__pyx_codeobj__171;
-  PyObject *__pyx_codeobj__173;
+  PyObject *__pyx_codeobj__170;
+  PyObject *__pyx_codeobj__172;
+  PyObject *__pyx_codeobj__174;
   PyObject *__pyx_codeobj__175;
   PyObject *__pyx_codeobj__176;
   PyObject *__pyx_codeobj__177;
   PyObject *__pyx_codeobj__178;
-  PyObject *__pyx_codeobj__179;
-  PyObject *__pyx_codeobj__181;
+  PyObject *__pyx_codeobj__180;
+  PyObject *__pyx_codeobj__182;
   PyObject *__pyx_codeobj__183;
   PyObject *__pyx_codeobj__184;
   PyObject *__pyx_codeobj__185;
   PyObject *__pyx_codeobj__186;
   PyObject *__pyx_codeobj__187;
-  PyObject *__pyx_codeobj__188;
+  PyObject *__pyx_codeobj__189;
   PyObject *__pyx_codeobj__190;
   PyObject *__pyx_codeobj__191;
   PyObject *__pyx_codeobj__192;
@@ -4126,33 +4124,32 @@ typedef struct {
   PyObject *__pyx_codeobj__195;
   PyObject *__pyx_codeobj__196;
   PyObject *__pyx_codeobj__197;
-  PyObject *__pyx_codeobj__198;
-  PyObject *__pyx_codeobj__200;
+  PyObject *__pyx_codeobj__199;
+  PyObject *__pyx_codeobj__201;
   PyObject *__pyx_codeobj__202;
   PyObject *__pyx_codeobj__203;
   PyObject *__pyx_codeobj__204;
   PyObject *__pyx_codeobj__205;
-  PyObject *__pyx_codeobj__206;
-  PyObject *__pyx_codeobj__208;
-  PyObject *__pyx_codeobj__210;
-  PyObject *__pyx_codeobj__212;
+  PyObject *__pyx_codeobj__207;
+  PyObject *__pyx_codeobj__209;
+  PyObject *__pyx_codeobj__211;
+  PyObject *__pyx_codeobj__213;
   PyObject *__pyx_codeobj__214;
   PyObject *__pyx_codeobj__215;
-  PyObject *__pyx_codeobj__216;
+  PyObject *__pyx_codeobj__217;
   PyObject *__pyx_codeobj__218;
   PyObject *__pyx_codeobj__219;
   PyObject *__pyx_codeobj__220;
-  PyObject *__pyx_codeobj__221;
+  PyObject *__pyx_codeobj__222;
   PyObject *__pyx_codeobj__223;
   PyObject *__pyx_codeobj__224;
   PyObject *__pyx_codeobj__225;
   PyObject *__pyx_codeobj__226;
-  PyObject *__pyx_codeobj__227;
+  PyObject *__pyx_codeobj__228;
   PyObject *__pyx_codeobj__229;
   PyObject *__pyx_codeobj__230;
   PyObject *__pyx_codeobj__231;
   PyObject *__pyx_codeobj__232;
-  PyObject *__pyx_codeobj__233;
 } __pyx_mstate;
 
 #if CYTHON_USE_MODULE_STATE
@@ -4585,8 +4582,8 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_n_s_WILLR);
   Py_CLEAR(clear_module_state->__pyx_n_s_WMA);
   Py_CLEAR(clear_module_state->__pyx_kp_s_Weighted_Moving_Average);
-  Py_CLEAR(clear_module_state->__pyx_n_s__234);
-  Py_CLEAR(clear_module_state->__pyx_kp_u__37);
+  Py_CLEAR(clear_module_state->__pyx_n_s__233);
+  Py_CLEAR(clear_module_state->__pyx_kp_u__36);
   Py_CLEAR(clear_module_state->__pyx_n_s_acceleration);
   Py_CLEAR(clear_module_state->__pyx_n_s_accelerationinitlong);
   Py_CLEAR(clear_module_state->__pyx_n_s_accelerationinitshort);
@@ -4623,7 +4620,6 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_kp_s_input_array_has_wrong_dimensions);
   Py_CLEAR(clear_module_state->__pyx_kp_s_input_array_lengths_are_differen);
   Py_CLEAR(clear_module_state->__pyx_kp_s_input_array_type_is_not_double);
-  Py_CLEAR(clear_module_state->__pyx_kp_s_inputs_are_all_NaN);
   Py_CLEAR(clear_module_state->__pyx_n_s_is_coroutine);
   Py_CLEAR(clear_module_state->__pyx_n_s_length);
   Py_CLEAR(clear_module_state->__pyx_n_s_lookback);
@@ -4740,98 +4736,98 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_tuple__4);
   Py_CLEAR(clear_module_state->__pyx_tuple__5);
   Py_CLEAR(clear_module_state->__pyx_tuple__6);
-  Py_CLEAR(clear_module_state->__pyx_tuple__7);
-  Py_CLEAR(clear_module_state->__pyx_tuple__9);
+  Py_CLEAR(clear_module_state->__pyx_tuple__8);
+  Py_CLEAR(clear_module_state->__pyx_tuple__11);
   Py_CLEAR(clear_module_state->__pyx_tuple__12);
   Py_CLEAR(clear_module_state->__pyx_tuple__13);
   Py_CLEAR(clear_module_state->__pyx_tuple__14);
-  Py_CLEAR(clear_module_state->__pyx_tuple__15);
-  Py_CLEAR(clear_module_state->__pyx_tuple__17);
-  Py_CLEAR(clear_module_state->__pyx_tuple__19);
-  Py_CLEAR(clear_module_state->__pyx_tuple__21);
-  Py_CLEAR(clear_module_state->__pyx_tuple__23);
-  Py_CLEAR(clear_module_state->__pyx_tuple__25);
+  Py_CLEAR(clear_module_state->__pyx_tuple__16);
+  Py_CLEAR(clear_module_state->__pyx_tuple__18);
+  Py_CLEAR(clear_module_state->__pyx_tuple__20);
+  Py_CLEAR(clear_module_state->__pyx_tuple__22);
+  Py_CLEAR(clear_module_state->__pyx_tuple__24);
+  Py_CLEAR(clear_module_state->__pyx_tuple__26);
   Py_CLEAR(clear_module_state->__pyx_tuple__27);
   Py_CLEAR(clear_module_state->__pyx_tuple__28);
   Py_CLEAR(clear_module_state->__pyx_tuple__29);
   Py_CLEAR(clear_module_state->__pyx_tuple__30);
   Py_CLEAR(clear_module_state->__pyx_tuple__31);
   Py_CLEAR(clear_module_state->__pyx_tuple__32);
-  Py_CLEAR(clear_module_state->__pyx_tuple__33);
-  Py_CLEAR(clear_module_state->__pyx_tuple__35);
-  Py_CLEAR(clear_module_state->__pyx_tuple__38);
-  Py_CLEAR(clear_module_state->__pyx_tuple__40);
-  Py_CLEAR(clear_module_state->__pyx_tuple__42);
-  Py_CLEAR(clear_module_state->__pyx_tuple__44);
-  Py_CLEAR(clear_module_state->__pyx_tuple__46);
-  Py_CLEAR(clear_module_state->__pyx_tuple__49);
-  Py_CLEAR(clear_module_state->__pyx_tuple__51);
-  Py_CLEAR(clear_module_state->__pyx_tuple__53);
-  Py_CLEAR(clear_module_state->__pyx_tuple__58);
-  Py_CLEAR(clear_module_state->__pyx_tuple__60);
-  Py_CLEAR(clear_module_state->__pyx_tuple__62);
-  Py_CLEAR(clear_module_state->__pyx_tuple__66);
-  Py_CLEAR(clear_module_state->__pyx_tuple__74);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__8);
-  Py_CLEAR(clear_module_state->__pyx_tuple__130);
-  Py_CLEAR(clear_module_state->__pyx_tuple__143);
-  Py_CLEAR(clear_module_state->__pyx_tuple__145);
-  Py_CLEAR(clear_module_state->__pyx_tuple__148);
-  Py_CLEAR(clear_module_state->__pyx_tuple__157);
-  Py_CLEAR(clear_module_state->__pyx_tuple__159);
-  Py_CLEAR(clear_module_state->__pyx_tuple__161);
-  Py_CLEAR(clear_module_state->__pyx_tuple__163);
-  Py_CLEAR(clear_module_state->__pyx_tuple__165);
-  Py_CLEAR(clear_module_state->__pyx_tuple__167);
-  Py_CLEAR(clear_module_state->__pyx_tuple__170);
-  Py_CLEAR(clear_module_state->__pyx_tuple__172);
-  Py_CLEAR(clear_module_state->__pyx_tuple__174);
-  Py_CLEAR(clear_module_state->__pyx_tuple__180);
-  Py_CLEAR(clear_module_state->__pyx_tuple__182);
-  Py_CLEAR(clear_module_state->__pyx_tuple__189);
-  Py_CLEAR(clear_module_state->__pyx_tuple__199);
-  Py_CLEAR(clear_module_state->__pyx_tuple__201);
-  Py_CLEAR(clear_module_state->__pyx_tuple__207);
-  Py_CLEAR(clear_module_state->__pyx_tuple__209);
-  Py_CLEAR(clear_module_state->__pyx_tuple__211);
-  Py_CLEAR(clear_module_state->__pyx_tuple__213);
-  Py_CLEAR(clear_module_state->__pyx_tuple__217);
-  Py_CLEAR(clear_module_state->__pyx_tuple__222);
-  Py_CLEAR(clear_module_state->__pyx_tuple__228);
+  Py_CLEAR(clear_module_state->__pyx_tuple__34);
+  Py_CLEAR(clear_module_state->__pyx_tuple__37);
+  Py_CLEAR(clear_module_state->__pyx_tuple__39);
+  Py_CLEAR(clear_module_state->__pyx_tuple__41);
+  Py_CLEAR(clear_module_state->__pyx_tuple__43);
+  Py_CLEAR(clear_module_state->__pyx_tuple__45);
+  Py_CLEAR(clear_module_state->__pyx_tuple__48);
+  Py_CLEAR(clear_module_state->__pyx_tuple__50);
+  Py_CLEAR(clear_module_state->__pyx_tuple__52);
+  Py_CLEAR(clear_module_state->__pyx_tuple__57);
+  Py_CLEAR(clear_module_state->__pyx_tuple__59);
+  Py_CLEAR(clear_module_state->__pyx_tuple__61);
+  Py_CLEAR(clear_module_state->__pyx_tuple__65);
+  Py_CLEAR(clear_module_state->__pyx_tuple__73);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__7);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__9);
+  Py_CLEAR(clear_module_state->__pyx_tuple__129);
+  Py_CLEAR(clear_module_state->__pyx_tuple__142);
+  Py_CLEAR(clear_module_state->__pyx_tuple__144);
+  Py_CLEAR(clear_module_state->__pyx_tuple__147);
+  Py_CLEAR(clear_module_state->__pyx_tuple__156);
+  Py_CLEAR(clear_module_state->__pyx_tuple__158);
+  Py_CLEAR(clear_module_state->__pyx_tuple__160);
+  Py_CLEAR(clear_module_state->__pyx_tuple__162);
+  Py_CLEAR(clear_module_state->__pyx_tuple__164);
+  Py_CLEAR(clear_module_state->__pyx_tuple__166);
+  Py_CLEAR(clear_module_state->__pyx_tuple__169);
+  Py_CLEAR(clear_module_state->__pyx_tuple__171);
+  Py_CLEAR(clear_module_state->__pyx_tuple__173);
+  Py_CLEAR(clear_module_state->__pyx_tuple__179);
+  Py_CLEAR(clear_module_state->__pyx_tuple__181);
+  Py_CLEAR(clear_module_state->__pyx_tuple__188);
+  Py_CLEAR(clear_module_state->__pyx_tuple__198);
+  Py_CLEAR(clear_module_state->__pyx_tuple__200);
+  Py_CLEAR(clear_module_state->__pyx_tuple__206);
+  Py_CLEAR(clear_module_state->__pyx_tuple__208);
+  Py_CLEAR(clear_module_state->__pyx_tuple__210);
+  Py_CLEAR(clear_module_state->__pyx_tuple__212);
+  Py_CLEAR(clear_module_state->__pyx_tuple__216);
+  Py_CLEAR(clear_module_state->__pyx_tuple__221);
+  Py_CLEAR(clear_module_state->__pyx_tuple__227);
   Py_CLEAR(clear_module_state->__pyx_codeobj__10);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__11);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__16);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__18);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__20);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__22);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__24);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__26);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__34);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__36);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__39);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__41);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__43);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__45);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__15);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__17);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__19);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__21);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__23);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__25);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__33);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__35);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__38);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__40);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__42);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__44);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__46);
   Py_CLEAR(clear_module_state->__pyx_codeobj__47);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__48);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__50);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__52);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__49);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__51);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__53);
   Py_CLEAR(clear_module_state->__pyx_codeobj__54);
   Py_CLEAR(clear_module_state->__pyx_codeobj__55);
   Py_CLEAR(clear_module_state->__pyx_codeobj__56);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__57);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__59);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__61);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__58);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__60);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__62);
   Py_CLEAR(clear_module_state->__pyx_codeobj__63);
   Py_CLEAR(clear_module_state->__pyx_codeobj__64);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__65);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__66);
   Py_CLEAR(clear_module_state->__pyx_codeobj__67);
   Py_CLEAR(clear_module_state->__pyx_codeobj__68);
   Py_CLEAR(clear_module_state->__pyx_codeobj__69);
   Py_CLEAR(clear_module_state->__pyx_codeobj__70);
   Py_CLEAR(clear_module_state->__pyx_codeobj__71);
   Py_CLEAR(clear_module_state->__pyx_codeobj__72);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__73);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__74);
   Py_CLEAR(clear_module_state->__pyx_codeobj__75);
   Py_CLEAR(clear_module_state->__pyx_codeobj__76);
   Py_CLEAR(clear_module_state->__pyx_codeobj__77);
@@ -4886,7 +4882,7 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_codeobj__126);
   Py_CLEAR(clear_module_state->__pyx_codeobj__127);
   Py_CLEAR(clear_module_state->__pyx_codeobj__128);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__129);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__130);
   Py_CLEAR(clear_module_state->__pyx_codeobj__131);
   Py_CLEAR(clear_module_state->__pyx_codeobj__132);
   Py_CLEAR(clear_module_state->__pyx_codeobj__133);
@@ -4898,10 +4894,10 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_codeobj__139);
   Py_CLEAR(clear_module_state->__pyx_codeobj__140);
   Py_CLEAR(clear_module_state->__pyx_codeobj__141);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__142);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__144);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__143);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__145);
   Py_CLEAR(clear_module_state->__pyx_codeobj__146);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__147);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__148);
   Py_CLEAR(clear_module_state->__pyx_codeobj__149);
   Py_CLEAR(clear_module_state->__pyx_codeobj__150);
   Py_CLEAR(clear_module_state->__pyx_codeobj__151);
@@ -4909,28 +4905,28 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_codeobj__153);
   Py_CLEAR(clear_module_state->__pyx_codeobj__154);
   Py_CLEAR(clear_module_state->__pyx_codeobj__155);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__156);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__158);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__160);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__162);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__164);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__166);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__157);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__159);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__161);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__163);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__165);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__167);
   Py_CLEAR(clear_module_state->__pyx_codeobj__168);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__169);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__171);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__173);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__170);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__172);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__174);
   Py_CLEAR(clear_module_state->__pyx_codeobj__175);
   Py_CLEAR(clear_module_state->__pyx_codeobj__176);
   Py_CLEAR(clear_module_state->__pyx_codeobj__177);
   Py_CLEAR(clear_module_state->__pyx_codeobj__178);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__179);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__181);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__180);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__182);
   Py_CLEAR(clear_module_state->__pyx_codeobj__183);
   Py_CLEAR(clear_module_state->__pyx_codeobj__184);
   Py_CLEAR(clear_module_state->__pyx_codeobj__185);
   Py_CLEAR(clear_module_state->__pyx_codeobj__186);
   Py_CLEAR(clear_module_state->__pyx_codeobj__187);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__188);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__189);
   Py_CLEAR(clear_module_state->__pyx_codeobj__190);
   Py_CLEAR(clear_module_state->__pyx_codeobj__191);
   Py_CLEAR(clear_module_state->__pyx_codeobj__192);
@@ -4939,33 +4935,32 @@ static int __pyx_m_clear(PyObject *m) {
   Py_CLEAR(clear_module_state->__pyx_codeobj__195);
   Py_CLEAR(clear_module_state->__pyx_codeobj__196);
   Py_CLEAR(clear_module_state->__pyx_codeobj__197);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__198);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__200);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__199);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__201);
   Py_CLEAR(clear_module_state->__pyx_codeobj__202);
   Py_CLEAR(clear_module_state->__pyx_codeobj__203);
   Py_CLEAR(clear_module_state->__pyx_codeobj__204);
   Py_CLEAR(clear_module_state->__pyx_codeobj__205);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__206);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__208);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__210);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__212);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__207);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__209);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__211);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__213);
   Py_CLEAR(clear_module_state->__pyx_codeobj__214);
   Py_CLEAR(clear_module_state->__pyx_codeobj__215);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__216);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__217);
   Py_CLEAR(clear_module_state->__pyx_codeobj__218);
   Py_CLEAR(clear_module_state->__pyx_codeobj__219);
   Py_CLEAR(clear_module_state->__pyx_codeobj__220);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__221);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__222);
   Py_CLEAR(clear_module_state->__pyx_codeobj__223);
   Py_CLEAR(clear_module_state->__pyx_codeobj__224);
   Py_CLEAR(clear_module_state->__pyx_codeobj__225);
   Py_CLEAR(clear_module_state->__pyx_codeobj__226);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__227);
+  Py_CLEAR(clear_module_state->__pyx_codeobj__228);
   Py_CLEAR(clear_module_state->__pyx_codeobj__229);
   Py_CLEAR(clear_module_state->__pyx_codeobj__230);
   Py_CLEAR(clear_module_state->__pyx_codeobj__231);
   Py_CLEAR(clear_module_state->__pyx_codeobj__232);
-  Py_CLEAR(clear_module_state->__pyx_codeobj__233);
   return 0;
 }
 #endif
@@ -5376,8 +5371,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_n_s_WILLR);
   Py_VISIT(traverse_module_state->__pyx_n_s_WMA);
   Py_VISIT(traverse_module_state->__pyx_kp_s_Weighted_Moving_Average);
-  Py_VISIT(traverse_module_state->__pyx_n_s__234);
-  Py_VISIT(traverse_module_state->__pyx_kp_u__37);
+  Py_VISIT(traverse_module_state->__pyx_n_s__233);
+  Py_VISIT(traverse_module_state->__pyx_kp_u__36);
   Py_VISIT(traverse_module_state->__pyx_n_s_acceleration);
   Py_VISIT(traverse_module_state->__pyx_n_s_accelerationinitlong);
   Py_VISIT(traverse_module_state->__pyx_n_s_accelerationinitshort);
@@ -5414,7 +5409,6 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_kp_s_input_array_has_wrong_dimensions);
   Py_VISIT(traverse_module_state->__pyx_kp_s_input_array_lengths_are_differen);
   Py_VISIT(traverse_module_state->__pyx_kp_s_input_array_type_is_not_double);
-  Py_VISIT(traverse_module_state->__pyx_kp_s_inputs_are_all_NaN);
   Py_VISIT(traverse_module_state->__pyx_n_s_is_coroutine);
   Py_VISIT(traverse_module_state->__pyx_n_s_length);
   Py_VISIT(traverse_module_state->__pyx_n_s_lookback);
@@ -5531,98 +5525,98 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_tuple__4);
   Py_VISIT(traverse_module_state->__pyx_tuple__5);
   Py_VISIT(traverse_module_state->__pyx_tuple__6);
-  Py_VISIT(traverse_module_state->__pyx_tuple__7);
-  Py_VISIT(traverse_module_state->__pyx_tuple__9);
+  Py_VISIT(traverse_module_state->__pyx_tuple__8);
+  Py_VISIT(traverse_module_state->__pyx_tuple__11);
   Py_VISIT(traverse_module_state->__pyx_tuple__12);
   Py_VISIT(traverse_module_state->__pyx_tuple__13);
   Py_VISIT(traverse_module_state->__pyx_tuple__14);
-  Py_VISIT(traverse_module_state->__pyx_tuple__15);
-  Py_VISIT(traverse_module_state->__pyx_tuple__17);
-  Py_VISIT(traverse_module_state->__pyx_tuple__19);
-  Py_VISIT(traverse_module_state->__pyx_tuple__21);
-  Py_VISIT(traverse_module_state->__pyx_tuple__23);
-  Py_VISIT(traverse_module_state->__pyx_tuple__25);
+  Py_VISIT(traverse_module_state->__pyx_tuple__16);
+  Py_VISIT(traverse_module_state->__pyx_tuple__18);
+  Py_VISIT(traverse_module_state->__pyx_tuple__20);
+  Py_VISIT(traverse_module_state->__pyx_tuple__22);
+  Py_VISIT(traverse_module_state->__pyx_tuple__24);
+  Py_VISIT(traverse_module_state->__pyx_tuple__26);
   Py_VISIT(traverse_module_state->__pyx_tuple__27);
   Py_VISIT(traverse_module_state->__pyx_tuple__28);
   Py_VISIT(traverse_module_state->__pyx_tuple__29);
   Py_VISIT(traverse_module_state->__pyx_tuple__30);
   Py_VISIT(traverse_module_state->__pyx_tuple__31);
   Py_VISIT(traverse_module_state->__pyx_tuple__32);
-  Py_VISIT(traverse_module_state->__pyx_tuple__33);
-  Py_VISIT(traverse_module_state->__pyx_tuple__35);
-  Py_VISIT(traverse_module_state->__pyx_tuple__38);
-  Py_VISIT(traverse_module_state->__pyx_tuple__40);
-  Py_VISIT(traverse_module_state->__pyx_tuple__42);
-  Py_VISIT(traverse_module_state->__pyx_tuple__44);
-  Py_VISIT(traverse_module_state->__pyx_tuple__46);
-  Py_VISIT(traverse_module_state->__pyx_tuple__49);
-  Py_VISIT(traverse_module_state->__pyx_tuple__51);
-  Py_VISIT(traverse_module_state->__pyx_tuple__53);
-  Py_VISIT(traverse_module_state->__pyx_tuple__58);
-  Py_VISIT(traverse_module_state->__pyx_tuple__60);
-  Py_VISIT(traverse_module_state->__pyx_tuple__62);
-  Py_VISIT(traverse_module_state->__pyx_tuple__66);
-  Py_VISIT(traverse_module_state->__pyx_tuple__74);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__8);
-  Py_VISIT(traverse_module_state->__pyx_tuple__130);
-  Py_VISIT(traverse_module_state->__pyx_tuple__143);
-  Py_VISIT(traverse_module_state->__pyx_tuple__145);
-  Py_VISIT(traverse_module_state->__pyx_tuple__148);
-  Py_VISIT(traverse_module_state->__pyx_tuple__157);
-  Py_VISIT(traverse_module_state->__pyx_tuple__159);
-  Py_VISIT(traverse_module_state->__pyx_tuple__161);
-  Py_VISIT(traverse_module_state->__pyx_tuple__163);
-  Py_VISIT(traverse_module_state->__pyx_tuple__165);
-  Py_VISIT(traverse_module_state->__pyx_tuple__167);
-  Py_VISIT(traverse_module_state->__pyx_tuple__170);
-  Py_VISIT(traverse_module_state->__pyx_tuple__172);
-  Py_VISIT(traverse_module_state->__pyx_tuple__174);
-  Py_VISIT(traverse_module_state->__pyx_tuple__180);
-  Py_VISIT(traverse_module_state->__pyx_tuple__182);
-  Py_VISIT(traverse_module_state->__pyx_tuple__189);
-  Py_VISIT(traverse_module_state->__pyx_tuple__199);
-  Py_VISIT(traverse_module_state->__pyx_tuple__201);
-  Py_VISIT(traverse_module_state->__pyx_tuple__207);
-  Py_VISIT(traverse_module_state->__pyx_tuple__209);
-  Py_VISIT(traverse_module_state->__pyx_tuple__211);
-  Py_VISIT(traverse_module_state->__pyx_tuple__213);
-  Py_VISIT(traverse_module_state->__pyx_tuple__217);
-  Py_VISIT(traverse_module_state->__pyx_tuple__222);
-  Py_VISIT(traverse_module_state->__pyx_tuple__228);
+  Py_VISIT(traverse_module_state->__pyx_tuple__34);
+  Py_VISIT(traverse_module_state->__pyx_tuple__37);
+  Py_VISIT(traverse_module_state->__pyx_tuple__39);
+  Py_VISIT(traverse_module_state->__pyx_tuple__41);
+  Py_VISIT(traverse_module_state->__pyx_tuple__43);
+  Py_VISIT(traverse_module_state->__pyx_tuple__45);
+  Py_VISIT(traverse_module_state->__pyx_tuple__48);
+  Py_VISIT(traverse_module_state->__pyx_tuple__50);
+  Py_VISIT(traverse_module_state->__pyx_tuple__52);
+  Py_VISIT(traverse_module_state->__pyx_tuple__57);
+  Py_VISIT(traverse_module_state->__pyx_tuple__59);
+  Py_VISIT(traverse_module_state->__pyx_tuple__61);
+  Py_VISIT(traverse_module_state->__pyx_tuple__65);
+  Py_VISIT(traverse_module_state->__pyx_tuple__73);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__7);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__9);
+  Py_VISIT(traverse_module_state->__pyx_tuple__129);
+  Py_VISIT(traverse_module_state->__pyx_tuple__142);
+  Py_VISIT(traverse_module_state->__pyx_tuple__144);
+  Py_VISIT(traverse_module_state->__pyx_tuple__147);
+  Py_VISIT(traverse_module_state->__pyx_tuple__156);
+  Py_VISIT(traverse_module_state->__pyx_tuple__158);
+  Py_VISIT(traverse_module_state->__pyx_tuple__160);
+  Py_VISIT(traverse_module_state->__pyx_tuple__162);
+  Py_VISIT(traverse_module_state->__pyx_tuple__164);
+  Py_VISIT(traverse_module_state->__pyx_tuple__166);
+  Py_VISIT(traverse_module_state->__pyx_tuple__169);
+  Py_VISIT(traverse_module_state->__pyx_tuple__171);
+  Py_VISIT(traverse_module_state->__pyx_tuple__173);
+  Py_VISIT(traverse_module_state->__pyx_tuple__179);
+  Py_VISIT(traverse_module_state->__pyx_tuple__181);
+  Py_VISIT(traverse_module_state->__pyx_tuple__188);
+  Py_VISIT(traverse_module_state->__pyx_tuple__198);
+  Py_VISIT(traverse_module_state->__pyx_tuple__200);
+  Py_VISIT(traverse_module_state->__pyx_tuple__206);
+  Py_VISIT(traverse_module_state->__pyx_tuple__208);
+  Py_VISIT(traverse_module_state->__pyx_tuple__210);
+  Py_VISIT(traverse_module_state->__pyx_tuple__212);
+  Py_VISIT(traverse_module_state->__pyx_tuple__216);
+  Py_VISIT(traverse_module_state->__pyx_tuple__221);
+  Py_VISIT(traverse_module_state->__pyx_tuple__227);
   Py_VISIT(traverse_module_state->__pyx_codeobj__10);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__11);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__16);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__18);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__20);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__22);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__24);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__26);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__34);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__36);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__39);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__41);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__43);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__45);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__15);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__17);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__19);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__21);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__23);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__25);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__33);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__35);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__38);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__40);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__42);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__44);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__46);
   Py_VISIT(traverse_module_state->__pyx_codeobj__47);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__48);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__50);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__52);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__49);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__51);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__53);
   Py_VISIT(traverse_module_state->__pyx_codeobj__54);
   Py_VISIT(traverse_module_state->__pyx_codeobj__55);
   Py_VISIT(traverse_module_state->__pyx_codeobj__56);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__57);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__59);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__61);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__58);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__60);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__62);
   Py_VISIT(traverse_module_state->__pyx_codeobj__63);
   Py_VISIT(traverse_module_state->__pyx_codeobj__64);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__65);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__66);
   Py_VISIT(traverse_module_state->__pyx_codeobj__67);
   Py_VISIT(traverse_module_state->__pyx_codeobj__68);
   Py_VISIT(traverse_module_state->__pyx_codeobj__69);
   Py_VISIT(traverse_module_state->__pyx_codeobj__70);
   Py_VISIT(traverse_module_state->__pyx_codeobj__71);
   Py_VISIT(traverse_module_state->__pyx_codeobj__72);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__73);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__74);
   Py_VISIT(traverse_module_state->__pyx_codeobj__75);
   Py_VISIT(traverse_module_state->__pyx_codeobj__76);
   Py_VISIT(traverse_module_state->__pyx_codeobj__77);
@@ -5677,7 +5671,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_codeobj__126);
   Py_VISIT(traverse_module_state->__pyx_codeobj__127);
   Py_VISIT(traverse_module_state->__pyx_codeobj__128);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__129);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__130);
   Py_VISIT(traverse_module_state->__pyx_codeobj__131);
   Py_VISIT(traverse_module_state->__pyx_codeobj__132);
   Py_VISIT(traverse_module_state->__pyx_codeobj__133);
@@ -5689,10 +5683,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_codeobj__139);
   Py_VISIT(traverse_module_state->__pyx_codeobj__140);
   Py_VISIT(traverse_module_state->__pyx_codeobj__141);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__142);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__144);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__143);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__145);
   Py_VISIT(traverse_module_state->__pyx_codeobj__146);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__147);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__148);
   Py_VISIT(traverse_module_state->__pyx_codeobj__149);
   Py_VISIT(traverse_module_state->__pyx_codeobj__150);
   Py_VISIT(traverse_module_state->__pyx_codeobj__151);
@@ -5700,28 +5694,28 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_codeobj__153);
   Py_VISIT(traverse_module_state->__pyx_codeobj__154);
   Py_VISIT(traverse_module_state->__pyx_codeobj__155);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__156);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__158);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__160);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__162);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__164);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__166);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__157);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__159);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__161);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__163);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__165);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__167);
   Py_VISIT(traverse_module_state->__pyx_codeobj__168);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__169);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__171);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__173);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__170);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__172);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__174);
   Py_VISIT(traverse_module_state->__pyx_codeobj__175);
   Py_VISIT(traverse_module_state->__pyx_codeobj__176);
   Py_VISIT(traverse_module_state->__pyx_codeobj__177);
   Py_VISIT(traverse_module_state->__pyx_codeobj__178);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__179);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__181);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__180);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__182);
   Py_VISIT(traverse_module_state->__pyx_codeobj__183);
   Py_VISIT(traverse_module_state->__pyx_codeobj__184);
   Py_VISIT(traverse_module_state->__pyx_codeobj__185);
   Py_VISIT(traverse_module_state->__pyx_codeobj__186);
   Py_VISIT(traverse_module_state->__pyx_codeobj__187);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__188);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__189);
   Py_VISIT(traverse_module_state->__pyx_codeobj__190);
   Py_VISIT(traverse_module_state->__pyx_codeobj__191);
   Py_VISIT(traverse_module_state->__pyx_codeobj__192);
@@ -5730,33 +5724,32 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
   Py_VISIT(traverse_module_state->__pyx_codeobj__195);
   Py_VISIT(traverse_module_state->__pyx_codeobj__196);
   Py_VISIT(traverse_module_state->__pyx_codeobj__197);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__198);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__200);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__199);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__201);
   Py_VISIT(traverse_module_state->__pyx_codeobj__202);
   Py_VISIT(traverse_module_state->__pyx_codeobj__203);
   Py_VISIT(traverse_module_state->__pyx_codeobj__204);
   Py_VISIT(traverse_module_state->__pyx_codeobj__205);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__206);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__208);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__210);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__212);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__207);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__209);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__211);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__213);
   Py_VISIT(traverse_module_state->__pyx_codeobj__214);
   Py_VISIT(traverse_module_state->__pyx_codeobj__215);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__216);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__217);
   Py_VISIT(traverse_module_state->__pyx_codeobj__218);
   Py_VISIT(traverse_module_state->__pyx_codeobj__219);
   Py_VISIT(traverse_module_state->__pyx_codeobj__220);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__221);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__222);
   Py_VISIT(traverse_module_state->__pyx_codeobj__223);
   Py_VISIT(traverse_module_state->__pyx_codeobj__224);
   Py_VISIT(traverse_module_state->__pyx_codeobj__225);
   Py_VISIT(traverse_module_state->__pyx_codeobj__226);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__227);
+  Py_VISIT(traverse_module_state->__pyx_codeobj__228);
   Py_VISIT(traverse_module_state->__pyx_codeobj__229);
   Py_VISIT(traverse_module_state->__pyx_codeobj__230);
   Py_VISIT(traverse_module_state->__pyx_codeobj__231);
   Py_VISIT(traverse_module_state->__pyx_codeobj__232);
-  Py_VISIT(traverse_module_state->__pyx_codeobj__233);
   return 0;
 }
 #endif
@@ -6195,8 +6188,8 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_n_s_WILLR __pyx_mstate_global->__pyx_n_s_WILLR
 #define __pyx_n_s_WMA __pyx_mstate_global->__pyx_n_s_WMA
 #define __pyx_kp_s_Weighted_Moving_Average __pyx_mstate_global->__pyx_kp_s_Weighted_Moving_Average
-#define __pyx_n_s__234 __pyx_mstate_global->__pyx_n_s__234
-#define __pyx_kp_u__37 __pyx_mstate_global->__pyx_kp_u__37
+#define __pyx_n_s__233 __pyx_mstate_global->__pyx_n_s__233
+#define __pyx_kp_u__36 __pyx_mstate_global->__pyx_kp_u__36
 #define __pyx_n_s_acceleration __pyx_mstate_global->__pyx_n_s_acceleration
 #define __pyx_n_s_accelerationinitlong __pyx_mstate_global->__pyx_n_s_accelerationinitlong
 #define __pyx_n_s_accelerationinitshort __pyx_mstate_global->__pyx_n_s_accelerationinitshort
@@ -6233,7 +6226,6 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_kp_s_input_array_has_wrong_dimensions __pyx_mstate_global->__pyx_kp_s_input_array_has_wrong_dimensions
 #define __pyx_kp_s_input_array_lengths_are_differen __pyx_mstate_global->__pyx_kp_s_input_array_lengths_are_differen
 #define __pyx_kp_s_input_array_type_is_not_double __pyx_mstate_global->__pyx_kp_s_input_array_type_is_not_double
-#define __pyx_kp_s_inputs_are_all_NaN __pyx_mstate_global->__pyx_kp_s_inputs_are_all_NaN
 #define __pyx_n_s_is_coroutine __pyx_mstate_global->__pyx_n_s_is_coroutine
 #define __pyx_n_s_length __pyx_mstate_global->__pyx_n_s_length
 #define __pyx_n_s_lookback __pyx_mstate_global->__pyx_n_s_lookback
@@ -6350,98 +6342,98 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_tuple__4 __pyx_mstate_global->__pyx_tuple__4
 #define __pyx_tuple__5 __pyx_mstate_global->__pyx_tuple__5
 #define __pyx_tuple__6 __pyx_mstate_global->__pyx_tuple__6
-#define __pyx_tuple__7 __pyx_mstate_global->__pyx_tuple__7
-#define __pyx_tuple__9 __pyx_mstate_global->__pyx_tuple__9
+#define __pyx_tuple__8 __pyx_mstate_global->__pyx_tuple__8
+#define __pyx_tuple__11 __pyx_mstate_global->__pyx_tuple__11
 #define __pyx_tuple__12 __pyx_mstate_global->__pyx_tuple__12
 #define __pyx_tuple__13 __pyx_mstate_global->__pyx_tuple__13
 #define __pyx_tuple__14 __pyx_mstate_global->__pyx_tuple__14
-#define __pyx_tuple__15 __pyx_mstate_global->__pyx_tuple__15
-#define __pyx_tuple__17 __pyx_mstate_global->__pyx_tuple__17
-#define __pyx_tuple__19 __pyx_mstate_global->__pyx_tuple__19
-#define __pyx_tuple__21 __pyx_mstate_global->__pyx_tuple__21
-#define __pyx_tuple__23 __pyx_mstate_global->__pyx_tuple__23
-#define __pyx_tuple__25 __pyx_mstate_global->__pyx_tuple__25
+#define __pyx_tuple__16 __pyx_mstate_global->__pyx_tuple__16
+#define __pyx_tuple__18 __pyx_mstate_global->__pyx_tuple__18
+#define __pyx_tuple__20 __pyx_mstate_global->__pyx_tuple__20
+#define __pyx_tuple__22 __pyx_mstate_global->__pyx_tuple__22
+#define __pyx_tuple__24 __pyx_mstate_global->__pyx_tuple__24
+#define __pyx_tuple__26 __pyx_mstate_global->__pyx_tuple__26
 #define __pyx_tuple__27 __pyx_mstate_global->__pyx_tuple__27
 #define __pyx_tuple__28 __pyx_mstate_global->__pyx_tuple__28
 #define __pyx_tuple__29 __pyx_mstate_global->__pyx_tuple__29
 #define __pyx_tuple__30 __pyx_mstate_global->__pyx_tuple__30
 #define __pyx_tuple__31 __pyx_mstate_global->__pyx_tuple__31
 #define __pyx_tuple__32 __pyx_mstate_global->__pyx_tuple__32
-#define __pyx_tuple__33 __pyx_mstate_global->__pyx_tuple__33
-#define __pyx_tuple__35 __pyx_mstate_global->__pyx_tuple__35
-#define __pyx_tuple__38 __pyx_mstate_global->__pyx_tuple__38
-#define __pyx_tuple__40 __pyx_mstate_global->__pyx_tuple__40
-#define __pyx_tuple__42 __pyx_mstate_global->__pyx_tuple__42
-#define __pyx_tuple__44 __pyx_mstate_global->__pyx_tuple__44
-#define __pyx_tuple__46 __pyx_mstate_global->__pyx_tuple__46
-#define __pyx_tuple__49 __pyx_mstate_global->__pyx_tuple__49
-#define __pyx_tuple__51 __pyx_mstate_global->__pyx_tuple__51
-#define __pyx_tuple__53 __pyx_mstate_global->__pyx_tuple__53
-#define __pyx_tuple__58 __pyx_mstate_global->__pyx_tuple__58
-#define __pyx_tuple__60 __pyx_mstate_global->__pyx_tuple__60
-#define __pyx_tuple__62 __pyx_mstate_global->__pyx_tuple__62
-#define __pyx_tuple__66 __pyx_mstate_global->__pyx_tuple__66
-#define __pyx_tuple__74 __pyx_mstate_global->__pyx_tuple__74
-#define __pyx_codeobj__8 __pyx_mstate_global->__pyx_codeobj__8
-#define __pyx_tuple__130 __pyx_mstate_global->__pyx_tuple__130
-#define __pyx_tuple__143 __pyx_mstate_global->__pyx_tuple__143
-#define __pyx_tuple__145 __pyx_mstate_global->__pyx_tuple__145
-#define __pyx_tuple__148 __pyx_mstate_global->__pyx_tuple__148
-#define __pyx_tuple__157 __pyx_mstate_global->__pyx_tuple__157
-#define __pyx_tuple__159 __pyx_mstate_global->__pyx_tuple__159
-#define __pyx_tuple__161 __pyx_mstate_global->__pyx_tuple__161
-#define __pyx_tuple__163 __pyx_mstate_global->__pyx_tuple__163
-#define __pyx_tuple__165 __pyx_mstate_global->__pyx_tuple__165
-#define __pyx_tuple__167 __pyx_mstate_global->__pyx_tuple__167
-#define __pyx_tuple__170 __pyx_mstate_global->__pyx_tuple__170
-#define __pyx_tuple__172 __pyx_mstate_global->__pyx_tuple__172
-#define __pyx_tuple__174 __pyx_mstate_global->__pyx_tuple__174
-#define __pyx_tuple__180 __pyx_mstate_global->__pyx_tuple__180
-#define __pyx_tuple__182 __pyx_mstate_global->__pyx_tuple__182
-#define __pyx_tuple__189 __pyx_mstate_global->__pyx_tuple__189
-#define __pyx_tuple__199 __pyx_mstate_global->__pyx_tuple__199
-#define __pyx_tuple__201 __pyx_mstate_global->__pyx_tuple__201
-#define __pyx_tuple__207 __pyx_mstate_global->__pyx_tuple__207
-#define __pyx_tuple__209 __pyx_mstate_global->__pyx_tuple__209
-#define __pyx_tuple__211 __pyx_mstate_global->__pyx_tuple__211
-#define __pyx_tuple__213 __pyx_mstate_global->__pyx_tuple__213
-#define __pyx_tuple__217 __pyx_mstate_global->__pyx_tuple__217
-#define __pyx_tuple__222 __pyx_mstate_global->__pyx_tuple__222
-#define __pyx_tuple__228 __pyx_mstate_global->__pyx_tuple__228
+#define __pyx_tuple__34 __pyx_mstate_global->__pyx_tuple__34
+#define __pyx_tuple__37 __pyx_mstate_global->__pyx_tuple__37
+#define __pyx_tuple__39 __pyx_mstate_global->__pyx_tuple__39
+#define __pyx_tuple__41 __pyx_mstate_global->__pyx_tuple__41
+#define __pyx_tuple__43 __pyx_mstate_global->__pyx_tuple__43
+#define __pyx_tuple__45 __pyx_mstate_global->__pyx_tuple__45
+#define __pyx_tuple__48 __pyx_mstate_global->__pyx_tuple__48
+#define __pyx_tuple__50 __pyx_mstate_global->__pyx_tuple__50
+#define __pyx_tuple__52 __pyx_mstate_global->__pyx_tuple__52
+#define __pyx_tuple__57 __pyx_mstate_global->__pyx_tuple__57
+#define __pyx_tuple__59 __pyx_mstate_global->__pyx_tuple__59
+#define __pyx_tuple__61 __pyx_mstate_global->__pyx_tuple__61
+#define __pyx_tuple__65 __pyx_mstate_global->__pyx_tuple__65
+#define __pyx_tuple__73 __pyx_mstate_global->__pyx_tuple__73
+#define __pyx_codeobj__7 __pyx_mstate_global->__pyx_codeobj__7
+#define __pyx_codeobj__9 __pyx_mstate_global->__pyx_codeobj__9
+#define __pyx_tuple__129 __pyx_mstate_global->__pyx_tuple__129
+#define __pyx_tuple__142 __pyx_mstate_global->__pyx_tuple__142
+#define __pyx_tuple__144 __pyx_mstate_global->__pyx_tuple__144
+#define __pyx_tuple__147 __pyx_mstate_global->__pyx_tuple__147
+#define __pyx_tuple__156 __pyx_mstate_global->__pyx_tuple__156
+#define __pyx_tuple__158 __pyx_mstate_global->__pyx_tuple__158
+#define __pyx_tuple__160 __pyx_mstate_global->__pyx_tuple__160
+#define __pyx_tuple__162 __pyx_mstate_global->__pyx_tuple__162
+#define __pyx_tuple__164 __pyx_mstate_global->__pyx_tuple__164
+#define __pyx_tuple__166 __pyx_mstate_global->__pyx_tuple__166
+#define __pyx_tuple__169 __pyx_mstate_global->__pyx_tuple__169
+#define __pyx_tuple__171 __pyx_mstate_global->__pyx_tuple__171
+#define __pyx_tuple__173 __pyx_mstate_global->__pyx_tuple__173
+#define __pyx_tuple__179 __pyx_mstate_global->__pyx_tuple__179
+#define __pyx_tuple__181 __pyx_mstate_global->__pyx_tuple__181
+#define __pyx_tuple__188 __pyx_mstate_global->__pyx_tuple__188
+#define __pyx_tuple__198 __pyx_mstate_global->__pyx_tuple__198
+#define __pyx_tuple__200 __pyx_mstate_global->__pyx_tuple__200
+#define __pyx_tuple__206 __pyx_mstate_global->__pyx_tuple__206
+#define __pyx_tuple__208 __pyx_mstate_global->__pyx_tuple__208
+#define __pyx_tuple__210 __pyx_mstate_global->__pyx_tuple__210
+#define __pyx_tuple__212 __pyx_mstate_global->__pyx_tuple__212
+#define __pyx_tuple__216 __pyx_mstate_global->__pyx_tuple__216
+#define __pyx_tuple__221 __pyx_mstate_global->__pyx_tuple__221
+#define __pyx_tuple__227 __pyx_mstate_global->__pyx_tuple__227
 #define __pyx_codeobj__10 __pyx_mstate_global->__pyx_codeobj__10
-#define __pyx_codeobj__11 __pyx_mstate_global->__pyx_codeobj__11
-#define __pyx_codeobj__16 __pyx_mstate_global->__pyx_codeobj__16
-#define __pyx_codeobj__18 __pyx_mstate_global->__pyx_codeobj__18
-#define __pyx_codeobj__20 __pyx_mstate_global->__pyx_codeobj__20
-#define __pyx_codeobj__22 __pyx_mstate_global->__pyx_codeobj__22
-#define __pyx_codeobj__24 __pyx_mstate_global->__pyx_codeobj__24
-#define __pyx_codeobj__26 __pyx_mstate_global->__pyx_codeobj__26
-#define __pyx_codeobj__34 __pyx_mstate_global->__pyx_codeobj__34
-#define __pyx_codeobj__36 __pyx_mstate_global->__pyx_codeobj__36
-#define __pyx_codeobj__39 __pyx_mstate_global->__pyx_codeobj__39
-#define __pyx_codeobj__41 __pyx_mstate_global->__pyx_codeobj__41
-#define __pyx_codeobj__43 __pyx_mstate_global->__pyx_codeobj__43
-#define __pyx_codeobj__45 __pyx_mstate_global->__pyx_codeobj__45
+#define __pyx_codeobj__15 __pyx_mstate_global->__pyx_codeobj__15
+#define __pyx_codeobj__17 __pyx_mstate_global->__pyx_codeobj__17
+#define __pyx_codeobj__19 __pyx_mstate_global->__pyx_codeobj__19
+#define __pyx_codeobj__21 __pyx_mstate_global->__pyx_codeobj__21
+#define __pyx_codeobj__23 __pyx_mstate_global->__pyx_codeobj__23
+#define __pyx_codeobj__25 __pyx_mstate_global->__pyx_codeobj__25
+#define __pyx_codeobj__33 __pyx_mstate_global->__pyx_codeobj__33
+#define __pyx_codeobj__35 __pyx_mstate_global->__pyx_codeobj__35
+#define __pyx_codeobj__38 __pyx_mstate_global->__pyx_codeobj__38
+#define __pyx_codeobj__40 __pyx_mstate_global->__pyx_codeobj__40
+#define __pyx_codeobj__42 __pyx_mstate_global->__pyx_codeobj__42
+#define __pyx_codeobj__44 __pyx_mstate_global->__pyx_codeobj__44
+#define __pyx_codeobj__46 __pyx_mstate_global->__pyx_codeobj__46
 #define __pyx_codeobj__47 __pyx_mstate_global->__pyx_codeobj__47
-#define __pyx_codeobj__48 __pyx_mstate_global->__pyx_codeobj__48
-#define __pyx_codeobj__50 __pyx_mstate_global->__pyx_codeobj__50
-#define __pyx_codeobj__52 __pyx_mstate_global->__pyx_codeobj__52
+#define __pyx_codeobj__49 __pyx_mstate_global->__pyx_codeobj__49
+#define __pyx_codeobj__51 __pyx_mstate_global->__pyx_codeobj__51
+#define __pyx_codeobj__53 __pyx_mstate_global->__pyx_codeobj__53
 #define __pyx_codeobj__54 __pyx_mstate_global->__pyx_codeobj__54
 #define __pyx_codeobj__55 __pyx_mstate_global->__pyx_codeobj__55
 #define __pyx_codeobj__56 __pyx_mstate_global->__pyx_codeobj__56
-#define __pyx_codeobj__57 __pyx_mstate_global->__pyx_codeobj__57
-#define __pyx_codeobj__59 __pyx_mstate_global->__pyx_codeobj__59
-#define __pyx_codeobj__61 __pyx_mstate_global->__pyx_codeobj__61
+#define __pyx_codeobj__58 __pyx_mstate_global->__pyx_codeobj__58
+#define __pyx_codeobj__60 __pyx_mstate_global->__pyx_codeobj__60
+#define __pyx_codeobj__62 __pyx_mstate_global->__pyx_codeobj__62
 #define __pyx_codeobj__63 __pyx_mstate_global->__pyx_codeobj__63
 #define __pyx_codeobj__64 __pyx_mstate_global->__pyx_codeobj__64
-#define __pyx_codeobj__65 __pyx_mstate_global->__pyx_codeobj__65
+#define __pyx_codeobj__66 __pyx_mstate_global->__pyx_codeobj__66
 #define __pyx_codeobj__67 __pyx_mstate_global->__pyx_codeobj__67
 #define __pyx_codeobj__68 __pyx_mstate_global->__pyx_codeobj__68
 #define __pyx_codeobj__69 __pyx_mstate_global->__pyx_codeobj__69
 #define __pyx_codeobj__70 __pyx_mstate_global->__pyx_codeobj__70
 #define __pyx_codeobj__71 __pyx_mstate_global->__pyx_codeobj__71
 #define __pyx_codeobj__72 __pyx_mstate_global->__pyx_codeobj__72
-#define __pyx_codeobj__73 __pyx_mstate_global->__pyx_codeobj__73
+#define __pyx_codeobj__74 __pyx_mstate_global->__pyx_codeobj__74
 #define __pyx_codeobj__75 __pyx_mstate_global->__pyx_codeobj__75
 #define __pyx_codeobj__76 __pyx_mstate_global->__pyx_codeobj__76
 #define __pyx_codeobj__77 __pyx_mstate_global->__pyx_codeobj__77
@@ -6496,7 +6488,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_codeobj__126 __pyx_mstate_global->__pyx_codeobj__126
 #define __pyx_codeobj__127 __pyx_mstate_global->__pyx_codeobj__127
 #define __pyx_codeobj__128 __pyx_mstate_global->__pyx_codeobj__128
-#define __pyx_codeobj__129 __pyx_mstate_global->__pyx_codeobj__129
+#define __pyx_codeobj__130 __pyx_mstate_global->__pyx_codeobj__130
 #define __pyx_codeobj__131 __pyx_mstate_global->__pyx_codeobj__131
 #define __pyx_codeobj__132 __pyx_mstate_global->__pyx_codeobj__132
 #define __pyx_codeobj__133 __pyx_mstate_global->__pyx_codeobj__133
@@ -6508,10 +6500,10 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_codeobj__139 __pyx_mstate_global->__pyx_codeobj__139
 #define __pyx_codeobj__140 __pyx_mstate_global->__pyx_codeobj__140
 #define __pyx_codeobj__141 __pyx_mstate_global->__pyx_codeobj__141
-#define __pyx_codeobj__142 __pyx_mstate_global->__pyx_codeobj__142
-#define __pyx_codeobj__144 __pyx_mstate_global->__pyx_codeobj__144
+#define __pyx_codeobj__143 __pyx_mstate_global->__pyx_codeobj__143
+#define __pyx_codeobj__145 __pyx_mstate_global->__pyx_codeobj__145
 #define __pyx_codeobj__146 __pyx_mstate_global->__pyx_codeobj__146
-#define __pyx_codeobj__147 __pyx_mstate_global->__pyx_codeobj__147
+#define __pyx_codeobj__148 __pyx_mstate_global->__pyx_codeobj__148
 #define __pyx_codeobj__149 __pyx_mstate_global->__pyx_codeobj__149
 #define __pyx_codeobj__150 __pyx_mstate_global->__pyx_codeobj__150
 #define __pyx_codeobj__151 __pyx_mstate_global->__pyx_codeobj__151
@@ -6519,28 +6511,28 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_codeobj__153 __pyx_mstate_global->__pyx_codeobj__153
 #define __pyx_codeobj__154 __pyx_mstate_global->__pyx_codeobj__154
 #define __pyx_codeobj__155 __pyx_mstate_global->__pyx_codeobj__155
-#define __pyx_codeobj__156 __pyx_mstate_global->__pyx_codeobj__156
-#define __pyx_codeobj__158 __pyx_mstate_global->__pyx_codeobj__158
-#define __pyx_codeobj__160 __pyx_mstate_global->__pyx_codeobj__160
-#define __pyx_codeobj__162 __pyx_mstate_global->__pyx_codeobj__162
-#define __pyx_codeobj__164 __pyx_mstate_global->__pyx_codeobj__164
-#define __pyx_codeobj__166 __pyx_mstate_global->__pyx_codeobj__166
+#define __pyx_codeobj__157 __pyx_mstate_global->__pyx_codeobj__157
+#define __pyx_codeobj__159 __pyx_mstate_global->__pyx_codeobj__159
+#define __pyx_codeobj__161 __pyx_mstate_global->__pyx_codeobj__161
+#define __pyx_codeobj__163 __pyx_mstate_global->__pyx_codeobj__163
+#define __pyx_codeobj__165 __pyx_mstate_global->__pyx_codeobj__165
+#define __pyx_codeobj__167 __pyx_mstate_global->__pyx_codeobj__167
 #define __pyx_codeobj__168 __pyx_mstate_global->__pyx_codeobj__168
-#define __pyx_codeobj__169 __pyx_mstate_global->__pyx_codeobj__169
-#define __pyx_codeobj__171 __pyx_mstate_global->__pyx_codeobj__171
-#define __pyx_codeobj__173 __pyx_mstate_global->__pyx_codeobj__173
+#define __pyx_codeobj__170 __pyx_mstate_global->__pyx_codeobj__170
+#define __pyx_codeobj__172 __pyx_mstate_global->__pyx_codeobj__172
+#define __pyx_codeobj__174 __pyx_mstate_global->__pyx_codeobj__174
 #define __pyx_codeobj__175 __pyx_mstate_global->__pyx_codeobj__175
 #define __pyx_codeobj__176 __pyx_mstate_global->__pyx_codeobj__176
 #define __pyx_codeobj__177 __pyx_mstate_global->__pyx_codeobj__177
 #define __pyx_codeobj__178 __pyx_mstate_global->__pyx_codeobj__178
-#define __pyx_codeobj__179 __pyx_mstate_global->__pyx_codeobj__179
-#define __pyx_codeobj__181 __pyx_mstate_global->__pyx_codeobj__181
+#define __pyx_codeobj__180 __pyx_mstate_global->__pyx_codeobj__180
+#define __pyx_codeobj__182 __pyx_mstate_global->__pyx_codeobj__182
 #define __pyx_codeobj__183 __pyx_mstate_global->__pyx_codeobj__183
 #define __pyx_codeobj__184 __pyx_mstate_global->__pyx_codeobj__184
 #define __pyx_codeobj__185 __pyx_mstate_global->__pyx_codeobj__185
 #define __pyx_codeobj__186 __pyx_mstate_global->__pyx_codeobj__186
 #define __pyx_codeobj__187 __pyx_mstate_global->__pyx_codeobj__187
-#define __pyx_codeobj__188 __pyx_mstate_global->__pyx_codeobj__188
+#define __pyx_codeobj__189 __pyx_mstate_global->__pyx_codeobj__189
 #define __pyx_codeobj__190 __pyx_mstate_global->__pyx_codeobj__190
 #define __pyx_codeobj__191 __pyx_mstate_global->__pyx_codeobj__191
 #define __pyx_codeobj__192 __pyx_mstate_global->__pyx_codeobj__192
@@ -6549,36 +6541,35 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 #define __pyx_codeobj__195 __pyx_mstate_global->__pyx_codeobj__195
 #define __pyx_codeobj__196 __pyx_mstate_global->__pyx_codeobj__196
 #define __pyx_codeobj__197 __pyx_mstate_global->__pyx_codeobj__197
-#define __pyx_codeobj__198 __pyx_mstate_global->__pyx_codeobj__198
-#define __pyx_codeobj__200 __pyx_mstate_global->__pyx_codeobj__200
+#define __pyx_codeobj__199 __pyx_mstate_global->__pyx_codeobj__199
+#define __pyx_codeobj__201 __pyx_mstate_global->__pyx_codeobj__201
 #define __pyx_codeobj__202 __pyx_mstate_global->__pyx_codeobj__202
 #define __pyx_codeobj__203 __pyx_mstate_global->__pyx_codeobj__203
 #define __pyx_codeobj__204 __pyx_mstate_global->__pyx_codeobj__204
 #define __pyx_codeobj__205 __pyx_mstate_global->__pyx_codeobj__205
-#define __pyx_codeobj__206 __pyx_mstate_global->__pyx_codeobj__206
-#define __pyx_codeobj__208 __pyx_mstate_global->__pyx_codeobj__208
-#define __pyx_codeobj__210 __pyx_mstate_global->__pyx_codeobj__210
-#define __pyx_codeobj__212 __pyx_mstate_global->__pyx_codeobj__212
+#define __pyx_codeobj__207 __pyx_mstate_global->__pyx_codeobj__207
+#define __pyx_codeobj__209 __pyx_mstate_global->__pyx_codeobj__209
+#define __pyx_codeobj__211 __pyx_mstate_global->__pyx_codeobj__211
+#define __pyx_codeobj__213 __pyx_mstate_global->__pyx_codeobj__213
 #define __pyx_codeobj__214 __pyx_mstate_global->__pyx_codeobj__214
 #define __pyx_codeobj__215 __pyx_mstate_global->__pyx_codeobj__215
-#define __pyx_codeobj__216 __pyx_mstate_global->__pyx_codeobj__216
+#define __pyx_codeobj__217 __pyx_mstate_global->__pyx_codeobj__217
 #define __pyx_codeobj__218 __pyx_mstate_global->__pyx_codeobj__218
 #define __pyx_codeobj__219 __pyx_mstate_global->__pyx_codeobj__219
 #define __pyx_codeobj__220 __pyx_mstate_global->__pyx_codeobj__220
-#define __pyx_codeobj__221 __pyx_mstate_global->__pyx_codeobj__221
+#define __pyx_codeobj__222 __pyx_mstate_global->__pyx_codeobj__222
 #define __pyx_codeobj__223 __pyx_mstate_global->__pyx_codeobj__223
 #define __pyx_codeobj__224 __pyx_mstate_global->__pyx_codeobj__224
 #define __pyx_codeobj__225 __pyx_mstate_global->__pyx_codeobj__225
 #define __pyx_codeobj__226 __pyx_mstate_global->__pyx_codeobj__226
-#define __pyx_codeobj__227 __pyx_mstate_global->__pyx_codeobj__227
+#define __pyx_codeobj__228 __pyx_mstate_global->__pyx_codeobj__228
 #define __pyx_codeobj__229 __pyx_mstate_global->__pyx_codeobj__229
 #define __pyx_codeobj__230 __pyx_mstate_global->__pyx_codeobj__230
 #define __pyx_codeobj__231 __pyx_mstate_global->__pyx_codeobj__231
 #define __pyx_codeobj__232 __pyx_mstate_global->__pyx_codeobj__232
-#define __pyx_codeobj__233 __pyx_mstate_global->__pyx_codeobj__233
 /* #### Code section: module_code ### */
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":245
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":245
  * 
  *         @property
  *         cdef inline PyObject* base(self) nogil:             # <<<<<<<<<<<<<<
@@ -6589,7 +6580,7 @@ static int __pyx_m_traverse(PyObject *m, visitproc visit, void *arg) {
 static CYTHON_INLINE PyObject *__pyx_f_5numpy_7ndarray_4base_base(PyArrayObject *__pyx_v_self) {
   PyObject *__pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":248
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":248
  *             """Returns a borrowed reference to the object owning the data/memory.
  *             """
  *             return PyArray_BASE(self)             # <<<<<<<<<<<<<<
@@ -6599,7 +6590,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_7ndarray_4base_base(PyArrayObject 
   __pyx_r = PyArray_BASE(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":245
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":245
  * 
  *         @property
  *         cdef inline PyObject* base(self) nogil:             # <<<<<<<<<<<<<<
@@ -6612,7 +6603,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_7ndarray_4base_base(PyArrayObject 
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":251
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":251
  * 
  *         @property
  *         cdef inline dtype descr(self):             # <<<<<<<<<<<<<<
@@ -6626,7 +6617,7 @@ static CYTHON_INLINE PyArray_Descr *__pyx_f_5numpy_7ndarray_5descr_descr(PyArray
   PyArray_Descr *__pyx_t_1;
   __Pyx_RefNannySetupContext("descr", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":254
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":254
  *             """Returns an owned reference to the dtype of the array.
  *             """
  *             return <dtype>PyArray_DESCR(self)             # <<<<<<<<<<<<<<
@@ -6639,7 +6630,7 @@ static CYTHON_INLINE PyArray_Descr *__pyx_f_5numpy_7ndarray_5descr_descr(PyArray
   __pyx_r = ((PyArray_Descr *)__pyx_t_1);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":251
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":251
  * 
  *         @property
  *         cdef inline dtype descr(self):             # <<<<<<<<<<<<<<
@@ -6654,7 +6645,7 @@ static CYTHON_INLINE PyArray_Descr *__pyx_f_5numpy_7ndarray_5descr_descr(PyArray
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":257
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":257
  * 
  *         @property
  *         cdef inline int ndim(self) nogil:             # <<<<<<<<<<<<<<
@@ -6665,7 +6656,7 @@ static CYTHON_INLINE PyArray_Descr *__pyx_f_5numpy_7ndarray_5descr_descr(PyArray
 static CYTHON_INLINE int __pyx_f_5numpy_7ndarray_4ndim_ndim(PyArrayObject *__pyx_v_self) {
   int __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":260
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":260
  *             """Returns the number of dimensions in the array.
  *             """
  *             return PyArray_NDIM(self)             # <<<<<<<<<<<<<<
@@ -6675,7 +6666,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_7ndarray_4ndim_ndim(PyArrayObject *__pyx
   __pyx_r = PyArray_NDIM(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":257
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":257
  * 
  *         @property
  *         cdef inline int ndim(self) nogil:             # <<<<<<<<<<<<<<
@@ -6688,7 +6679,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_7ndarray_4ndim_ndim(PyArrayObject *__pyx
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":263
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":263
  * 
  *         @property
  *         cdef inline npy_intp *shape(self) nogil:             # <<<<<<<<<<<<<<
@@ -6699,7 +6690,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_7ndarray_4ndim_ndim(PyArrayObject *__pyx
 static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_5shape_shape(PyArrayObject *__pyx_v_self) {
   npy_intp *__pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":268
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":268
  *             Can return NULL for 0-dimensional arrays.
  *             """
  *             return PyArray_DIMS(self)             # <<<<<<<<<<<<<<
@@ -6709,7 +6700,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_5shape_shape(PyArrayObjec
   __pyx_r = PyArray_DIMS(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":263
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":263
  * 
  *         @property
  *         cdef inline npy_intp *shape(self) nogil:             # <<<<<<<<<<<<<<
@@ -6722,7 +6713,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_5shape_shape(PyArrayObjec
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":271
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":271
  * 
  *         @property
  *         cdef inline npy_intp *strides(self) nogil:             # <<<<<<<<<<<<<<
@@ -6733,7 +6724,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_5shape_shape(PyArrayObjec
 static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_7strides_strides(PyArrayObject *__pyx_v_self) {
   npy_intp *__pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":275
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":275
  *             The number of elements matches the number of dimensions of the array (ndim).
  *             """
  *             return PyArray_STRIDES(self)             # <<<<<<<<<<<<<<
@@ -6743,7 +6734,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_7strides_strides(PyArrayO
   __pyx_r = PyArray_STRIDES(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":271
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":271
  * 
  *         @property
  *         cdef inline npy_intp *strides(self) nogil:             # <<<<<<<<<<<<<<
@@ -6756,7 +6747,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_7strides_strides(PyArrayO
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":278
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":278
  * 
  *         @property
  *         cdef inline npy_intp size(self) nogil:             # <<<<<<<<<<<<<<
@@ -6767,7 +6758,7 @@ static CYTHON_INLINE npy_intp *__pyx_f_5numpy_7ndarray_7strides_strides(PyArrayO
 static CYTHON_INLINE npy_intp __pyx_f_5numpy_7ndarray_4size_size(PyArrayObject *__pyx_v_self) {
   npy_intp __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":281
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":281
  *             """Returns the total size (in number of elements) of the array.
  *             """
  *             return PyArray_SIZE(self)             # <<<<<<<<<<<<<<
@@ -6777,7 +6768,7 @@ static CYTHON_INLINE npy_intp __pyx_f_5numpy_7ndarray_4size_size(PyArrayObject *
   __pyx_r = PyArray_SIZE(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":278
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":278
  * 
  *         @property
  *         cdef inline npy_intp size(self) nogil:             # <<<<<<<<<<<<<<
@@ -6790,7 +6781,7 @@ static CYTHON_INLINE npy_intp __pyx_f_5numpy_7ndarray_4size_size(PyArrayObject *
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":284
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":284
  * 
  *         @property
  *         cdef inline char* data(self) nogil:             # <<<<<<<<<<<<<<
@@ -6801,7 +6792,7 @@ static CYTHON_INLINE npy_intp __pyx_f_5numpy_7ndarray_4size_size(PyArrayObject *
 static CYTHON_INLINE char *__pyx_f_5numpy_7ndarray_4data_data(PyArrayObject *__pyx_v_self) {
   char *__pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":290
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":290
  *             of `PyArray_DATA()` instead, which returns a 'void*'.
  *             """
  *             return PyArray_BYTES(self)             # <<<<<<<<<<<<<<
@@ -6811,7 +6802,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy_7ndarray_4data_data(PyArrayObject *__p
   __pyx_r = PyArray_BYTES(__pyx_v_self);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":284
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":284
  * 
  *         @property
  *         cdef inline char* data(self) nogil:             # <<<<<<<<<<<<<<
@@ -6824,7 +6815,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy_7ndarray_4data_data(PyArrayObject *__p
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":773
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":773
  * ctypedef npy_cdouble     complex_t
  * 
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
@@ -6841,7 +6832,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew1", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":774
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":774
  * 
  * cdef inline object PyArray_MultiIterNew1(a):
  *     return PyArray_MultiIterNew(1, <void*>a)             # <<<<<<<<<<<<<<
@@ -6855,7 +6846,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":773
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":773
  * ctypedef npy_cdouble     complex_t
  * 
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
@@ -6874,7 +6865,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":776
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":776
  *     return PyArray_MultiIterNew(1, <void*>a)
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
@@ -6891,7 +6882,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew2", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":777
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":777
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)             # <<<<<<<<<<<<<<
@@ -6905,7 +6896,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":776
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":776
  *     return PyArray_MultiIterNew(1, <void*>a)
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
@@ -6924,7 +6915,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":779
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":779
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
@@ -6941,7 +6932,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew3", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":780
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":780
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)             # <<<<<<<<<<<<<<
@@ -6955,7 +6946,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":779
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":779
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
@@ -6974,7 +6965,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":782
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":782
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
@@ -6991,7 +6982,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew4", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":783
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":783
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)             # <<<<<<<<<<<<<<
@@ -7005,7 +6996,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":782
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":782
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
@@ -7024,7 +7015,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":785
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":785
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
@@ -7041,7 +7032,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew5", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":786
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":786
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)             # <<<<<<<<<<<<<<
@@ -7055,7 +7046,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":785
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":785
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
@@ -7074,7 +7065,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":788
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":788
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):             # <<<<<<<<<<<<<<
@@ -7088,7 +7079,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   int __pyx_t_1;
   __Pyx_RefNannySetupContext("PyDataType_SHAPE", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":789
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":789
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):             # <<<<<<<<<<<<<<
@@ -7098,7 +7089,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   __pyx_t_1 = PyDataType_HASSUBARRAY(__pyx_v_d);
   if (__pyx_t_1) {
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":790
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":790
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):
  *         return <tuple>d.subarray.shape             # <<<<<<<<<<<<<<
@@ -7110,7 +7101,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
     __pyx_r = ((PyObject*)__pyx_v_d->subarray->shape);
     goto __pyx_L0;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":789
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":789
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):             # <<<<<<<<<<<<<<
@@ -7119,7 +7110,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
  */
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":792
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":792
  *         return <tuple>d.subarray.shape
  *     else:
  *         return ()             # <<<<<<<<<<<<<<
@@ -7133,7 +7124,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
     goto __pyx_L0;
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":788
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":788
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):             # <<<<<<<<<<<<<<
@@ -7148,7 +7139,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":967
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":968
  *     int _import_umath() except -1
  * 
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
@@ -7162,7 +7153,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   const char *__pyx_filename = NULL;
   int __pyx_clineno = 0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":968
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":969
  * 
  * cdef inline void set_array_base(ndarray arr, object base):
  *     Py_INCREF(base) # important to do this before stealing the reference below!             # <<<<<<<<<<<<<<
@@ -7171,16 +7162,16 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  */
   Py_INCREF(__pyx_v_base);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":969
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":970
  * cdef inline void set_array_base(ndarray arr, object base):
  *     Py_INCREF(base) # important to do this before stealing the reference below!
  *     PyArray_SetBaseObject(arr, base)             # <<<<<<<<<<<<<<
  * 
  * cdef inline object get_array_base(ndarray arr):
  */
-  __pyx_t_1 = PyArray_SetBaseObject(__pyx_v_arr, __pyx_v_base); if (unlikely(__pyx_t_1 == ((int)-1))) __PYX_ERR(1, 969, __pyx_L1_error)
+  __pyx_t_1 = PyArray_SetBaseObject(__pyx_v_arr, __pyx_v_base); if (unlikely(__pyx_t_1 == ((int)-1))) __PYX_ERR(1, 970, __pyx_L1_error)
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":967
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":968
  *     int _import_umath() except -1
  * 
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
@@ -7195,7 +7186,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   __pyx_L0:;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":971
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":972
  *     PyArray_SetBaseObject(arr, base)
  * 
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
@@ -7210,7 +7201,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   int __pyx_t_1;
   __Pyx_RefNannySetupContext("get_array_base", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":972
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":973
  * 
  * cdef inline object get_array_base(ndarray arr):
  *     base = PyArray_BASE(arr)             # <<<<<<<<<<<<<<
@@ -7219,7 +7210,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
  */
   __pyx_v_base = PyArray_BASE(__pyx_v_arr);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":973
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":974
  * cdef inline object get_array_base(ndarray arr):
  *     base = PyArray_BASE(arr)
  *     if base is NULL:             # <<<<<<<<<<<<<<
@@ -7229,7 +7220,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   __pyx_t_1 = (__pyx_v_base == NULL);
   if (__pyx_t_1) {
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":974
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":975
  *     base = PyArray_BASE(arr)
  *     if base is NULL:
  *         return None             # <<<<<<<<<<<<<<
@@ -7240,7 +7231,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
     __pyx_r = Py_None; __Pyx_INCREF(Py_None);
     goto __pyx_L0;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":973
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":974
  * cdef inline object get_array_base(ndarray arr):
  *     base = PyArray_BASE(arr)
  *     if base is NULL:             # <<<<<<<<<<<<<<
@@ -7249,7 +7240,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
  */
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":975
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":976
  *     if base is NULL:
  *         return None
  *     return <object>base             # <<<<<<<<<<<<<<
@@ -7261,7 +7252,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   __pyx_r = ((PyObject *)__pyx_v_base);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":971
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":972
  *     PyArray_SetBaseObject(arr, base)
  * 
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
@@ -7276,7 +7267,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":979
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":980
  * # Versions of the import_* functions which are more suitable for
  * # Cython code.
  * cdef inline int import_array() except -1:             # <<<<<<<<<<<<<<
@@ -7300,7 +7291,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("import_array", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":980
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":981
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7316,16 +7307,16 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":981
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":982
  * cdef inline int import_array() except -1:
  *     try:
  *         __pyx_import_array()             # <<<<<<<<<<<<<<
  *     except Exception:
  *         raise ImportError("numpy.core.multiarray failed to import")
  */
-      __pyx_t_4 = _import_array(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 981, __pyx_L3_error)
+      __pyx_t_4 = _import_array(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 982, __pyx_L3_error)
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":980
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":981
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7339,7 +7330,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":982
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":983
  *     try:
  *         __pyx_import_array()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -7349,27 +7340,27 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     __pyx_t_4 = __Pyx_PyErr_ExceptionMatches(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])));
     if (__pyx_t_4) {
       __Pyx_AddTraceback("numpy.import_array", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 982, __pyx_L5_except_error)
+      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 983, __pyx_L5_except_error)
       __Pyx_XGOTREF(__pyx_t_5);
       __Pyx_XGOTREF(__pyx_t_6);
       __Pyx_XGOTREF(__pyx_t_7);
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":983
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":984
  *         __pyx_import_array()
  *     except Exception:
  *         raise ImportError("numpy.core.multiarray failed to import")             # <<<<<<<<<<<<<<
  * 
  * cdef inline int import_umath() except -1:
  */
-      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple_, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 983, __pyx_L5_except_error)
+      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple_, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 984, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_Raise(__pyx_t_8, 0, 0, 0);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-      __PYX_ERR(1, 983, __pyx_L5_except_error)
+      __PYX_ERR(1, 984, __pyx_L5_except_error)
     }
     goto __pyx_L5_except_error;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":980
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":981
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7385,7 +7376,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":979
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":980
  * # Versions of the import_* functions which are more suitable for
  * # Cython code.
  * cdef inline int import_array() except -1:             # <<<<<<<<<<<<<<
@@ -7408,7 +7399,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":985
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":986
  *         raise ImportError("numpy.core.multiarray failed to import")
  * 
  * cdef inline int import_umath() except -1:             # <<<<<<<<<<<<<<
@@ -7432,7 +7423,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("import_umath", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":986
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":987
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7448,16 +7439,16 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":987
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":988
  * cdef inline int import_umath() except -1:
  *     try:
  *         _import_umath()             # <<<<<<<<<<<<<<
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")
  */
-      __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 987, __pyx_L3_error)
+      __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 988, __pyx_L3_error)
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":986
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":987
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7471,7 +7462,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":988
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":989
  *     try:
  *         _import_umath()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -7481,27 +7472,27 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     __pyx_t_4 = __Pyx_PyErr_ExceptionMatches(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])));
     if (__pyx_t_4) {
       __Pyx_AddTraceback("numpy.import_umath", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 988, __pyx_L5_except_error)
+      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 989, __pyx_L5_except_error)
       __Pyx_XGOTREF(__pyx_t_5);
       __Pyx_XGOTREF(__pyx_t_6);
       __Pyx_XGOTREF(__pyx_t_7);
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":989
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":990
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
  * 
  * cdef inline int import_ufunc() except -1:
  */
-      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 989, __pyx_L5_except_error)
+      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 990, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_Raise(__pyx_t_8, 0, 0, 0);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-      __PYX_ERR(1, 989, __pyx_L5_except_error)
+      __PYX_ERR(1, 990, __pyx_L5_except_error)
     }
     goto __pyx_L5_except_error;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":986
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":987
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7517,7 +7508,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":985
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":986
  *         raise ImportError("numpy.core.multiarray failed to import")
  * 
  * cdef inline int import_umath() except -1:             # <<<<<<<<<<<<<<
@@ -7540,7 +7531,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":991
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":992
  *         raise ImportError("numpy.core.umath failed to import")
  * 
  * cdef inline int import_ufunc() except -1:             # <<<<<<<<<<<<<<
@@ -7564,7 +7555,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
   int __pyx_clineno = 0;
   __Pyx_RefNannySetupContext("import_ufunc", 1);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":992
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":993
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7580,16 +7571,16 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":993
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":994
  * cdef inline int import_ufunc() except -1:
  *     try:
  *         _import_umath()             # <<<<<<<<<<<<<<
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")
  */
-      __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 993, __pyx_L3_error)
+      __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 994, __pyx_L3_error)
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":992
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":993
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7603,7 +7594,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":994
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":995
  *     try:
  *         _import_umath()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -7613,27 +7604,27 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     __pyx_t_4 = __Pyx_PyErr_ExceptionMatches(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])));
     if (__pyx_t_4) {
       __Pyx_AddTraceback("numpy.import_ufunc", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 994, __pyx_L5_except_error)
+      if (__Pyx_GetException(&__pyx_t_5, &__pyx_t_6, &__pyx_t_7) < 0) __PYX_ERR(1, 995, __pyx_L5_except_error)
       __Pyx_XGOTREF(__pyx_t_5);
       __Pyx_XGOTREF(__pyx_t_6);
       __Pyx_XGOTREF(__pyx_t_7);
 
-      /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":995
+      /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":996
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
  * 
  * 
  */
-      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 995, __pyx_L5_except_error)
+      __pyx_t_8 = __Pyx_PyObject_Call(__pyx_builtin_ImportError, __pyx_tuple__2, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(1, 996, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_Raise(__pyx_t_8, 0, 0, 0);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-      __PYX_ERR(1, 995, __pyx_L5_except_error)
+      __PYX_ERR(1, 996, __pyx_L5_except_error)
     }
     goto __pyx_L5_except_error;
 
-    /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":992
+    /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":993
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -7649,7 +7640,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":991
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":992
  *         raise ImportError("numpy.core.umath failed to import")
  * 
  * cdef inline int import_ufunc() except -1:             # <<<<<<<<<<<<<<
@@ -7672,7 +7663,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":998
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":999
  * 
  * 
  * cdef inline bint is_timedelta64_object(object obj):             # <<<<<<<<<<<<<<
@@ -7683,7 +7674,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
 static CYTHON_INLINE int __pyx_f_5numpy_is_timedelta64_object(PyObject *__pyx_v_obj) {
   int __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1010
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1011
  *     bool
  *     """
  *     return PyObject_TypeCheck(obj, &PyTimedeltaArrType_Type)             # <<<<<<<<<<<<<<
@@ -7693,7 +7684,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_timedelta64_object(PyObject *__pyx_v_
   __pyx_r = PyObject_TypeCheck(__pyx_v_obj, (&PyTimedeltaArrType_Type));
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":998
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":999
  * 
  * 
  * cdef inline bint is_timedelta64_object(object obj):             # <<<<<<<<<<<<<<
@@ -7706,7 +7697,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_timedelta64_object(PyObject *__pyx_v_
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1013
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1014
  * 
  * 
  * cdef inline bint is_datetime64_object(object obj):             # <<<<<<<<<<<<<<
@@ -7717,7 +7708,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_timedelta64_object(PyObject *__pyx_v_
 static CYTHON_INLINE int __pyx_f_5numpy_is_datetime64_object(PyObject *__pyx_v_obj) {
   int __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1025
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1026
  *     bool
  *     """
  *     return PyObject_TypeCheck(obj, &PyDatetimeArrType_Type)             # <<<<<<<<<<<<<<
@@ -7727,7 +7718,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_datetime64_object(PyObject *__pyx_v_o
   __pyx_r = PyObject_TypeCheck(__pyx_v_obj, (&PyDatetimeArrType_Type));
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1013
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1014
  * 
  * 
  * cdef inline bint is_datetime64_object(object obj):             # <<<<<<<<<<<<<<
@@ -7740,7 +7731,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_datetime64_object(PyObject *__pyx_v_o
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1028
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1029
  * 
  * 
  * cdef inline npy_datetime get_datetime64_value(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -7751,7 +7742,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_is_datetime64_object(PyObject *__pyx_v_o
 static CYTHON_INLINE npy_datetime __pyx_f_5numpy_get_datetime64_value(PyObject *__pyx_v_obj) {
   npy_datetime __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1035
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1036
  *     also needed.  That can be found using `get_datetime64_unit`.
  *     """
  *     return (<PyDatetimeScalarObject*>obj).obval             # <<<<<<<<<<<<<<
@@ -7761,7 +7752,7 @@ static CYTHON_INLINE npy_datetime __pyx_f_5numpy_get_datetime64_value(PyObject *
   __pyx_r = ((PyDatetimeScalarObject *)__pyx_v_obj)->obval;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1028
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1029
  * 
  * 
  * cdef inline npy_datetime get_datetime64_value(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -7774,7 +7765,7 @@ static CYTHON_INLINE npy_datetime __pyx_f_5numpy_get_datetime64_value(PyObject *
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1038
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1039
  * 
  * 
  * cdef inline npy_timedelta get_timedelta64_value(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -7785,7 +7776,7 @@ static CYTHON_INLINE npy_datetime __pyx_f_5numpy_get_datetime64_value(PyObject *
 static CYTHON_INLINE npy_timedelta __pyx_f_5numpy_get_timedelta64_value(PyObject *__pyx_v_obj) {
   npy_timedelta __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1042
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1043
  *     returns the int64 value underlying scalar numpy timedelta64 object
  *     """
  *     return (<PyTimedeltaScalarObject*>obj).obval             # <<<<<<<<<<<<<<
@@ -7795,7 +7786,7 @@ static CYTHON_INLINE npy_timedelta __pyx_f_5numpy_get_timedelta64_value(PyObject
   __pyx_r = ((PyTimedeltaScalarObject *)__pyx_v_obj)->obval;
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1038
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1039
  * 
  * 
  * cdef inline npy_timedelta get_timedelta64_value(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -7808,7 +7799,7 @@ static CYTHON_INLINE npy_timedelta __pyx_f_5numpy_get_timedelta64_value(PyObject
   return __pyx_r;
 }
 
-/* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1045
+/* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1046
  * 
  * 
  * cdef inline NPY_DATETIMEUNIT get_datetime64_unit(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -7819,7 +7810,7 @@ static CYTHON_INLINE npy_timedelta __pyx_f_5numpy_get_timedelta64_value(PyObject
 static CYTHON_INLINE NPY_DATETIMEUNIT __pyx_f_5numpy_get_datetime64_unit(PyObject *__pyx_v_obj) {
   NPY_DATETIMEUNIT __pyx_r;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1049
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1050
  *     returns the unit part of the dtype for a numpy datetime64 object.
  *     """
  *     return <NPY_DATETIMEUNIT>(<PyDatetimeScalarObject*>obj).obmeta.base             # <<<<<<<<<<<<<<
@@ -7827,7 +7818,7 @@ static CYTHON_INLINE NPY_DATETIMEUNIT __pyx_f_5numpy_get_datetime64_unit(PyObjec
   __pyx_r = ((NPY_DATETIMEUNIT)((PyDatetimeScalarObject *)__pyx_v_obj)->obmeta.base);
   goto __pyx_L0;
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":1045
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":1046
  * 
  * 
  * cdef inline NPY_DATETIMEUNIT get_datetime64_unit(object obj) nogil:             # <<<<<<<<<<<<<<
@@ -10268,7 +10259,7 @@ static npy_intp __pyx_f_5talib_7_ta_lib_check_length2(PyArrayObject *__pyx_v_a1,
   __pyx_L1_error:;
   __Pyx_XDECREF(__pyx_t_3);
   __Pyx_AddTraceback("talib._ta_lib.check_length2", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1L;
+  __pyx_r = -1;
   __pyx_L0:;
   __Pyx_RefNannyFinishContext();
   return __pyx_r;
@@ -10392,7 +10383,7 @@ static npy_intp __pyx_f_5talib_7_ta_lib_check_length3(PyArrayObject *__pyx_v_a1,
   __pyx_L1_error:;
   __Pyx_XDECREF(__pyx_t_3);
   __Pyx_AddTraceback("talib._ta_lib.check_length3", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1L;
+  __pyx_r = -1;
   __pyx_L0:;
   __Pyx_RefNannyFinishContext();
   return __pyx_r;
@@ -10532,7 +10523,7 @@ static npy_intp __pyx_f_5talib_7_ta_lib_check_length4(PyArrayObject *__pyx_v_a1,
  *         raise Exception("input array lengths are different")
  *     return length             # <<<<<<<<<<<<<<
  * 
- * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1) except -1:
+ * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1):
  */
   __pyx_r = __pyx_v_length;
   goto __pyx_L0;
@@ -10549,7 +10540,7 @@ static npy_intp __pyx_f_5talib_7_ta_lib_check_length4(PyArrayObject *__pyx_v_a1,
   __pyx_L1_error:;
   __Pyx_XDECREF(__pyx_t_3);
   __Pyx_AddTraceback("talib._ta_lib.check_length4", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1L;
+  __pyx_r = -1;
   __pyx_L0:;
   __Pyx_RefNannyFinishContext();
   return __pyx_r;
@@ -10558,7 +10549,7 @@ static npy_intp __pyx_f_5talib_7_ta_lib_check_length4(PyArrayObject *__pyx_v_a1,
 /* "talib/_func.pxi":59
  *     return length
  * 
- * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
@@ -10567,14 +10558,8 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx1(npy_intp __pyx_v_length, do
   double __pyx_v_val;
   long __pyx_v_i;
   npy_int __pyx_r;
-  __Pyx_RefNannyDeclarations
   npy_intp __pyx_t_1;
   int __pyx_t_2;
-  PyObject *__pyx_t_3 = NULL;
-  int __pyx_lineno = 0;
-  const char *__pyx_filename = NULL;
-  int __pyx_clineno = 0;
-  __Pyx_RefNannySetupContext("check_begidx1", 1);
 
   /* "talib/_func.pxi":62
  *     cdef:
@@ -10628,7 +10613,7 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx1(npy_intp __pyx_v_length, do
  *             continue
  *         return i             # <<<<<<<<<<<<<<
  *     else:
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  */
     __pyx_r = __pyx_v_i;
     goto __pyx_L0;
@@ -10639,39 +10624,31 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx1(npy_intp __pyx_v_length, do
     /* "talib/_func.pxi":68
  *         return i
  *     else:
- *         raise Exception("inputs are all NaN")             # <<<<<<<<<<<<<<
+ *         return length - 1             # <<<<<<<<<<<<<<
  * 
- * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2) except -1:
+ * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2):
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 68, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_3);
-    __Pyx_Raise(__pyx_t_3, 0, 0, 0);
-    __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __PYX_ERR(2, 68, __pyx_L1_error)
+    __pyx_r = (__pyx_v_length - 1);
+    goto __pyx_L0;
   }
 
   /* "talib/_func.pxi":59
  *     return length
  * 
- * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx1(np.npy_intp length, double* a1):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
 
   /* function exit code */
-  __pyx_L1_error:;
-  __Pyx_XDECREF(__pyx_t_3);
-  __Pyx_AddTraceback("talib._ta_lib.check_begidx1", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1;
   __pyx_L0:;
-  __Pyx_RefNannyFinishContext();
   return __pyx_r;
 }
 
 /* "talib/_func.pxi":70
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
@@ -10680,14 +10657,8 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx2(npy_intp __pyx_v_length, do
   double __pyx_v_val;
   long __pyx_v_i;
   npy_int __pyx_r;
-  __Pyx_RefNannyDeclarations
   npy_intp __pyx_t_1;
   int __pyx_t_2;
-  PyObject *__pyx_t_3 = NULL;
-  int __pyx_lineno = 0;
-  const char *__pyx_filename = NULL;
-  int __pyx_clineno = 0;
-  __Pyx_RefNannySetupContext("check_begidx2", 1);
 
   /* "talib/_func.pxi":73
  *     cdef:
@@ -10778,7 +10749,7 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx2(npy_intp __pyx_v_length, do
  *             continue
  *         return i             # <<<<<<<<<<<<<<
  *     else:
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  */
     __pyx_r = __pyx_v_i;
     goto __pyx_L0;
@@ -10789,39 +10760,31 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx2(npy_intp __pyx_v_length, do
     /* "talib/_func.pxi":82
  *         return i
  *     else:
- *         raise Exception("inputs are all NaN")             # <<<<<<<<<<<<<<
+ *         return length - 1             # <<<<<<<<<<<<<<
  * 
- * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3) except -1:
+ * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3):
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 82, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_3);
-    __Pyx_Raise(__pyx_t_3, 0, 0, 0);
-    __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __PYX_ERR(2, 82, __pyx_L1_error)
+    __pyx_r = (__pyx_v_length - 1);
+    goto __pyx_L0;
   }
 
   /* "talib/_func.pxi":70
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
 
   /* function exit code */
-  __pyx_L1_error:;
-  __Pyx_XDECREF(__pyx_t_3);
-  __Pyx_AddTraceback("talib._ta_lib.check_begidx2", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1;
   __pyx_L0:;
-  __Pyx_RefNannyFinishContext();
   return __pyx_r;
 }
 
 /* "talib/_func.pxi":84
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
@@ -10830,14 +10793,8 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx3(npy_intp __pyx_v_length, do
   double __pyx_v_val;
   long __pyx_v_i;
   npy_int __pyx_r;
-  __Pyx_RefNannyDeclarations
   npy_intp __pyx_t_1;
   int __pyx_t_2;
-  PyObject *__pyx_t_3 = NULL;
-  int __pyx_lineno = 0;
-  const char *__pyx_filename = NULL;
-  int __pyx_clineno = 0;
-  __Pyx_RefNannySetupContext("check_begidx3", 1);
 
   /* "talib/_func.pxi":87
  *     cdef:
@@ -10965,7 +10922,7 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx3(npy_intp __pyx_v_length, do
  *             continue
  *         return i             # <<<<<<<<<<<<<<
  *     else:
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  */
     __pyx_r = __pyx_v_i;
     goto __pyx_L0;
@@ -10976,39 +10933,31 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx3(npy_intp __pyx_v_length, do
     /* "talib/_func.pxi":99
  *         return i
  *     else:
- *         raise Exception("inputs are all NaN")             # <<<<<<<<<<<<<<
+ *         return length - 1             # <<<<<<<<<<<<<<
  * 
- * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4) except -1:
+ * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4):
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 99, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_3);
-    __Pyx_Raise(__pyx_t_3, 0, 0, 0);
-    __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __PYX_ERR(2, 99, __pyx_L1_error)
+    __pyx_r = (__pyx_v_length - 1);
+    goto __pyx_L0;
   }
 
   /* "talib/_func.pxi":84
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx3(np.npy_intp length, double* a1, double* a2, double* a3):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
 
   /* function exit code */
-  __pyx_L1_error:;
-  __Pyx_XDECREF(__pyx_t_3);
-  __Pyx_AddTraceback("talib._ta_lib.check_begidx3", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1;
   __pyx_L0:;
-  __Pyx_RefNannyFinishContext();
   return __pyx_r;
 }
 
 /* "talib/_func.pxi":101
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
@@ -11017,14 +10966,8 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx4(npy_intp __pyx_v_length, do
   double __pyx_v_val;
   long __pyx_v_i;
   npy_int __pyx_r;
-  __Pyx_RefNannyDeclarations
   npy_intp __pyx_t_1;
   int __pyx_t_2;
-  PyObject *__pyx_t_3 = NULL;
-  int __pyx_lineno = 0;
-  const char *__pyx_filename = NULL;
-  int __pyx_clineno = 0;
-  __Pyx_RefNannySetupContext("check_begidx4", 1);
 
   /* "talib/_func.pxi":104
  *     cdef:
@@ -11189,7 +11132,7 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx4(npy_intp __pyx_v_length, do
  *             continue
  *         return i             # <<<<<<<<<<<<<<
  *     else:
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  */
     __pyx_r = __pyx_v_i;
     goto __pyx_L0;
@@ -11200,37 +11143,29 @@ static npy_int __pyx_f_5talib_7_ta_lib_check_begidx4(npy_intp __pyx_v_length, do
     /* "talib/_func.pxi":119
  *         return i
  *     else:
- *         raise Exception("inputs are all NaN")             # <<<<<<<<<<<<<<
+ *         return length - 1             # <<<<<<<<<<<<<<
  * 
  * cdef np.ndarray make_double_array(np.npy_intp length, int lookback):
  */
-    __pyx_t_3 = __Pyx_PyObject_Call(((PyObject *)(&((PyTypeObject*)PyExc_Exception)[0])), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 119, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_3);
-    __Pyx_Raise(__pyx_t_3, 0, 0, 0);
-    __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __PYX_ERR(2, 119, __pyx_L1_error)
+    __pyx_r = (__pyx_v_length - 1);
+    goto __pyx_L0;
   }
 
   /* "talib/_func.pxi":101
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
- * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4) except -1:             # <<<<<<<<<<<<<<
+ * cdef np.npy_int check_begidx4(np.npy_intp length, double* a1, double* a2, double* a3, double* a4):             # <<<<<<<<<<<<<<
  *     cdef:
  *         double val
  */
 
   /* function exit code */
-  __pyx_L1_error:;
-  __Pyx_XDECREF(__pyx_t_3);
-  __Pyx_AddTraceback("talib._ta_lib.check_begidx4", __pyx_clineno, __pyx_lineno, __pyx_filename);
-  __pyx_r = -1;
   __pyx_L0:;
-  __Pyx_RefNannyFinishContext();
   return __pyx_r;
 }
 
 /* "talib/_func.pxi":121
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
  * cdef np.ndarray make_double_array(np.npy_intp length, int lookback):             # <<<<<<<<<<<<<<
  *     cdef:
@@ -11317,7 +11252,7 @@ static PyArrayObject *__pyx_f_5talib_7_ta_lib_make_double_array(npy_intp __pyx_v
   goto __pyx_L0;
 
   /* "talib/_func.pxi":121
- *         raise Exception("inputs are all NaN")
+ *         return length - 1
  * 
  * cdef np.ndarray make_double_array(np.npy_intp length, int lookback):             # <<<<<<<<<<<<<<
  *     cdef:
@@ -11605,7 +11540,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_18ACOS(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_ACOS_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 163, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 163, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 163, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":164
@@ -11934,7 +11869,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_20AD(CYTHON_UNUSED PyObject *__pyx_sel
  *     begidx = check_begidx4(length, <double*>(high.data), <double*>(low.data), <double*>(close.data), <double*>(volume.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 194, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 194, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":195
@@ -11948,7 +11883,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_20AD(CYTHON_UNUSED PyObject *__pyx_sel
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 195, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 195, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_volume); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 195, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 195, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 195, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":196
@@ -12223,7 +12158,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_22ADD(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 225, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 225, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":226
@@ -12235,7 +12170,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_22ADD(CYTHON_UNUSED PyObject *__pyx_se
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 226, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 226, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 226, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 226, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":227
@@ -12602,7 +12537,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_24ADOSC(CYTHON_UNUSED PyObject *__pyx_
  *     begidx = check_begidx4(length, <double*>(high.data), <double*>(low.data), <double*>(close.data), <double*>(volume.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 260, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 260, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":261
@@ -12616,7 +12551,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_24ADOSC(CYTHON_UNUSED PyObject *__pyx_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 261, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 261, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_volume); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 261, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 261, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 261, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":262
@@ -12940,7 +12875,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_26ADX(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 293, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 293, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":294
@@ -12953,7 +12888,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_26ADX(CYTHON_UNUSED PyObject *__pyx_se
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 294, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 294, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 294, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 294, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 294, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":295
@@ -13275,7 +13210,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_28ADXR(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 326, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 326, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":327
@@ -13288,7 +13223,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_28ADXR(CYTHON_UNUSED PyObject *__pyx_s
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 327, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 327, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 327, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 327, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 327, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":328
@@ -13595,7 +13530,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_30APO(CYTHON_UNUSED PyObject *__pyx_se
  *     lookback = begidx + lib.TA_APO_Lookback( fastperiod , slowperiod , matype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 360, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 360, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 360, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":361
@@ -13885,7 +13820,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_32AROON(CYTHON_UNUSED PyObject *__pyx_
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 393, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 393, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":394
@@ -13897,7 +13832,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_32AROON(CYTHON_UNUSED PyObject *__pyx_
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 394, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 394, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 394, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 394, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":395
@@ -14209,7 +14144,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_34AROONOSC(CYTHON_UNUSED PyObject *__p
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 426, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 426, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":427
@@ -14221,7 +14156,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_34AROONOSC(CYTHON_UNUSED PyObject *__p
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 427, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 427, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 427, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 427, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":428
@@ -14473,7 +14408,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_36ASIN(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_ASIN_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 456, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 456, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 456, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":457
@@ -14723,7 +14658,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_38ATAN(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_ATAN_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 485, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 485, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 485, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":486
@@ -15041,7 +14976,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_40ATR(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 517, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 517, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":518
@@ -15054,7 +14989,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_40ATR(CYTHON_UNUSED PyObject *__pyx_se
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 518, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 518, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 518, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 518, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 518, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":519
@@ -15387,7 +15322,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_42AVGPRICE(CYTHON_UNUSED PyObject *__p
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 549, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 549, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":550
@@ -15401,7 +15336,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_42AVGPRICE(CYTHON_UNUSED PyObject *__p
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 550, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 550, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 550, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 550, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 550, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":551
@@ -15731,7 +15666,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_44BBANDS(CYTHON_UNUSED PyObject *__pyx
  *     lookback = begidx + lib.TA_BBANDS_Lookback( timeperiod , nbdevup , nbdevdn , matype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 588, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 588, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 588, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":589
@@ -16058,7 +15993,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_46BETA(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 622, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 622, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":623
@@ -16070,7 +16005,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_46BETA(CYTHON_UNUSED PyObject *__pyx_s
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 623, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 623, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 623, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 623, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":624
@@ -16401,7 +16336,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_48BOP(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 654, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 654, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":655
@@ -16415,7 +16350,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_48BOP(CYTHON_UNUSED PyObject *__pyx_se
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 655, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 655, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 655, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 655, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 655, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":656
@@ -16739,7 +16674,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_50CCI(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 687, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 687, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":688
@@ -16752,7 +16687,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_50CCI(CYTHON_UNUSED PyObject *__pyx_se
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 688, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 688, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 688, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 688, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 688, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":689
@@ -17085,7 +17020,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_52CDL2CROWS(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 719, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 719, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":720
@@ -17099,7 +17034,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_52CDL2CROWS(CYTHON_UNUSED PyObject *__
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 720, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 720, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 720, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 720, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 720, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":721
@@ -17434,7 +17369,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_54CDL3BLACKCROWS(CYTHON_UNUSED PyObjec
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 751, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 751, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":752
@@ -17448,7 +17383,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_54CDL3BLACKCROWS(CYTHON_UNUSED PyObjec
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 752, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 752, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 752, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 752, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 752, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":753
@@ -17783,7 +17718,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_56CDL3INSIDE(CYTHON_UNUSED PyObject *_
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 783, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 783, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":784
@@ -17797,7 +17732,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_56CDL3INSIDE(CYTHON_UNUSED PyObject *_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 784, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 784, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 784, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 784, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 784, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":785
@@ -18132,7 +18067,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_58CDL3LINESTRIKE(CYTHON_UNUSED PyObjec
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 815, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 815, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":816
@@ -18146,7 +18081,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_58CDL3LINESTRIKE(CYTHON_UNUSED PyObjec
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 816, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 816, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 816, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 816, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 816, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":817
@@ -18481,7 +18416,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_60CDL3OUTSIDE(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 847, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 847, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":848
@@ -18495,7 +18430,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_60CDL3OUTSIDE(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 848, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 848, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 848, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 848, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 848, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":849
@@ -18830,7 +18765,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_62CDL3STARSINSOUTH(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 879, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 879, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":880
@@ -18844,7 +18779,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_62CDL3STARSINSOUTH(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 880, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 880, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 880, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 880, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 880, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":881
@@ -19179,7 +19114,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_64CDL3WHITESOLDIERS(CYTHON_UNUSED PyOb
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 911, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 911, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":912
@@ -19193,7 +19128,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_64CDL3WHITESOLDIERS(CYTHON_UNUSED PyOb
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 912, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 912, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 912, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 912, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 912, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":913
@@ -19547,7 +19482,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_66CDLABANDONEDBABY(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 945, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 945, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":946
@@ -19561,7 +19496,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_66CDLABANDONEDBABY(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 946, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 946, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 946, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 946, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 946, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":947
@@ -19896,7 +19831,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_68CDLADVANCEBLOCK(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 977, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 977, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":978
@@ -19910,7 +19845,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_68CDLADVANCEBLOCK(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 978, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 978, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 978, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 978, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 978, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":979
@@ -20245,7 +20180,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_70CDLBELTHOLD(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1009, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1009, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1010
@@ -20259,7 +20194,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_70CDLBELTHOLD(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1010, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1010, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1010, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1010, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1010, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1011
@@ -20594,7 +20529,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_72CDLBREAKAWAY(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1041, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1041, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1042
@@ -20608,7 +20543,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_72CDLBREAKAWAY(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1042, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1042, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1042, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1042, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1042, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1043
@@ -20943,7 +20878,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_74CDLCLOSINGMARUBOZU(CYTHON_UNUSED PyO
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1073, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1073, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1074
@@ -20957,7 +20892,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_74CDLCLOSINGMARUBOZU(CYTHON_UNUSED PyO
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1074, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1074, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1074, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1074, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1074, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1075
@@ -21292,7 +21227,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_76CDLCONCEALBABYSWALL(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1105, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1105, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1106
@@ -21306,7 +21241,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_76CDLCONCEALBABYSWALL(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1106, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1106, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1106, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1106, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1106, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1107
@@ -21641,7 +21576,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_78CDLCOUNTERATTACK(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1137, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1137, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1138
@@ -21655,7 +21590,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_78CDLCOUNTERATTACK(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1138, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1138, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1138, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1138, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1138, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1139
@@ -22009,7 +21944,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_80CDLDARKCLOUDCOVER(CYTHON_UNUSED PyOb
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1171, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1171, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1172
@@ -22023,7 +21958,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_80CDLDARKCLOUDCOVER(CYTHON_UNUSED PyOb
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1172, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1172, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1172, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1172, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1172, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1173
@@ -22358,7 +22293,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_82CDLDOJI(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1203, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1203, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1204
@@ -22372,7 +22307,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_82CDLDOJI(CYTHON_UNUSED PyObject *__py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1204, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1204, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1204, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1204, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1204, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1205
@@ -22707,7 +22642,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_84CDLDOJISTAR(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1235, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1235, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1236
@@ -22721,7 +22656,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_84CDLDOJISTAR(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1236, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1236, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1236, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1236, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1236, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1237
@@ -23056,7 +22991,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_86CDLDRAGONFLYDOJI(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1267, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1267, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1268
@@ -23070,7 +23005,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_86CDLDRAGONFLYDOJI(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1268, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1268, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1268, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1268, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1268, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1269
@@ -23405,7 +23340,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_88CDLENGULFING(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1299, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1299, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1300
@@ -23419,7 +23354,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_88CDLENGULFING(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1300, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1300, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1300, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1300, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1300, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1301
@@ -23773,7 +23708,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_90CDLEVENINGDOJISTAR(CYTHON_UNUSED PyO
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1333, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1333, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1334
@@ -23787,7 +23722,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_90CDLEVENINGDOJISTAR(CYTHON_UNUSED PyO
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1334, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1334, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1334, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1334, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1334, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1335
@@ -24141,7 +24076,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_92CDLEVENINGSTAR(CYTHON_UNUSED PyObjec
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1367, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1367, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1368
@@ -24155,7 +24090,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_92CDLEVENINGSTAR(CYTHON_UNUSED PyObjec
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1368, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1368, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1368, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1368, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1368, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1369
@@ -24490,7 +24425,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_94CDLGAPSIDESIDEWHITE(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1399, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1399, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1400
@@ -24504,7 +24439,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_94CDLGAPSIDESIDEWHITE(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1400, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1400, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1400, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1400, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1400, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1401
@@ -24839,7 +24774,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_96CDLGRAVESTONEDOJI(CYTHON_UNUSED PyOb
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1431, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1431, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1432
@@ -24853,7 +24788,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_96CDLGRAVESTONEDOJI(CYTHON_UNUSED PyOb
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1432, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1432, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1432, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1432, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1432, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1433
@@ -25188,7 +25123,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_98CDLHAMMER(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1463, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1463, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1464
@@ -25202,7 +25137,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_98CDLHAMMER(CYTHON_UNUSED PyObject *__
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1464, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1464, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1464, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1464, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1464, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1465
@@ -25537,7 +25472,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_100CDLHANGINGMAN(CYTHON_UNUSED PyObjec
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1495, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1495, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1496
@@ -25551,7 +25486,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_100CDLHANGINGMAN(CYTHON_UNUSED PyObjec
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1496, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1496, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1496, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1496, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1496, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1497
@@ -25886,7 +25821,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_102CDLHARAMI(CYTHON_UNUSED PyObject *_
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1527, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1527, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1528
@@ -25900,7 +25835,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_102CDLHARAMI(CYTHON_UNUSED PyObject *_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1528, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1528, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1528, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1528, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1528, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1529
@@ -26235,7 +26170,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_104CDLHARAMICROSS(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1559, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1559, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1560
@@ -26249,7 +26184,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_104CDLHARAMICROSS(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1560, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1560, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1560, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1560, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1560, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1561
@@ -26584,7 +26519,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_106CDLHIGHWAVE(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1591, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1591, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1592
@@ -26598,7 +26533,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_106CDLHIGHWAVE(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1592, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1592, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1592, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1592, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1592, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1593
@@ -26933,7 +26868,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_108CDLHIKKAKE(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1623, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1623, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1624
@@ -26947,7 +26882,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_108CDLHIKKAKE(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1624, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1624, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1624, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1624, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1624, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1625
@@ -27282,7 +27217,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_110CDLHIKKAKEMOD(CYTHON_UNUSED PyObjec
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1655, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1655, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1656
@@ -27296,7 +27231,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_110CDLHIKKAKEMOD(CYTHON_UNUSED PyObjec
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1656, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1656, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1656, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1656, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1656, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1657
@@ -27631,7 +27566,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_112CDLHOMINGPIGEON(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1687, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1687, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1688
@@ -27645,7 +27580,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_112CDLHOMINGPIGEON(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1688, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1688, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1688, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1688, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1688, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1689
@@ -27980,7 +27915,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_114CDLIDENTICAL3CROWS(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1719, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1719, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1720
@@ -27994,7 +27929,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_114CDLIDENTICAL3CROWS(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1720, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1720, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1720, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1720, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1720, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1721
@@ -28329,7 +28264,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_116CDLINNECK(CYTHON_UNUSED PyObject *_
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1751, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1751, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1752
@@ -28343,7 +28278,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_116CDLINNECK(CYTHON_UNUSED PyObject *_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1752, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1752, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1752, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1752, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1752, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1753
@@ -28678,7 +28613,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_118CDLINVERTEDHAMMER(CYTHON_UNUSED PyO
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1783, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1783, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1784
@@ -28692,7 +28627,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_118CDLINVERTEDHAMMER(CYTHON_UNUSED PyO
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1784, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1784, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1784, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1784, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1784, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1785
@@ -29027,7 +28962,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_120CDLKICKING(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1815, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1815, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1816
@@ -29041,7 +28976,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_120CDLKICKING(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1816, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1816, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1816, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1816, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1816, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1817
@@ -29376,7 +29311,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_122CDLKICKINGBYLENGTH(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1847, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1847, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1848
@@ -29390,7 +29325,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_122CDLKICKINGBYLENGTH(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1848, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1848, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1848, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1848, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1848, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1849
@@ -29725,7 +29660,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_124CDLLADDERBOTTOM(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1879, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1879, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1880
@@ -29739,7 +29674,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_124CDLLADDERBOTTOM(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1880, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1880, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1880, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1880, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1880, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1881
@@ -30074,7 +30009,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_126CDLLONGLEGGEDDOJI(CYTHON_UNUSED PyO
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1911, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1911, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1912
@@ -30088,7 +30023,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_126CDLLONGLEGGEDDOJI(CYTHON_UNUSED PyO
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1912, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1912, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1912, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1912, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1912, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1913
@@ -30423,7 +30358,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_128CDLLONGLINE(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1943, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1943, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1944
@@ -30437,7 +30372,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_128CDLLONGLINE(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1944, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1944, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1944, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1944, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1944, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1945
@@ -30772,7 +30707,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_130CDLMARUBOZU(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 1975, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 1975, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":1976
@@ -30786,7 +30721,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_130CDLMARUBOZU(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1976, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1976, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 1976, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 1976, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 1976, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":1977
@@ -31121,7 +31056,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_132CDLMATCHINGLOW(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2007, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2007, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2008
@@ -31135,7 +31070,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_132CDLMATCHINGLOW(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2008, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2008, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2008, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2008, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2008, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2009
@@ -31489,7 +31424,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_134CDLMATHOLD(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2041, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2041, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2042
@@ -31503,7 +31438,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_134CDLMATHOLD(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2042, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2042, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2042, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2042, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2042, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2043
@@ -31857,7 +31792,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_136CDLMORNINGDOJISTAR(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2075, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2075, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2076
@@ -31871,7 +31806,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_136CDLMORNINGDOJISTAR(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2076, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2076, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2076, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2076, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2076, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2077
@@ -32225,7 +32160,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_138CDLMORNINGSTAR(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2109, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2109, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2110
@@ -32239,7 +32174,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_138CDLMORNINGSTAR(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2110, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2110, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2110, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2110, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2110, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2111
@@ -32574,7 +32509,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_140CDLONNECK(CYTHON_UNUSED PyObject *_
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2141, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2141, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2142
@@ -32588,7 +32523,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_140CDLONNECK(CYTHON_UNUSED PyObject *_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2142, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2142, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2142, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2142, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2142, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2143
@@ -32923,7 +32858,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_142CDLPIERCING(CYTHON_UNUSED PyObject 
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2173, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2173, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2174
@@ -32937,7 +32872,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_142CDLPIERCING(CYTHON_UNUSED PyObject 
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2174, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2174, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2174, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2174, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2174, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2175
@@ -33272,7 +33207,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_144CDLRICKSHAWMAN(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2205, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2205, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2206
@@ -33286,7 +33221,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_144CDLRICKSHAWMAN(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2206, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2206, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2206, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2206, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2206, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2207
@@ -33621,7 +33556,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_146CDLRISEFALL3METHODS(CYTHON_UNUSED P
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2237, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2237, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2238
@@ -33635,7 +33570,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_146CDLRISEFALL3METHODS(CYTHON_UNUSED P
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2238, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2238, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2238, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2238, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2238, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2239
@@ -33970,7 +33905,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_148CDLSEPARATINGLINES(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2269, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2269, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2270
@@ -33984,7 +33919,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_148CDLSEPARATINGLINES(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2270, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2270, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2270, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2270, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2270, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2271
@@ -34319,7 +34254,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_150CDLSHOOTINGSTAR(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2301, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2301, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2302
@@ -34333,7 +34268,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_150CDLSHOOTINGSTAR(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2302, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2302, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2302, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2302, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2302, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2303
@@ -34668,7 +34603,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_152CDLSHORTLINE(CYTHON_UNUSED PyObject
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2333, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2333, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2334
@@ -34682,7 +34617,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_152CDLSHORTLINE(CYTHON_UNUSED PyObject
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2334, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2334, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2334, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2334, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2334, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2335
@@ -35017,7 +34952,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_154CDLSPINNINGTOP(CYTHON_UNUSED PyObje
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2365, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2365, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2366
@@ -35031,7 +34966,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_154CDLSPINNINGTOP(CYTHON_UNUSED PyObje
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2366, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2366, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2366, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2366, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2366, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2367
@@ -35366,7 +35301,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_156CDLSTALLEDPATTERN(CYTHON_UNUSED PyO
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2397, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2397, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2398
@@ -35380,7 +35315,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_156CDLSTALLEDPATTERN(CYTHON_UNUSED PyO
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2398, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2398, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2398, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2398, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2398, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2399
@@ -35715,7 +35650,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_158CDLSTICKSANDWICH(CYTHON_UNUSED PyOb
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2429, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2429, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2430
@@ -35729,7 +35664,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_158CDLSTICKSANDWICH(CYTHON_UNUSED PyOb
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2430, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2430, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2430, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2430, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2430, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2431
@@ -36064,7 +35999,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_160CDLTAKURI(CYTHON_UNUSED PyObject *_
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2461, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2461, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2462
@@ -36078,7 +36013,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_160CDLTAKURI(CYTHON_UNUSED PyObject *_
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2462, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2462, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2462, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2462, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2462, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2463
@@ -36413,7 +36348,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_162CDLTASUKIGAP(CYTHON_UNUSED PyObject
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2493, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2493, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2494
@@ -36427,7 +36362,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_162CDLTASUKIGAP(CYTHON_UNUSED PyObject
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2494, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2494, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2494, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2494, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2494, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2495
@@ -36762,7 +36697,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_164CDLTHRUSTING(CYTHON_UNUSED PyObject
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2525, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2525, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2526
@@ -36776,7 +36711,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_164CDLTHRUSTING(CYTHON_UNUSED PyObject
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2526, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2526, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2526, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2526, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2526, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2527
@@ -37111,7 +37046,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_166CDLTRISTAR(CYTHON_UNUSED PyObject *
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2557, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2557, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2558
@@ -37125,7 +37060,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_166CDLTRISTAR(CYTHON_UNUSED PyObject *
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2558, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2558, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2558, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2558, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2558, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2559
@@ -37460,7 +37395,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_168CDLUNIQUE3RIVER(CYTHON_UNUSED PyObj
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2589, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2589, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2590
@@ -37474,7 +37409,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_168CDLUNIQUE3RIVER(CYTHON_UNUSED PyObj
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2590, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2590, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2590, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2590, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2590, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2591
@@ -37809,7 +37744,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_170CDLUPSIDEGAP2CROWS(CYTHON_UNUSED Py
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2621, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2621, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2622
@@ -37823,7 +37758,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_170CDLUPSIDEGAP2CROWS(CYTHON_UNUSED Py
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2622, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2622, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2622, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2622, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2622, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2623
@@ -38158,7 +38093,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_172CDLXSIDEGAP3METHODS(CYTHON_UNUSED P
  *     begidx = check_begidx4(length, <double*>(open.data), <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2653, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_open, __pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2653, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2654
@@ -38172,7 +38107,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_172CDLXSIDEGAP3METHODS(CYTHON_UNUSED P
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2654, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2654, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2654, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 2654, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2654, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":2655
@@ -38428,7 +38363,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_174CEIL(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_CEIL_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2683, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2683, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2683, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2684
@@ -38697,7 +38632,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_176CMO(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_CMO_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2714, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2714, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2714, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2715
@@ -38985,7 +38920,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_178CORREL(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2746, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2746, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2747
@@ -38997,7 +38932,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_178CORREL(CYTHON_UNUSED PyObject *__py
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2747, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2747, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 2747, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2747, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":2748
@@ -39249,7 +39184,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_180COS(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_COS_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2776, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2776, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2776, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2777
@@ -39499,7 +39434,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_182COSH(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_COSH_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2805, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2805, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2805, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2806
@@ -39768,7 +39703,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_184DEMA(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_DEMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2836, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2836, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2836, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2837
@@ -40037,7 +39972,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_186DIV(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2866, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2866, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2867
@@ -40049,7 +39984,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_186DIV(CYTHON_UNUSED PyObject *__pyx_s
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2867, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2867, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 2867, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2867, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":2868
@@ -40369,7 +40304,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_188DX(CYTHON_UNUSED PyObject *__pyx_se
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 2899, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 2899, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":2900
@@ -40382,7 +40317,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_188DX(CYTHON_UNUSED PyObject *__pyx_se
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2900, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2900, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2900, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 2900, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2900, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":2901
@@ -40655,7 +40590,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_190EMA(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_EMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2931, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2931, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2931, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2932
@@ -40905,7 +40840,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_192EXP(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_EXP_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2960, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2960, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2960, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2961
@@ -41155,7 +41090,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_194FLOOR(CYTHON_UNUSED PyObject *__pyx
  *     lookback = begidx + lib.TA_FLOOR_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 2989, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 2989, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 2989, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":2990
@@ -41405,7 +41340,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_196HT_DCPERIOD(CYTHON_UNUSED PyObject 
  *     lookback = begidx + lib.TA_HT_DCPERIOD_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3018, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3018, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3018, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3019
@@ -41655,7 +41590,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_198HT_DCPHASE(CYTHON_UNUSED PyObject *
  *     lookback = begidx + lib.TA_HT_DCPHASE_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3047, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3047, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3047, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3048
@@ -41907,7 +41842,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_200HT_PHASOR(CYTHON_UNUSED PyObject *_
  *     lookback = begidx + lib.TA_HT_PHASOR_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3078, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3078, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3078, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3079
@@ -42181,7 +42116,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_202HT_SINE(CYTHON_UNUSED PyObject *__p
  *     lookback = begidx + lib.TA_HT_SINE_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3110, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3110, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3110, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3111
@@ -42453,7 +42388,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_204HT_TRENDLINE(CYTHON_UNUSED PyObject
  *     lookback = begidx + lib.TA_HT_TRENDLINE_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3140, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3140, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3140, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3141
@@ -42703,7 +42638,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_206HT_TRENDMODE(CYTHON_UNUSED PyObject
  *     lookback = begidx + lib.TA_HT_TRENDMODE_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3169, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3169, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3169, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3170
@@ -42972,7 +42907,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_208KAMA(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_KAMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3200, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3200, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3200, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3201
@@ -43241,7 +43176,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_210LINEARREG(CYTHON_UNUSED PyObject *_
  *     lookback = begidx + lib.TA_LINEARREG_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3231, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3231, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3231, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3232
@@ -43510,7 +43445,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_212LINEARREG_ANGLE(CYTHON_UNUSED PyObj
  *     lookback = begidx + lib.TA_LINEARREG_ANGLE_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3262, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3262, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3262, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3263
@@ -43779,7 +43714,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_214LINEARREG_INTERCEPT(CYTHON_UNUSED P
  *     lookback = begidx + lib.TA_LINEARREG_INTERCEPT_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3293, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3293, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3293, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3294
@@ -44048,7 +43983,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_216LINEARREG_SLOPE(CYTHON_UNUSED PyObj
  *     lookback = begidx + lib.TA_LINEARREG_SLOPE_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3324, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3324, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3324, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3325
@@ -44298,7 +44233,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_218LN(CYTHON_UNUSED PyObject *__pyx_se
  *     lookback = begidx + lib.TA_LN_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3353, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3353, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3353, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3354
@@ -44548,7 +44483,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_220LOG10(CYTHON_UNUSED PyObject *__pyx
  *     lookback = begidx + lib.TA_LOG10_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3382, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3382, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3382, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3383
@@ -44834,7 +44769,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_222MA(CYTHON_UNUSED PyObject *__pyx_se
  *     lookback = begidx + lib.TA_MA_Lookback( timeperiod , matype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3414, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3414, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3414, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3415
@@ -45141,7 +45076,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_224MACD(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_MACD_Lookback( fastperiod , slowperiod , signalperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3451, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3451, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3451, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3452
@@ -45538,7 +45473,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_226MACDEXT(CYTHON_UNUSED PyObject *__p
  *     lookback = begidx + lib.TA_MACDEXT_Lookback( fastperiod , fastmatype , slowperiod , slowmatype , signalperiod , signalmatype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3493, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3493, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3493, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3494
@@ -45850,7 +45785,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_228MACDFIX(CYTHON_UNUSED PyObject *__p
  *     lookback = begidx + lib.TA_MACDFIX_Lookback( signalperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3530, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3530, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3530, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3531
@@ -46177,7 +46112,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_230MAMA(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_MAMA_Lookback( fastlimit , slowlimit )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3566, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3566, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3566, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3567
@@ -46521,7 +46456,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_232MAVP(CYTHON_UNUSED PyObject *__pyx_
  *     begidx = check_begidx2(length, <double*>(real.data), <double*>(periods.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real, __pyx_v_periods); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3601, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real, __pyx_v_periods); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3601, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3602
@@ -46533,7 +46468,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_232MAVP(CYTHON_UNUSED PyObject *__pyx_
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3602, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_periods); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3602, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 3602, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3602, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":3603
@@ -46804,7 +46739,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_234MAX(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_MAX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3633, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3633, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3633, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3634
@@ -47077,7 +47012,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_236MAXINDEX(CYTHON_UNUSED PyObject *__
  *     lookback = begidx + lib.TA_MAXINDEX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3664, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3664, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3664, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3665
@@ -47377,7 +47312,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_238MEDPRICE(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3696, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3696, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3697
@@ -47389,7 +47324,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_238MEDPRICE(CYTHON_UNUSED PyObject *__
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3697, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3697, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 3697, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3697, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":3698
@@ -47739,7 +47674,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_240MFI(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx4(length, <double*>(high.data), <double*>(low.data), <double*>(close.data), <double*>(volume.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3730, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length4(__pyx_v_high, __pyx_v_low, __pyx_v_close, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3730, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3731
@@ -47753,7 +47688,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_240MFI(CYTHON_UNUSED PyObject *__pyx_s
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3731, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3731, __pyx_L1_error)
   __pyx_t_6 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_volume); if (unlikely(__pyx_t_6 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3731, __pyx_L1_error)
-  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1))) __PYX_ERR(2, 3731, __pyx_L1_error)
+  __pyx_t_7 = __pyx_f_5talib_7_ta_lib_check_begidx4(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5), ((double *)__pyx_t_6)); if (unlikely(__pyx_t_7 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3731, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_7;
 
   /* "talib/_func.pxi":3732
@@ -48028,7 +47963,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_242MIDPOINT(CYTHON_UNUSED PyObject *__
  *     lookback = begidx + lib.TA_MIDPOINT_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3762, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3762, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3762, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3763
@@ -48316,7 +48251,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_244MIDPRICE(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3793, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3793, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3794
@@ -48328,7 +48263,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_244MIDPRICE(CYTHON_UNUSED PyObject *__
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3794, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3794, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 3794, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3794, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":3795
@@ -48599,7 +48534,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_246MIN(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_MIN_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3825, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3825, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3825, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3826
@@ -48872,7 +48807,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_248MININDEX(CYTHON_UNUSED PyObject *__
  *     lookback = begidx + lib.TA_MININDEX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3856, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3856, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3856, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3857
@@ -49174,7 +49109,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_250MINMAX(CYTHON_UNUSED PyObject *__py
  *     lookback = begidx + lib.TA_MINMAX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3892, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3892, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3892, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3893
@@ -49472,7 +49407,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_252MINMAXINDEX(CYTHON_UNUSED PyObject 
  *     lookback = begidx + lib.TA_MINMAXINDEX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3926, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 3926, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3926, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":3927
@@ -49874,7 +49809,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_254MINUS_DI(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3965, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3965, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3966
@@ -49887,7 +49822,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_254MINUS_DI(CYTHON_UNUSED PyObject *__
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3966, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3966, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3966, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 3966, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3966, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":3967
@@ -50179,7 +50114,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_256MINUS_DM(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 3997, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 3997, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":3998
@@ -50191,7 +50126,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_256MINUS_DM(CYTHON_UNUSED PyObject *__
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3998, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 3998, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 3998, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 3998, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":3999
@@ -50462,7 +50397,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_258MOM(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_MOM_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4029, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4029, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4029, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4030
@@ -50731,7 +50666,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_260MULT(CYTHON_UNUSED PyObject *__pyx_
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4059, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4059, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4060
@@ -50743,7 +50678,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_260MULT(CYTHON_UNUSED PyObject *__pyx_
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4060, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4060, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4060, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4060, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4061
@@ -51063,7 +50998,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_262NATR(CYTHON_UNUSED PyObject *__pyx_
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4092, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4092, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4093
@@ -51076,7 +51011,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_262NATR(CYTHON_UNUSED PyObject *__pyx_
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4093, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4093, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4093, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 4093, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4093, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":4094
@@ -51349,7 +51284,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_264OBV(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx2(length, <double*>(real.data), <double*>(volume.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4123, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real, __pyx_v_volume); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4123, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4124
@@ -51361,7 +51296,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_264OBV(CYTHON_UNUSED PyObject *__pyx_s
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4124, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_volume); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4124, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4124, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4124, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4125
@@ -51681,7 +51616,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_266PLUS_DI(CYTHON_UNUSED PyObject *__p
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4156, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4156, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4157
@@ -51694,7 +51629,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_266PLUS_DI(CYTHON_UNUSED PyObject *__p
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4157, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4157, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4157, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 4157, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4157, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":4158
@@ -51986,7 +51921,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_268PLUS_DM(CYTHON_UNUSED PyObject *__p
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4188, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4188, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4189
@@ -51998,7 +51933,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_268PLUS_DM(CYTHON_UNUSED PyObject *__p
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4189, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4189, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4189, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4189, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4190
@@ -52303,7 +52238,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_270PPO(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_PPO_Lookback( fastperiod , slowperiod , matype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4222, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4222, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4222, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4223
@@ -52572,7 +52507,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_272ROC(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_ROC_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4253, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4253, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4253, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4254
@@ -52841,7 +52776,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_274ROCP(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_ROCP_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4284, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4284, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4284, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4285
@@ -53110,7 +53045,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_276ROCR(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_ROCR_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4315, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4315, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4315, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4316
@@ -53379,7 +53314,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_278ROCR100(CYTHON_UNUSED PyObject *__p
  *     lookback = begidx + lib.TA_ROCR100_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4346, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4346, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4346, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4347
@@ -53648,7 +53583,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_280RSI(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_RSI_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4377, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4377, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4377, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4378
@@ -53953,7 +53888,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_282SAR(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4409, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4409, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4410
@@ -53965,7 +53900,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_282SAR(CYTHON_UNUSED PyObject *__pyx_s
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4410, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4410, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4410, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4410, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4411
@@ -54374,7 +54309,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_284SAREXT(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx2(length, <double*>(high.data), <double*>(low.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4448, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_high, __pyx_v_low); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4448, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4449
@@ -54386,7 +54321,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_284SAREXT(CYTHON_UNUSED PyObject *__py
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4449, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4449, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4449, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4449, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4450
@@ -54638,7 +54573,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_286SIN(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_SIN_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4478, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4478, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4478, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4479
@@ -54888,7 +54823,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_288SINH(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_SINH_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4507, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4507, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4507, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4508
@@ -55157,7 +55092,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_290SMA(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_SMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4538, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4538, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4538, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4539
@@ -55407,7 +55342,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_292SQRT(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_SQRT_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4567, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4567, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4567, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4568
@@ -55693,7 +55628,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_294STDDEV(CYTHON_UNUSED PyObject *__py
  *     lookback = begidx + lib.TA_STDDEV_Lookback( timeperiod , nbdev )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4599, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4599, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4599, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4600
@@ -56081,7 +56016,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_296STOCH(CYTHON_UNUSED PyObject *__pyx
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4637, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4637, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4638
@@ -56094,7 +56029,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_296STOCH(CYTHON_UNUSED PyObject *__pyx
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4638, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4638, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4638, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 4638, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4638, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":4639
@@ -56474,7 +56409,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_298STOCHF(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4675, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4675, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4676
@@ -56487,7 +56422,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_298STOCHF(CYTHON_UNUSED PyObject *__py
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4676, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4676, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4676, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 4676, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4676, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":4677
@@ -56835,7 +56770,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_300STOCHRSI(CYTHON_UNUSED PyObject *__
  *     lookback = begidx + lib.TA_STOCHRSI_Lookback( timeperiod , fastk_period , fastd_period , fastd_matype )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4713, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4713, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4713, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4714
@@ -57126,7 +57061,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_302SUB(CYTHON_UNUSED PyObject *__pyx_s
  *     begidx = check_begidx2(length, <double*>(real0.data), <double*>(real1.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4744, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length2(__pyx_v_real0, __pyx_v_real1); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4744, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4745
@@ -57138,7 +57073,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_302SUB(CYTHON_UNUSED PyObject *__pyx_s
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real0); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4745, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real1); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4745, __pyx_L1_error)
-  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1))) __PYX_ERR(2, 4745, __pyx_L1_error)
+  __pyx_t_5 = __pyx_f_5talib_7_ta_lib_check_begidx2(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4)); if (unlikely(__pyx_t_5 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4745, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_5;
 
   /* "talib/_func.pxi":4746
@@ -57409,7 +57344,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_304SUM(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_SUM_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4776, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4776, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4776, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4777
@@ -57695,7 +57630,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_306T3(CYTHON_UNUSED PyObject *__pyx_se
  *     lookback = begidx + lib.TA_T3_Lookback( timeperiod , vfactor )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4808, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4808, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4808, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4809
@@ -57945,7 +57880,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_308TAN(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_TAN_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4837, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4837, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4837, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4838
@@ -58195,7 +58130,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_310TANH(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_TANH_Lookback( )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4866, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4866, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4866, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4867
@@ -58464,7 +58399,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_312TEMA(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_TEMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4897, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4897, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4897, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4898
@@ -58763,7 +58698,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_314TRANGE(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 4927, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 4927, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":4928
@@ -58776,7 +58711,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_314TRANGE(CYTHON_UNUSED PyObject *__py
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4928, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4928, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4928, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 4928, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4928, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":4929
@@ -59049,7 +58984,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_316TRIMA(CYTHON_UNUSED PyObject *__pyx
  *     lookback = begidx + lib.TA_TRIMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4959, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4959, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4959, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4960
@@ -59318,7 +59253,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_318TRIX(CYTHON_UNUSED PyObject *__pyx_
  *     lookback = begidx + lib.TA_TRIX_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 4990, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 4990, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 4990, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":4991
@@ -59587,7 +59522,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_320TSF(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_TSF_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5021, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 5021, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5021, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":5022
@@ -59886,7 +59821,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_322TYPPRICE(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 5051, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 5051, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":5052
@@ -59899,7 +59834,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_322TYPPRICE(CYTHON_UNUSED PyObject *__
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5052, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5052, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5052, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 5052, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5052, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":5053
@@ -60255,7 +60190,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_324ULTOSC(CYTHON_UNUSED PyObject *__py
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 5086, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 5086, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":5087
@@ -60268,7 +60203,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_324ULTOSC(CYTHON_UNUSED PyObject *__py
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5087, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5087, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5087, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 5087, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5087, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":5088
@@ -60558,7 +60493,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_326VAR(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_VAR_Lookback( timeperiod , nbdev )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5119, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 5119, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5119, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":5120
@@ -60857,7 +60792,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_328WCLPRICE(CYTHON_UNUSED PyObject *__
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 5149, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 5149, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":5150
@@ -60870,7 +60805,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_328WCLPRICE(CYTHON_UNUSED PyObject *__
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5150, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5150, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5150, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 5150, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5150, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":5151
@@ -61192,7 +61127,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_330WILLR(CYTHON_UNUSED PyObject *__pyx
  *     begidx = check_begidx3(length, <double*>(high.data), <double*>(low.data), <double*>(close.data))
  *     endidx = <int>length - begidx - 1
  */
-  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1L))) __PYX_ERR(2, 5182, __pyx_L1_error)
+  __pyx_t_2 = __pyx_f_5talib_7_ta_lib_check_length3(__pyx_v_high, __pyx_v_low, __pyx_v_close); if (unlikely(__pyx_t_2 == ((npy_intp)-1))) __PYX_ERR(2, 5182, __pyx_L1_error)
   __pyx_v_length = __pyx_t_2;
 
   /* "talib/_func.pxi":5183
@@ -61205,7 +61140,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_330WILLR(CYTHON_UNUSED PyObject *__pyx
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_high); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5183, __pyx_L1_error)
   __pyx_t_4 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_low); if (unlikely(__pyx_t_4 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5183, __pyx_L1_error)
   __pyx_t_5 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_close); if (unlikely(__pyx_t_5 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5183, __pyx_L1_error)
-  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1))) __PYX_ERR(2, 5183, __pyx_L1_error)
+  __pyx_t_6 = __pyx_f_5talib_7_ta_lib_check_begidx3(__pyx_v_length, ((double *)__pyx_t_3), ((double *)__pyx_t_4), ((double *)__pyx_t_5)); if (unlikely(__pyx_t_6 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5183, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_6;
 
   /* "talib/_func.pxi":5184
@@ -61478,7 +61413,7 @@ static PyObject *__pyx_pf_5talib_7_ta_lib_332WMA(CYTHON_UNUSED PyObject *__pyx_s
  *     lookback = begidx + lib.TA_WMA_Lookback( timeperiod )
  */
   __pyx_t_3 = __pyx_f_5numpy_7ndarray_4data_data(__pyx_v_real); if (unlikely(__pyx_t_3 == ((char *)NULL) && PyErr_Occurred())) __PYX_ERR(2, 5214, __pyx_L1_error)
-  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1))) __PYX_ERR(2, 5214, __pyx_L1_error)
+  __pyx_t_4 = __pyx_f_5talib_7_ta_lib_check_begidx1(__pyx_v_length, ((double *)__pyx_t_3)); if (unlikely(__pyx_t_4 == ((npy_int)-1) && PyErr_Occurred())) __PYX_ERR(2, 5214, __pyx_L1_error)
   __pyx_v_begidx = __pyx_t_4;
 
   /* "talib/_func.pxi":5215
@@ -61956,8 +61891,8 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_n_s_WILLR, __pyx_k_WILLR, sizeof(__pyx_k_WILLR), 0, 0, 1, 1},
     {&__pyx_n_s_WMA, __pyx_k_WMA, sizeof(__pyx_k_WMA), 0, 0, 1, 1},
     {&__pyx_kp_s_Weighted_Moving_Average, __pyx_k_Weighted_Moving_Average, sizeof(__pyx_k_Weighted_Moving_Average), 0, 0, 1, 0},
-    {&__pyx_n_s__234, __pyx_k__234, sizeof(__pyx_k__234), 0, 0, 1, 1},
-    {&__pyx_kp_u__37, __pyx_k__37, sizeof(__pyx_k__37), 0, 1, 0, 0},
+    {&__pyx_n_s__233, __pyx_k__233, sizeof(__pyx_k__233), 0, 0, 1, 1},
+    {&__pyx_kp_u__36, __pyx_k__36, sizeof(__pyx_k__36), 0, 1, 0, 0},
     {&__pyx_n_s_acceleration, __pyx_k_acceleration, sizeof(__pyx_k_acceleration), 0, 0, 1, 1},
     {&__pyx_n_s_accelerationinitlong, __pyx_k_accelerationinitlong, sizeof(__pyx_k_accelerationinitlong), 0, 0, 1, 1},
     {&__pyx_n_s_accelerationinitshort, __pyx_k_accelerationinitshort, sizeof(__pyx_k_accelerationinitshort), 0, 0, 1, 1},
@@ -61994,7 +61929,6 @@ static int __Pyx_CreateStringTabAndInitStrings(void) {
     {&__pyx_kp_s_input_array_has_wrong_dimensions, __pyx_k_input_array_has_wrong_dimensions, sizeof(__pyx_k_input_array_has_wrong_dimensions), 0, 0, 1, 0},
     {&__pyx_kp_s_input_array_lengths_are_differen, __pyx_k_input_array_lengths_are_differen, sizeof(__pyx_k_input_array_lengths_are_differen), 0, 0, 1, 0},
     {&__pyx_kp_s_input_array_type_is_not_double, __pyx_k_input_array_type_is_not_double, sizeof(__pyx_k_input_array_type_is_not_double), 0, 0, 1, 0},
-    {&__pyx_kp_s_inputs_are_all_NaN, __pyx_k_inputs_are_all_NaN, sizeof(__pyx_k_inputs_are_all_NaN), 0, 0, 1, 0},
     {&__pyx_n_s_is_coroutine, __pyx_k_is_coroutine, sizeof(__pyx_k_is_coroutine), 0, 0, 1, 1},
     {&__pyx_n_s_length, __pyx_k_length, sizeof(__pyx_k_length), 0, 0, 1, 1},
     {&__pyx_n_s_lookback, __pyx_k_lookback, sizeof(__pyx_k_lookback), 0, 0, 1, 1},
@@ -62108,7 +62042,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedBuiltins(void) {
   __pyx_builtin_object = __Pyx_GetBuiltinName(__pyx_n_s_object); if (!__pyx_builtin_object) __PYX_ERR(0, 60, __pyx_L1_error)
   __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_n_s_range); if (!__pyx_builtin_range) __PYX_ERR(0, 61, __pyx_L1_error)
   __pyx_builtin_enumerate = __Pyx_GetBuiltinName(__pyx_n_s_enumerate); if (!__pyx_builtin_enumerate) __PYX_ERR(0, 82, __pyx_L1_error)
-  __pyx_builtin_ImportError = __Pyx_GetBuiltinName(__pyx_n_s_ImportError); if (!__pyx_builtin_ImportError) __PYX_ERR(1, 983, __pyx_L1_error)
+  __pyx_builtin_ImportError = __Pyx_GetBuiltinName(__pyx_n_s_ImportError); if (!__pyx_builtin_ImportError) __PYX_ERR(1, 984, __pyx_L1_error)
   return 0;
   __pyx_L1_error:;
   return -1;
@@ -62119,25 +62053,25 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("__Pyx_InitCachedConstants", 0);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":983
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":984
  *         __pyx_import_array()
  *     except Exception:
  *         raise ImportError("numpy.core.multiarray failed to import")             # <<<<<<<<<<<<<<
  * 
  * cdef inline int import_umath() except -1:
  */
-  __pyx_tuple_ = PyTuple_Pack(1, __pyx_kp_s_numpy_core_multiarray_failed_to); if (unlikely(!__pyx_tuple_)) __PYX_ERR(1, 983, __pyx_L1_error)
+  __pyx_tuple_ = PyTuple_Pack(1, __pyx_kp_s_numpy_core_multiarray_failed_to); if (unlikely(!__pyx_tuple_)) __PYX_ERR(1, 984, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple_);
   __Pyx_GIVEREF(__pyx_tuple_);
 
-  /* "../../../../Users/bfzuo/.virtualenvs/ta-lib-python-LNlyCZud/lib/site-packages/numpy/__init__.cython-30.pxd":989
+  /* "../../../../Users/bfzuo/AppData/Local/Temp/pip-build-env-3mj0rsjs/normal/Lib/site-packages/numpy/__init__.cython-30.pxd":990
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
  * 
  * cdef inline int import_ufunc() except -1:
  */
-  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_s_numpy_core_umath_failed_to_impor); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(1, 989, __pyx_L1_error)
+  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_s_numpy_core_umath_failed_to_impor); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(1, 990, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__2);
   __Pyx_GIVEREF(__pyx_tuple__2);
 
@@ -62174,17 +62108,6 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__5);
   __Pyx_GIVEREF(__pyx_tuple__5);
 
-  /* "talib/_func.pxi":68
- *         return i
- *     else:
- *         raise Exception("inputs are all NaN")             # <<<<<<<<<<<<<<
- * 
- * cdef np.npy_int check_begidx2(np.npy_intp length, double* a1, double* a2) except -1:
- */
-  __pyx_tuple__6 = PyTuple_Pack(1, __pyx_kp_s_inputs_are_all_NaN); if (unlikely(!__pyx_tuple__6)) __PYX_ERR(2, 68, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__6);
-  __Pyx_GIVEREF(__pyx_tuple__6);
-
   /* "talib/_common.pxi":6
  * __ta_version__ = lib.TA_GetVersionString()
  * 
@@ -62192,10 +62115,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     if ret_code == 0:
  *         return True
  */
-  __pyx_tuple__7 = PyTuple_Pack(2, __pyx_n_s_function_name, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__7)) __PYX_ERR(0, 6, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__7);
-  __Pyx_GIVEREF(__pyx_tuple__7);
-  __pyx_codeobj__8 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__7, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_check_success, 6, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__8)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __pyx_tuple__6 = PyTuple_Pack(2, __pyx_n_s_function_name, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__6)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__6);
+  __Pyx_GIVEREF(__pyx_tuple__6);
+  __pyx_codeobj__7 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__6, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_check_success, 6, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__7)) __PYX_ERR(0, 6, __pyx_L1_error)
 
   /* "talib/_common.pxi":50
  *         function_name, ret_code, description))
@@ -62204,10 +62127,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_Initialize()
  */
-  __pyx_tuple__9 = PyTuple_Pack(1, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__9)) __PYX_ERR(0, 50, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__9);
-  __Pyx_GIVEREF(__pyx_tuple__9);
-  __pyx_codeobj__10 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__9, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_initialize, 50, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__10)) __PYX_ERR(0, 50, __pyx_L1_error)
+  __pyx_tuple__8 = PyTuple_Pack(1, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__8)) __PYX_ERR(0, 50, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__8);
+  __Pyx_GIVEREF(__pyx_tuple__8);
+  __pyx_codeobj__9 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__8, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_initialize, 50, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__9)) __PYX_ERR(0, 50, __pyx_L1_error)
 
   /* "talib/_common.pxi":55
  *     _ta_check_success('TA_Initialize', ret_code)
@@ -62216,7 +62139,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_Shutdown()
  */
-  __pyx_codeobj__11 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__9, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_shutdown, 55, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__11)) __PYX_ERR(0, 55, __pyx_L1_error)
+  __pyx_codeobj__10 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__8, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_shutdown, 55, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__10)) __PYX_ERR(0, 55, __pyx_L1_error)
 
   /* "talib/_common.pxi":60
  *     _ta_check_success('TA_Shutdown', ret_code)
@@ -62225,12 +62148,12 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     SMA, EMA, WMA, DEMA, TEMA, TRIMA, KAMA, MAMA, T3 = range(9)
  * 
  */
+  __pyx_tuple__11 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__11)) __PYX_ERR(0, 60, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__11);
+  __Pyx_GIVEREF(__pyx_tuple__11);
   __pyx_tuple__12 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__12)) __PYX_ERR(0, 60, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__12);
   __Pyx_GIVEREF(__pyx_tuple__12);
-  __pyx_tuple__13 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__13)) __PYX_ERR(0, 60, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__13);
-  __Pyx_GIVEREF(__pyx_tuple__13);
 
   /* "talib/_common.pxi":61
  * 
@@ -62239,9 +62162,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  *     def __init__(self):
  */
-  __pyx_tuple__14 = PyTuple_Pack(1, __pyx_int_9); if (unlikely(!__pyx_tuple__14)) __PYX_ERR(0, 61, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__14);
-  __Pyx_GIVEREF(__pyx_tuple__14);
+  __pyx_tuple__13 = PyTuple_Pack(1, __pyx_int_9); if (unlikely(!__pyx_tuple__13)) __PYX_ERR(0, 61, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__13);
+  __Pyx_GIVEREF(__pyx_tuple__13);
 
   /* "talib/_common.pxi":63
  *     SMA, EMA, WMA, DEMA, TEMA, TRIMA, KAMA, MAMA, T3 = range(9)
@@ -62250,10 +62173,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *         self._lookup = {
  *             MA_Type.SMA: 'Simple Moving Average',
  */
-  __pyx_tuple__15 = PyTuple_Pack(1, __pyx_n_s_self); if (unlikely(!__pyx_tuple__15)) __PYX_ERR(0, 63, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__15);
-  __Pyx_GIVEREF(__pyx_tuple__15);
-  __pyx_codeobj__16 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__15, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_init, 63, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__16)) __PYX_ERR(0, 63, __pyx_L1_error)
+  __pyx_tuple__14 = PyTuple_Pack(1, __pyx_n_s_self); if (unlikely(!__pyx_tuple__14)) __PYX_ERR(0, 63, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__14);
+  __Pyx_GIVEREF(__pyx_tuple__14);
+  __pyx_codeobj__15 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__14, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_init, 63, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__15)) __PYX_ERR(0, 63, __pyx_L1_error)
 
   /* "talib/_common.pxi":76
  *             }
@@ -62262,10 +62185,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *         return self._lookup[type_]
  * 
  */
-  __pyx_tuple__17 = PyTuple_Pack(2, __pyx_n_s_self, __pyx_n_s_type); if (unlikely(!__pyx_tuple__17)) __PYX_ERR(0, 76, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__17);
-  __Pyx_GIVEREF(__pyx_tuple__17);
-  __pyx_codeobj__18 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__17, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_getitem, 76, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__18)) __PYX_ERR(0, 76, __pyx_L1_error)
+  __pyx_tuple__16 = PyTuple_Pack(2, __pyx_n_s_self, __pyx_n_s_type); if (unlikely(!__pyx_tuple__16)) __PYX_ERR(0, 76, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__16);
+  __Pyx_GIVEREF(__pyx_tuple__16);
+  __pyx_codeobj__17 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__16, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_getitem, 76, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__17)) __PYX_ERR(0, 76, __pyx_L1_error)
 
   /* "talib/_common.pxi":90
  *     _ta_func_unst_ids[name] = i
@@ -62274,10 +62197,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     cdef TA_FuncUnstId id = _ta_func_unst_ids[name]
  */
-  __pyx_tuple__19 = PyTuple_Pack(4, __pyx_n_s_name, __pyx_n_s_period, __pyx_n_s_ret_code, __pyx_n_s_id); if (unlikely(!__pyx_tuple__19)) __PYX_ERR(0, 90, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__19);
-  __Pyx_GIVEREF(__pyx_tuple__19);
-  __pyx_codeobj__20 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__19, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_unstable_period, 90, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__20)) __PYX_ERR(0, 90, __pyx_L1_error)
+  __pyx_tuple__18 = PyTuple_Pack(4, __pyx_n_s_name, __pyx_n_s_period, __pyx_n_s_ret_code, __pyx_n_s_id); if (unlikely(!__pyx_tuple__18)) __PYX_ERR(0, 90, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__18);
+  __Pyx_GIVEREF(__pyx_tuple__18);
+  __pyx_codeobj__19 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__18, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_unstable_period, 90, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__19)) __PYX_ERR(0, 90, __pyx_L1_error)
 
   /* "talib/_common.pxi":96
  *     _ta_check_success('TA_SetUnstablePeriod', ret_code)
@@ -62286,10 +62209,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef unsigned int period
  *     cdef TA_FuncUnstId id = _ta_func_unst_ids[name]
  */
-  __pyx_tuple__21 = PyTuple_Pack(3, __pyx_n_s_name, __pyx_n_s_period, __pyx_n_s_id); if (unlikely(!__pyx_tuple__21)) __PYX_ERR(0, 96, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__21);
-  __Pyx_GIVEREF(__pyx_tuple__21);
-  __pyx_codeobj__22 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__21, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_get_unstable_period, 96, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__22)) __PYX_ERR(0, 96, __pyx_L1_error)
+  __pyx_tuple__20 = PyTuple_Pack(3, __pyx_n_s_name, __pyx_n_s_period, __pyx_n_s_id); if (unlikely(!__pyx_tuple__20)) __PYX_ERR(0, 96, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__20);
+  __Pyx_GIVEREF(__pyx_tuple__20);
+  __pyx_codeobj__21 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__20, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_get_unstable_period, 96, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__21)) __PYX_ERR(0, 96, __pyx_L1_error)
 
   /* "talib/_common.pxi":102
  *     return period
@@ -62298,10 +62221,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_SetCompatibility(value)
  */
-  __pyx_tuple__23 = PyTuple_Pack(2, __pyx_n_s_value, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__23)) __PYX_ERR(0, 102, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__23);
-  __Pyx_GIVEREF(__pyx_tuple__23);
-  __pyx_codeobj__24 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__23, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_compatibility, 102, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__24)) __PYX_ERR(0, 102, __pyx_L1_error)
+  __pyx_tuple__22 = PyTuple_Pack(2, __pyx_n_s_value, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__22)) __PYX_ERR(0, 102, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__22);
+  __Pyx_GIVEREF(__pyx_tuple__22);
+  __pyx_codeobj__23 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__22, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_compatibility, 102, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__23)) __PYX_ERR(0, 102, __pyx_L1_error)
 
   /* "talib/_common.pxi":107
  *     _ta_check_success('TA_SetCompatibility', ret_code)
@@ -62310,10 +62233,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef int value
  *     value = lib.TA_GetCompatibility()
  */
-  __pyx_tuple__25 = PyTuple_Pack(1, __pyx_n_s_value); if (unlikely(!__pyx_tuple__25)) __PYX_ERR(0, 107, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__25);
-  __Pyx_GIVEREF(__pyx_tuple__25);
-  __pyx_codeobj__26 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__25, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_get_compatibility, 107, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__26)) __PYX_ERR(0, 107, __pyx_L1_error)
+  __pyx_tuple__24 = PyTuple_Pack(1, __pyx_n_s_value); if (unlikely(!__pyx_tuple__24)) __PYX_ERR(0, 107, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__24);
+  __Pyx_GIVEREF(__pyx_tuple__24);
+  __pyx_codeobj__25 = (PyObject*)__Pyx_PyCode_New(0, 0, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__24, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_get_compatibility, 107, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__25)) __PYX_ERR(0, 107, __pyx_L1_error)
 
   /* "talib/_common.pxi":112
  *     return value
@@ -62322,12 +62245,12 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     BodyLong, BodyVeryLong, BodyShort, BodyDoji, ShadowLong, ShadowVeryLong, \
  *     ShadowShort, ShadowVeryShort, Near, Far, Equal, AllCandleSettings = \
  */
+  __pyx_tuple__26 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__26)) __PYX_ERR(0, 112, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__26);
+  __Pyx_GIVEREF(__pyx_tuple__26);
   __pyx_tuple__27 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__27)) __PYX_ERR(0, 112, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__27);
   __Pyx_GIVEREF(__pyx_tuple__27);
-  __pyx_tuple__28 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__28)) __PYX_ERR(0, 112, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__28);
-  __Pyx_GIVEREF(__pyx_tuple__28);
 
   /* "talib/_common.pxi":115
  *     BodyLong, BodyVeryLong, BodyShort, BodyDoji, ShadowLong, ShadowVeryLong, \
@@ -62336,9 +62259,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * CandleSettingType = CandleSettingType()
  */
-  __pyx_tuple__29 = PyTuple_Pack(1, __pyx_int_12); if (unlikely(!__pyx_tuple__29)) __PYX_ERR(0, 115, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__29);
-  __Pyx_GIVEREF(__pyx_tuple__29);
+  __pyx_tuple__28 = PyTuple_Pack(1, __pyx_int_12); if (unlikely(!__pyx_tuple__28)) __PYX_ERR(0, 115, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__28);
+  __Pyx_GIVEREF(__pyx_tuple__28);
 
   /* "talib/_common.pxi":119
  * CandleSettingType = CandleSettingType()
@@ -62347,12 +62270,12 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     RealBody, HighLow, Shadows = range(3)
  * 
  */
+  __pyx_tuple__29 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__29)) __PYX_ERR(0, 119, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__29);
+  __Pyx_GIVEREF(__pyx_tuple__29);
   __pyx_tuple__30 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__30)) __PYX_ERR(0, 119, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__30);
   __Pyx_GIVEREF(__pyx_tuple__30);
-  __pyx_tuple__31 = PyTuple_Pack(1, __pyx_builtin_object); if (unlikely(!__pyx_tuple__31)) __PYX_ERR(0, 119, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__31);
-  __Pyx_GIVEREF(__pyx_tuple__31);
 
   /* "talib/_common.pxi":120
  * 
@@ -62361,9 +62284,9 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * 
  * RangeType = RangeType()
  */
-  __pyx_tuple__32 = PyTuple_Pack(1, __pyx_int_3); if (unlikely(!__pyx_tuple__32)) __PYX_ERR(0, 120, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__32);
-  __Pyx_GIVEREF(__pyx_tuple__32);
+  __pyx_tuple__31 = PyTuple_Pack(1, __pyx_int_3); if (unlikely(!__pyx_tuple__31)) __PYX_ERR(0, 120, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__31);
+  __Pyx_GIVEREF(__pyx_tuple__31);
 
   /* "talib/_common.pxi":124
  * RangeType = RangeType()
@@ -62372,10 +62295,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_SetCandleSettings(settingtype, rangetype, avgperiod, factor)
  */
-  __pyx_tuple__33 = PyTuple_Pack(5, __pyx_n_s_settingtype, __pyx_n_s_rangetype, __pyx_n_s_avgperiod, __pyx_n_s_factor, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__33)) __PYX_ERR(0, 124, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__33);
-  __Pyx_GIVEREF(__pyx_tuple__33);
-  __pyx_codeobj__34 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__33, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_candle_settings, 124, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__34)) __PYX_ERR(0, 124, __pyx_L1_error)
+  __pyx_tuple__32 = PyTuple_Pack(5, __pyx_n_s_settingtype, __pyx_n_s_rangetype, __pyx_n_s_avgperiod, __pyx_n_s_factor, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__32)) __PYX_ERR(0, 124, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__32);
+  __Pyx_GIVEREF(__pyx_tuple__32);
+  __pyx_codeobj__33 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__32, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_set_candle_settings, 124, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__33)) __PYX_ERR(0, 124, __pyx_L1_error)
 
   /* "talib/_common.pxi":129
  *     _ta_check_success('TA_SetCandleSettings', ret_code)
@@ -62384,10 +62307,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_RestoreCandleDefaultSettings(settingtype)
  */
-  __pyx_tuple__35 = PyTuple_Pack(2, __pyx_n_s_settingtype, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__35)) __PYX_ERR(0, 129, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__35);
-  __Pyx_GIVEREF(__pyx_tuple__35);
-  __pyx_codeobj__36 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__35, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_restore_candle_default_setti, 129, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__36)) __PYX_ERR(0, 129, __pyx_L1_error)
+  __pyx_tuple__34 = PyTuple_Pack(2, __pyx_n_s_settingtype, __pyx_n_s_ret_code); if (unlikely(!__pyx_tuple__34)) __PYX_ERR(0, 129, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__34);
+  __Pyx_GIVEREF(__pyx_tuple__34);
+  __pyx_codeobj__35 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__34, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__common_pxi, __pyx_n_s_ta_restore_candle_default_setti, 129, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__35)) __PYX_ERR(0, 129, __pyx_L1_error)
 
   /* "talib/_func.pxi":142
  * 
@@ -62396,10 +62319,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ACOS( np.ndarray real not None ):
  */
-  __pyx_tuple__38 = PyTuple_Pack(9, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__38)) __PYX_ERR(2, 142, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__38);
-  __Pyx_GIVEREF(__pyx_tuple__38);
-  __pyx_codeobj__39 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ACOS, 142, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__39)) __PYX_ERR(2, 142, __pyx_L1_error)
+  __pyx_tuple__37 = PyTuple_Pack(9, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__37)) __PYX_ERR(2, 142, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__37);
+  __Pyx_GIVEREF(__pyx_tuple__37);
+  __pyx_codeobj__38 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ACOS, 142, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__38)) __PYX_ERR(2, 142, __pyx_L1_error)
 
   /* "talib/_func.pxi":171
  *     return outreal
@@ -62408,10 +62331,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AD( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , np.ndarray volume not None ):
  */
-  __pyx_tuple__40 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__40)) __PYX_ERR(2, 171, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__40);
-  __Pyx_GIVEREF(__pyx_tuple__40);
-  __pyx_codeobj__41 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__40, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AD, 171, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__41)) __PYX_ERR(2, 171, __pyx_L1_error)
+  __pyx_tuple__39 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__39)) __PYX_ERR(2, 171, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__39);
+  __Pyx_GIVEREF(__pyx_tuple__39);
+  __pyx_codeobj__40 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__39, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AD, 171, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__40)) __PYX_ERR(2, 171, __pyx_L1_error)
 
   /* "talib/_func.pxi":203
  *     return outreal
@@ -62420,10 +62343,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ADD( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_tuple__42 = PyTuple_Pack(10, __pyx_n_s_real0, __pyx_n_s_real1, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__42)) __PYX_ERR(2, 203, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__42);
-  __Pyx_GIVEREF(__pyx_tuple__42);
-  __pyx_codeobj__43 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__42, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADD, 203, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__43)) __PYX_ERR(2, 203, __pyx_L1_error)
+  __pyx_tuple__41 = PyTuple_Pack(10, __pyx_n_s_real0, __pyx_n_s_real1, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__41)) __PYX_ERR(2, 203, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__41);
+  __Pyx_GIVEREF(__pyx_tuple__41);
+  __pyx_codeobj__42 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__41, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADD, 203, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__42)) __PYX_ERR(2, 203, __pyx_L1_error)
 
   /* "talib/_func.pxi":234
  *     return outreal
@@ -62432,10 +62355,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ADOSC( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , np.ndarray volume not None , int fastperiod=-2**31 , int slowperiod=-2**31 ):
  */
-  __pyx_tuple__44 = PyTuple_Pack(14, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__44)) __PYX_ERR(2, 234, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__44);
-  __Pyx_GIVEREF(__pyx_tuple__44);
-  __pyx_codeobj__45 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__44, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADOSC, 234, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__45)) __PYX_ERR(2, 234, __pyx_L1_error)
+  __pyx_tuple__43 = PyTuple_Pack(14, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__43)) __PYX_ERR(2, 234, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__43);
+  __Pyx_GIVEREF(__pyx_tuple__43);
+  __pyx_codeobj__44 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__43, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADOSC, 234, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__44)) __PYX_ERR(2, 234, __pyx_L1_error)
 
   /* "talib/_func.pxi":269
  *     return outreal
@@ -62444,10 +62367,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ADX( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__46 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__46)) __PYX_ERR(2, 269, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__46);
-  __Pyx_GIVEREF(__pyx_tuple__46);
-  __pyx_codeobj__47 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADX, 269, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__47)) __PYX_ERR(2, 269, __pyx_L1_error)
+  __pyx_tuple__45 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__45)) __PYX_ERR(2, 269, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__45);
+  __Pyx_GIVEREF(__pyx_tuple__45);
+  __pyx_codeobj__46 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADX, 269, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__46)) __PYX_ERR(2, 269, __pyx_L1_error)
 
   /* "talib/_func.pxi":302
  *     return outreal
@@ -62456,7 +62379,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ADXR( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__48 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADXR, 302, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__48)) __PYX_ERR(2, 302, __pyx_L1_error)
+  __pyx_codeobj__47 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ADXR, 302, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__47)) __PYX_ERR(2, 302, __pyx_L1_error)
 
   /* "talib/_func.pxi":335
  *     return outreal
@@ -62465,10 +62388,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def APO( np.ndarray real not None , int fastperiod=-2**31 , int slowperiod=-2**31 , int matype=0 ):
  */
-  __pyx_tuple__49 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__49)) __PYX_ERR(2, 335, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__49);
-  __Pyx_GIVEREF(__pyx_tuple__49);
-  __pyx_codeobj__50 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__49, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_APO, 335, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__50)) __PYX_ERR(2, 335, __pyx_L1_error)
+  __pyx_tuple__48 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__48)) __PYX_ERR(2, 335, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__48);
+  __Pyx_GIVEREF(__pyx_tuple__48);
+  __pyx_codeobj__49 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__48, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_APO, 335, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__49)) __PYX_ERR(2, 335, __pyx_L1_error)
 
   /* "talib/_func.pxi":368
  *     return outreal
@@ -62477,10 +62400,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AROON( np.ndarray high not None , np.ndarray low not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__51 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outaroondown, __pyx_n_s_outaroonup); if (unlikely(!__pyx_tuple__51)) __PYX_ERR(2, 368, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__51);
-  __Pyx_GIVEREF(__pyx_tuple__51);
-  __pyx_codeobj__52 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__51, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AROON, 368, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__52)) __PYX_ERR(2, 368, __pyx_L1_error)
+  __pyx_tuple__50 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outaroondown, __pyx_n_s_outaroonup); if (unlikely(!__pyx_tuple__50)) __PYX_ERR(2, 368, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__50);
+  __Pyx_GIVEREF(__pyx_tuple__50);
+  __pyx_codeobj__51 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__50, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AROON, 368, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__51)) __PYX_ERR(2, 368, __pyx_L1_error)
 
   /* "talib/_func.pxi":403
  *     return outaroondown , outaroonup
@@ -62489,10 +62412,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AROONOSC( np.ndarray high not None , np.ndarray low not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__53 = PyTuple_Pack(11, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__53)) __PYX_ERR(2, 403, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__53);
-  __Pyx_GIVEREF(__pyx_tuple__53);
-  __pyx_codeobj__54 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AROONOSC, 403, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__54)) __PYX_ERR(2, 403, __pyx_L1_error)
+  __pyx_tuple__52 = PyTuple_Pack(11, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__52)) __PYX_ERR(2, 403, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__52);
+  __Pyx_GIVEREF(__pyx_tuple__52);
+  __pyx_codeobj__53 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__52, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AROONOSC, 403, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__53)) __PYX_ERR(2, 403, __pyx_L1_error)
 
   /* "talib/_func.pxi":435
  *     return outreal
@@ -62501,7 +62424,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ASIN( np.ndarray real not None ):
  */
-  __pyx_codeobj__55 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ASIN, 435, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__55)) __PYX_ERR(2, 435, __pyx_L1_error)
+  __pyx_codeobj__54 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ASIN, 435, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__54)) __PYX_ERR(2, 435, __pyx_L1_error)
 
   /* "talib/_func.pxi":464
  *     return outreal
@@ -62510,7 +62433,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ATAN( np.ndarray real not None ):
  */
-  __pyx_codeobj__56 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ATAN, 464, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__56)) __PYX_ERR(2, 464, __pyx_L1_error)
+  __pyx_codeobj__55 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ATAN, 464, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__55)) __PYX_ERR(2, 464, __pyx_L1_error)
 
   /* "talib/_func.pxi":493
  *     return outreal
@@ -62519,7 +62442,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ATR( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__57 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ATR, 493, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__57)) __PYX_ERR(2, 493, __pyx_L1_error)
+  __pyx_codeobj__56 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ATR, 493, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__56)) __PYX_ERR(2, 493, __pyx_L1_error)
 
   /* "talib/_func.pxi":526
  *     return outreal
@@ -62528,10 +62451,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AVGPRICE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_tuple__58 = PyTuple_Pack(12, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__58)) __PYX_ERR(2, 526, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__58);
-  __Pyx_GIVEREF(__pyx_tuple__58);
-  __pyx_codeobj__59 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__58, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AVGPRICE, 526, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__59)) __PYX_ERR(2, 526, __pyx_L1_error)
+  __pyx_tuple__57 = PyTuple_Pack(12, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__57)) __PYX_ERR(2, 526, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__57);
+  __Pyx_GIVEREF(__pyx_tuple__57);
+  __pyx_codeobj__58 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__57, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_AVGPRICE, 526, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__58)) __PYX_ERR(2, 526, __pyx_L1_error)
 
   /* "talib/_func.pxi":558
  *     return outreal
@@ -62540,10 +62463,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def BBANDS( np.ndarray real not None , int timeperiod=-2**31 , double nbdevup=-4e37 , double nbdevdn=-4e37 , int matype=0 ):
  */
-  __pyx_tuple__60 = PyTuple_Pack(15, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_nbdevup, __pyx_n_s_nbdevdn, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outrealupperband, __pyx_n_s_outrealmiddleband, __pyx_n_s_outreallowerband); if (unlikely(!__pyx_tuple__60)) __PYX_ERR(2, 558, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__60);
-  __Pyx_GIVEREF(__pyx_tuple__60);
-  __pyx_codeobj__61 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 15, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__60, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BBANDS, 558, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__61)) __PYX_ERR(2, 558, __pyx_L1_error)
+  __pyx_tuple__59 = PyTuple_Pack(15, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_nbdevup, __pyx_n_s_nbdevdn, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outrealupperband, __pyx_n_s_outrealmiddleband, __pyx_n_s_outreallowerband); if (unlikely(!__pyx_tuple__59)) __PYX_ERR(2, 558, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__59);
+  __Pyx_GIVEREF(__pyx_tuple__59);
+  __pyx_codeobj__60 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 15, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__59, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BBANDS, 558, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__60)) __PYX_ERR(2, 558, __pyx_L1_error)
 
   /* "talib/_func.pxi":598
  *     return outrealupperband , outrealmiddleband , outreallowerband
@@ -62552,10 +62475,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def BETA( np.ndarray real0 not None , np.ndarray real1 not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__62 = PyTuple_Pack(11, __pyx_n_s_real0, __pyx_n_s_real1, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__62)) __PYX_ERR(2, 598, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__62);
-  __Pyx_GIVEREF(__pyx_tuple__62);
-  __pyx_codeobj__63 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__62, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BETA, 598, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__63)) __PYX_ERR(2, 598, __pyx_L1_error)
+  __pyx_tuple__61 = PyTuple_Pack(11, __pyx_n_s_real0, __pyx_n_s_real1, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__61)) __PYX_ERR(2, 598, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__61);
+  __Pyx_GIVEREF(__pyx_tuple__61);
+  __pyx_codeobj__62 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__61, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BETA, 598, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__62)) __PYX_ERR(2, 598, __pyx_L1_error)
 
   /* "talib/_func.pxi":631
  *     return outreal
@@ -62564,7 +62487,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def BOP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__64 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__58, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BOP, 631, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__64)) __PYX_ERR(2, 631, __pyx_L1_error)
+  __pyx_codeobj__63 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__57, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_BOP, 631, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__63)) __PYX_ERR(2, 631, __pyx_L1_error)
 
   /* "talib/_func.pxi":663
  *     return outreal
@@ -62573,7 +62496,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CCI( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__65 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CCI, 663, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__65)) __PYX_ERR(2, 663, __pyx_L1_error)
+  __pyx_codeobj__64 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CCI, 663, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__64)) __PYX_ERR(2, 663, __pyx_L1_error)
 
   /* "talib/_func.pxi":696
  *     return outreal
@@ -62582,10 +62505,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL2CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_tuple__66 = PyTuple_Pack(12, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__66)) __PYX_ERR(2, 696, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__66);
-  __Pyx_GIVEREF(__pyx_tuple__66);
-  __pyx_codeobj__67 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL2CROWS, 696, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__67)) __PYX_ERR(2, 696, __pyx_L1_error)
+  __pyx_tuple__65 = PyTuple_Pack(12, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__65)) __PYX_ERR(2, 696, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__65);
+  __Pyx_GIVEREF(__pyx_tuple__65);
+  __pyx_codeobj__66 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL2CROWS, 696, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__66)) __PYX_ERR(2, 696, __pyx_L1_error)
 
   /* "talib/_func.pxi":728
  *     return outinteger
@@ -62594,7 +62517,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3BLACKCROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__68 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3BLACKCROWS, 728, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__68)) __PYX_ERR(2, 728, __pyx_L1_error)
+  __pyx_codeobj__67 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3BLACKCROWS, 728, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__67)) __PYX_ERR(2, 728, __pyx_L1_error)
 
   /* "talib/_func.pxi":760
  *     return outinteger
@@ -62603,7 +62526,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3INSIDE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__69 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3INSIDE, 760, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__69)) __PYX_ERR(2, 760, __pyx_L1_error)
+  __pyx_codeobj__68 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3INSIDE, 760, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__68)) __PYX_ERR(2, 760, __pyx_L1_error)
 
   /* "talib/_func.pxi":792
  *     return outinteger
@@ -62612,7 +62535,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3LINESTRIKE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__70 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3LINESTRIKE, 792, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__70)) __PYX_ERR(2, 792, __pyx_L1_error)
+  __pyx_codeobj__69 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3LINESTRIKE, 792, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__69)) __PYX_ERR(2, 792, __pyx_L1_error)
 
   /* "talib/_func.pxi":824
  *     return outinteger
@@ -62621,7 +62544,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3OUTSIDE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__71 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3OUTSIDE, 824, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__71)) __PYX_ERR(2, 824, __pyx_L1_error)
+  __pyx_codeobj__70 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3OUTSIDE, 824, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__70)) __PYX_ERR(2, 824, __pyx_L1_error)
 
   /* "talib/_func.pxi":856
  *     return outinteger
@@ -62630,7 +62553,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3STARSINSOUTH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__72 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3STARSINSOUTH, 856, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__72)) __PYX_ERR(2, 856, __pyx_L1_error)
+  __pyx_codeobj__71 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3STARSINSOUTH, 856, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__71)) __PYX_ERR(2, 856, __pyx_L1_error)
 
   /* "talib/_func.pxi":888
  *     return outinteger
@@ -62639,7 +62562,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3WHITESOLDIERS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__73 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3WHITESOLDIERS, 888, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__73)) __PYX_ERR(2, 888, __pyx_L1_error)
+  __pyx_codeobj__72 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDL3WHITESOLDIERS, 888, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__72)) __PYX_ERR(2, 888, __pyx_L1_error)
 
   /* "talib/_func.pxi":920
  *     return outinteger
@@ -62648,10 +62571,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLABANDONEDBABY( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.3 ):
  */
-  __pyx_tuple__74 = PyTuple_Pack(13, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_penetration, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__74)) __PYX_ERR(2, 920, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__74);
-  __Pyx_GIVEREF(__pyx_tuple__74);
-  __pyx_codeobj__75 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLABANDONEDBABY, 920, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__75)) __PYX_ERR(2, 920, __pyx_L1_error)
+  __pyx_tuple__73 = PyTuple_Pack(13, __pyx_n_s_open, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_penetration, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__73)) __PYX_ERR(2, 920, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__73);
+  __Pyx_GIVEREF(__pyx_tuple__73);
+  __pyx_codeobj__74 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLABANDONEDBABY, 920, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__74)) __PYX_ERR(2, 920, __pyx_L1_error)
 
   /* "talib/_func.pxi":954
  *     return outinteger
@@ -62660,7 +62583,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLADVANCEBLOCK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__76 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLADVANCEBLOCK, 954, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__76)) __PYX_ERR(2, 954, __pyx_L1_error)
+  __pyx_codeobj__75 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLADVANCEBLOCK, 954, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__75)) __PYX_ERR(2, 954, __pyx_L1_error)
 
   /* "talib/_func.pxi":986
  *     return outinteger
@@ -62669,7 +62592,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLBELTHOLD( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__77 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLBELTHOLD, 986, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__77)) __PYX_ERR(2, 986, __pyx_L1_error)
+  __pyx_codeobj__76 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLBELTHOLD, 986, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__76)) __PYX_ERR(2, 986, __pyx_L1_error)
 
   /* "talib/_func.pxi":1018
  *     return outinteger
@@ -62678,7 +62601,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLBREAKAWAY( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__78 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLBREAKAWAY, 1018, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__78)) __PYX_ERR(2, 1018, __pyx_L1_error)
+  __pyx_codeobj__77 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLBREAKAWAY, 1018, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__77)) __PYX_ERR(2, 1018, __pyx_L1_error)
 
   /* "talib/_func.pxi":1050
  *     return outinteger
@@ -62687,7 +62610,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCLOSINGMARUBOZU( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__79 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCLOSINGMARUBOZU, 1050, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__79)) __PYX_ERR(2, 1050, __pyx_L1_error)
+  __pyx_codeobj__78 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCLOSINGMARUBOZU, 1050, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__78)) __PYX_ERR(2, 1050, __pyx_L1_error)
 
   /* "talib/_func.pxi":1082
  *     return outinteger
@@ -62696,7 +62619,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCONCEALBABYSWALL( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__80 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCONCEALBABYSWALL, 1082, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__80)) __PYX_ERR(2, 1082, __pyx_L1_error)
+  __pyx_codeobj__79 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCONCEALBABYSWALL, 1082, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__79)) __PYX_ERR(2, 1082, __pyx_L1_error)
 
   /* "talib/_func.pxi":1114
  *     return outinteger
@@ -62705,7 +62628,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCOUNTERATTACK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__81 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCOUNTERATTACK, 1114, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__81)) __PYX_ERR(2, 1114, __pyx_L1_error)
+  __pyx_codeobj__80 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLCOUNTERATTACK, 1114, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__80)) __PYX_ERR(2, 1114, __pyx_L1_error)
 
   /* "talib/_func.pxi":1146
  *     return outinteger
@@ -62714,7 +62637,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDARKCLOUDCOVER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.5 ):
  */
-  __pyx_codeobj__82 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDARKCLOUDCOVER, 1146, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__82)) __PYX_ERR(2, 1146, __pyx_L1_error)
+  __pyx_codeobj__81 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDARKCLOUDCOVER, 1146, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__81)) __PYX_ERR(2, 1146, __pyx_L1_error)
 
   /* "talib/_func.pxi":1180
  *     return outinteger
@@ -62723,7 +62646,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__83 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDOJI, 1180, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__83)) __PYX_ERR(2, 1180, __pyx_L1_error)
+  __pyx_codeobj__82 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDOJI, 1180, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__82)) __PYX_ERR(2, 1180, __pyx_L1_error)
 
   /* "talib/_func.pxi":1212
  *     return outinteger
@@ -62732,7 +62655,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDOJISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__84 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDOJISTAR, 1212, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__84)) __PYX_ERR(2, 1212, __pyx_L1_error)
+  __pyx_codeobj__83 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDOJISTAR, 1212, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__83)) __PYX_ERR(2, 1212, __pyx_L1_error)
 
   /* "talib/_func.pxi":1244
  *     return outinteger
@@ -62741,7 +62664,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDRAGONFLYDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__85 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDRAGONFLYDOJI, 1244, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__85)) __PYX_ERR(2, 1244, __pyx_L1_error)
+  __pyx_codeobj__84 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLDRAGONFLYDOJI, 1244, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__84)) __PYX_ERR(2, 1244, __pyx_L1_error)
 
   /* "talib/_func.pxi":1276
  *     return outinteger
@@ -62750,7 +62673,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLENGULFING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__86 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLENGULFING, 1276, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__86)) __PYX_ERR(2, 1276, __pyx_L1_error)
+  __pyx_codeobj__85 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLENGULFING, 1276, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__85)) __PYX_ERR(2, 1276, __pyx_L1_error)
 
   /* "talib/_func.pxi":1308
  *     return outinteger
@@ -62759,7 +62682,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLEVENINGDOJISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.3 ):
  */
-  __pyx_codeobj__87 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLEVENINGDOJISTAR, 1308, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__87)) __PYX_ERR(2, 1308, __pyx_L1_error)
+  __pyx_codeobj__86 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLEVENINGDOJISTAR, 1308, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__86)) __PYX_ERR(2, 1308, __pyx_L1_error)
 
   /* "talib/_func.pxi":1342
  *     return outinteger
@@ -62768,7 +62691,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLEVENINGSTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.3 ):
  */
-  __pyx_codeobj__88 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLEVENINGSTAR, 1342, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__88)) __PYX_ERR(2, 1342, __pyx_L1_error)
+  __pyx_codeobj__87 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLEVENINGSTAR, 1342, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__87)) __PYX_ERR(2, 1342, __pyx_L1_error)
 
   /* "talib/_func.pxi":1376
  *     return outinteger
@@ -62777,7 +62700,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLGAPSIDESIDEWHITE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__89 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLGAPSIDESIDEWHITE, 1376, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__89)) __PYX_ERR(2, 1376, __pyx_L1_error)
+  __pyx_codeobj__88 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLGAPSIDESIDEWHITE, 1376, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__88)) __PYX_ERR(2, 1376, __pyx_L1_error)
 
   /* "talib/_func.pxi":1408
  *     return outinteger
@@ -62786,7 +62709,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLGRAVESTONEDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__90 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLGRAVESTONEDOJI, 1408, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__90)) __PYX_ERR(2, 1408, __pyx_L1_error)
+  __pyx_codeobj__89 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLGRAVESTONEDOJI, 1408, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__89)) __PYX_ERR(2, 1408, __pyx_L1_error)
 
   /* "talib/_func.pxi":1440
  *     return outinteger
@@ -62795,7 +62718,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHAMMER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__91 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHAMMER, 1440, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__91)) __PYX_ERR(2, 1440, __pyx_L1_error)
+  __pyx_codeobj__90 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHAMMER, 1440, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__90)) __PYX_ERR(2, 1440, __pyx_L1_error)
 
   /* "talib/_func.pxi":1472
  *     return outinteger
@@ -62804,7 +62727,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHANGINGMAN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__92 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHANGINGMAN, 1472, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__92)) __PYX_ERR(2, 1472, __pyx_L1_error)
+  __pyx_codeobj__91 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHANGINGMAN, 1472, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__91)) __PYX_ERR(2, 1472, __pyx_L1_error)
 
   /* "talib/_func.pxi":1504
  *     return outinteger
@@ -62813,7 +62736,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHARAMI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__93 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHARAMI, 1504, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__93)) __PYX_ERR(2, 1504, __pyx_L1_error)
+  __pyx_codeobj__92 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHARAMI, 1504, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__92)) __PYX_ERR(2, 1504, __pyx_L1_error)
 
   /* "talib/_func.pxi":1536
  *     return outinteger
@@ -62822,7 +62745,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHARAMICROSS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__94 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHARAMICROSS, 1536, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__94)) __PYX_ERR(2, 1536, __pyx_L1_error)
+  __pyx_codeobj__93 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHARAMICROSS, 1536, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__93)) __PYX_ERR(2, 1536, __pyx_L1_error)
 
   /* "talib/_func.pxi":1568
  *     return outinteger
@@ -62831,7 +62754,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIGHWAVE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__95 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIGHWAVE, 1568, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__95)) __PYX_ERR(2, 1568, __pyx_L1_error)
+  __pyx_codeobj__94 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIGHWAVE, 1568, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__94)) __PYX_ERR(2, 1568, __pyx_L1_error)
 
   /* "talib/_func.pxi":1600
  *     return outinteger
@@ -62840,7 +62763,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIKKAKE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__96 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIKKAKE, 1600, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__96)) __PYX_ERR(2, 1600, __pyx_L1_error)
+  __pyx_codeobj__95 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIKKAKE, 1600, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__95)) __PYX_ERR(2, 1600, __pyx_L1_error)
 
   /* "talib/_func.pxi":1632
  *     return outinteger
@@ -62849,7 +62772,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIKKAKEMOD( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__97 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIKKAKEMOD, 1632, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__97)) __PYX_ERR(2, 1632, __pyx_L1_error)
+  __pyx_codeobj__96 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHIKKAKEMOD, 1632, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__96)) __PYX_ERR(2, 1632, __pyx_L1_error)
 
   /* "talib/_func.pxi":1664
  *     return outinteger
@@ -62858,7 +62781,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHOMINGPIGEON( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__98 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHOMINGPIGEON, 1664, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__98)) __PYX_ERR(2, 1664, __pyx_L1_error)
+  __pyx_codeobj__97 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLHOMINGPIGEON, 1664, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__97)) __PYX_ERR(2, 1664, __pyx_L1_error)
 
   /* "talib/_func.pxi":1696
  *     return outinteger
@@ -62867,7 +62790,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLIDENTICAL3CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__99 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLIDENTICAL3CROWS, 1696, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__99)) __PYX_ERR(2, 1696, __pyx_L1_error)
+  __pyx_codeobj__98 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLIDENTICAL3CROWS, 1696, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__98)) __PYX_ERR(2, 1696, __pyx_L1_error)
 
   /* "talib/_func.pxi":1728
  *     return outinteger
@@ -62876,7 +62799,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLINNECK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__100 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLINNECK, 1728, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__100)) __PYX_ERR(2, 1728, __pyx_L1_error)
+  __pyx_codeobj__99 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLINNECK, 1728, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__99)) __PYX_ERR(2, 1728, __pyx_L1_error)
 
   /* "talib/_func.pxi":1760
  *     return outinteger
@@ -62885,7 +62808,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLINVERTEDHAMMER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__101 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLINVERTEDHAMMER, 1760, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__101)) __PYX_ERR(2, 1760, __pyx_L1_error)
+  __pyx_codeobj__100 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLINVERTEDHAMMER, 1760, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__100)) __PYX_ERR(2, 1760, __pyx_L1_error)
 
   /* "talib/_func.pxi":1792
  *     return outinteger
@@ -62894,7 +62817,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLKICKING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__102 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLKICKING, 1792, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__102)) __PYX_ERR(2, 1792, __pyx_L1_error)
+  __pyx_codeobj__101 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLKICKING, 1792, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__101)) __PYX_ERR(2, 1792, __pyx_L1_error)
 
   /* "talib/_func.pxi":1824
  *     return outinteger
@@ -62903,7 +62826,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLKICKINGBYLENGTH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__103 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLKICKINGBYLENGTH, 1824, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__103)) __PYX_ERR(2, 1824, __pyx_L1_error)
+  __pyx_codeobj__102 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLKICKINGBYLENGTH, 1824, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__102)) __PYX_ERR(2, 1824, __pyx_L1_error)
 
   /* "talib/_func.pxi":1856
  *     return outinteger
@@ -62912,7 +62835,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLADDERBOTTOM( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__104 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLADDERBOTTOM, 1856, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__104)) __PYX_ERR(2, 1856, __pyx_L1_error)
+  __pyx_codeobj__103 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLADDERBOTTOM, 1856, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__103)) __PYX_ERR(2, 1856, __pyx_L1_error)
 
   /* "talib/_func.pxi":1888
  *     return outinteger
@@ -62921,7 +62844,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLONGLEGGEDDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__105 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLONGLEGGEDDOJI, 1888, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__105)) __PYX_ERR(2, 1888, __pyx_L1_error)
+  __pyx_codeobj__104 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLONGLEGGEDDOJI, 1888, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__104)) __PYX_ERR(2, 1888, __pyx_L1_error)
 
   /* "talib/_func.pxi":1920
  *     return outinteger
@@ -62930,7 +62853,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLONGLINE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__106 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLONGLINE, 1920, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__106)) __PYX_ERR(2, 1920, __pyx_L1_error)
+  __pyx_codeobj__105 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLLONGLINE, 1920, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__105)) __PYX_ERR(2, 1920, __pyx_L1_error)
 
   /* "talib/_func.pxi":1952
  *     return outinteger
@@ -62939,7 +62862,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMARUBOZU( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__107 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMARUBOZU, 1952, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__107)) __PYX_ERR(2, 1952, __pyx_L1_error)
+  __pyx_codeobj__106 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMARUBOZU, 1952, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__106)) __PYX_ERR(2, 1952, __pyx_L1_error)
 
   /* "talib/_func.pxi":1984
  *     return outinteger
@@ -62948,7 +62871,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMATCHINGLOW( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__108 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMATCHINGLOW, 1984, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__108)) __PYX_ERR(2, 1984, __pyx_L1_error)
+  __pyx_codeobj__107 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMATCHINGLOW, 1984, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__107)) __PYX_ERR(2, 1984, __pyx_L1_error)
 
   /* "talib/_func.pxi":2016
  *     return outinteger
@@ -62957,7 +62880,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMATHOLD( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.5 ):
  */
-  __pyx_codeobj__109 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMATHOLD, 2016, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__109)) __PYX_ERR(2, 2016, __pyx_L1_error)
+  __pyx_codeobj__108 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMATHOLD, 2016, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__108)) __PYX_ERR(2, 2016, __pyx_L1_error)
 
   /* "talib/_func.pxi":2050
  *     return outinteger
@@ -62966,7 +62889,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMORNINGDOJISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.3 ):
  */
-  __pyx_codeobj__110 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMORNINGDOJISTAR, 2050, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__110)) __PYX_ERR(2, 2050, __pyx_L1_error)
+  __pyx_codeobj__109 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMORNINGDOJISTAR, 2050, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__109)) __PYX_ERR(2, 2050, __pyx_L1_error)
 
   /* "talib/_func.pxi":2084
  *     return outinteger
@@ -62975,7 +62898,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMORNINGSTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , double penetration=0.3 ):
  */
-  __pyx_codeobj__111 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__74, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMORNINGSTAR, 2084, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__111)) __PYX_ERR(2, 2084, __pyx_L1_error)
+  __pyx_codeobj__110 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLMORNINGSTAR, 2084, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__110)) __PYX_ERR(2, 2084, __pyx_L1_error)
 
   /* "talib/_func.pxi":2118
  *     return outinteger
@@ -62984,7 +62907,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLONNECK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__112 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLONNECK, 2118, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__112)) __PYX_ERR(2, 2118, __pyx_L1_error)
+  __pyx_codeobj__111 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLONNECK, 2118, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__111)) __PYX_ERR(2, 2118, __pyx_L1_error)
 
   /* "talib/_func.pxi":2150
  *     return outinteger
@@ -62993,7 +62916,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLPIERCING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__113 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLPIERCING, 2150, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__113)) __PYX_ERR(2, 2150, __pyx_L1_error)
+  __pyx_codeobj__112 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLPIERCING, 2150, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__112)) __PYX_ERR(2, 2150, __pyx_L1_error)
 
   /* "talib/_func.pxi":2182
  *     return outinteger
@@ -63002,7 +62925,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLRICKSHAWMAN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__114 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLRICKSHAWMAN, 2182, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__114)) __PYX_ERR(2, 2182, __pyx_L1_error)
+  __pyx_codeobj__113 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLRICKSHAWMAN, 2182, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__113)) __PYX_ERR(2, 2182, __pyx_L1_error)
 
   /* "talib/_func.pxi":2214
  *     return outinteger
@@ -63011,7 +62934,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLRISEFALL3METHODS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__115 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLRISEFALL3METHODS, 2214, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__115)) __PYX_ERR(2, 2214, __pyx_L1_error)
+  __pyx_codeobj__114 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLRISEFALL3METHODS, 2214, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__114)) __PYX_ERR(2, 2214, __pyx_L1_error)
 
   /* "talib/_func.pxi":2246
  *     return outinteger
@@ -63020,7 +62943,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSEPARATINGLINES( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__116 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSEPARATINGLINES, 2246, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__116)) __PYX_ERR(2, 2246, __pyx_L1_error)
+  __pyx_codeobj__115 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSEPARATINGLINES, 2246, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__115)) __PYX_ERR(2, 2246, __pyx_L1_error)
 
   /* "talib/_func.pxi":2278
  *     return outinteger
@@ -63029,7 +62952,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSHOOTINGSTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__117 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSHOOTINGSTAR, 2278, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__117)) __PYX_ERR(2, 2278, __pyx_L1_error)
+  __pyx_codeobj__116 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSHOOTINGSTAR, 2278, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__116)) __PYX_ERR(2, 2278, __pyx_L1_error)
 
   /* "talib/_func.pxi":2310
  *     return outinteger
@@ -63038,7 +62961,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSHORTLINE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__118 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSHORTLINE, 2310, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__118)) __PYX_ERR(2, 2310, __pyx_L1_error)
+  __pyx_codeobj__117 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSHORTLINE, 2310, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__117)) __PYX_ERR(2, 2310, __pyx_L1_error)
 
   /* "talib/_func.pxi":2342
  *     return outinteger
@@ -63047,7 +62970,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSPINNINGTOP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__119 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSPINNINGTOP, 2342, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__119)) __PYX_ERR(2, 2342, __pyx_L1_error)
+  __pyx_codeobj__118 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSPINNINGTOP, 2342, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__118)) __PYX_ERR(2, 2342, __pyx_L1_error)
 
   /* "talib/_func.pxi":2374
  *     return outinteger
@@ -63056,7 +62979,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSTALLEDPATTERN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__120 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSTALLEDPATTERN, 2374, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__120)) __PYX_ERR(2, 2374, __pyx_L1_error)
+  __pyx_codeobj__119 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSTALLEDPATTERN, 2374, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__119)) __PYX_ERR(2, 2374, __pyx_L1_error)
 
   /* "talib/_func.pxi":2406
  *     return outinteger
@@ -63065,7 +62988,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSTICKSANDWICH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__121 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSTICKSANDWICH, 2406, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__121)) __PYX_ERR(2, 2406, __pyx_L1_error)
+  __pyx_codeobj__120 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLSTICKSANDWICH, 2406, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__120)) __PYX_ERR(2, 2406, __pyx_L1_error)
 
   /* "talib/_func.pxi":2438
  *     return outinteger
@@ -63074,7 +62997,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTAKURI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__122 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTAKURI, 2438, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__122)) __PYX_ERR(2, 2438, __pyx_L1_error)
+  __pyx_codeobj__121 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTAKURI, 2438, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__121)) __PYX_ERR(2, 2438, __pyx_L1_error)
 
   /* "talib/_func.pxi":2470
  *     return outinteger
@@ -63083,7 +63006,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTASUKIGAP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__123 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTASUKIGAP, 2470, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__123)) __PYX_ERR(2, 2470, __pyx_L1_error)
+  __pyx_codeobj__122 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTASUKIGAP, 2470, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__122)) __PYX_ERR(2, 2470, __pyx_L1_error)
 
   /* "talib/_func.pxi":2502
  *     return outinteger
@@ -63092,7 +63015,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTHRUSTING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__124 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTHRUSTING, 2502, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__124)) __PYX_ERR(2, 2502, __pyx_L1_error)
+  __pyx_codeobj__123 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTHRUSTING, 2502, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__123)) __PYX_ERR(2, 2502, __pyx_L1_error)
 
   /* "talib/_func.pxi":2534
  *     return outinteger
@@ -63101,7 +63024,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTRISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__125 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTRISTAR, 2534, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__125)) __PYX_ERR(2, 2534, __pyx_L1_error)
+  __pyx_codeobj__124 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLTRISTAR, 2534, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__124)) __PYX_ERR(2, 2534, __pyx_L1_error)
 
   /* "talib/_func.pxi":2566
  *     return outinteger
@@ -63110,7 +63033,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLUNIQUE3RIVER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__126 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLUNIQUE3RIVER, 2566, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__126)) __PYX_ERR(2, 2566, __pyx_L1_error)
+  __pyx_codeobj__125 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLUNIQUE3RIVER, 2566, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__125)) __PYX_ERR(2, 2566, __pyx_L1_error)
 
   /* "talib/_func.pxi":2598
  *     return outinteger
@@ -63119,7 +63042,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLUPSIDEGAP2CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__127 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLUPSIDEGAP2CROWS, 2598, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__127)) __PYX_ERR(2, 2598, __pyx_L1_error)
+  __pyx_codeobj__126 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLUPSIDEGAP2CROWS, 2598, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__126)) __PYX_ERR(2, 2598, __pyx_L1_error)
 
   /* "talib/_func.pxi":2630
  *     return outinteger
@@ -63128,7 +63051,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLXSIDEGAP3METHODS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__128 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__66, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLXSIDEGAP3METHODS, 2630, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__128)) __PYX_ERR(2, 2630, __pyx_L1_error)
+  __pyx_codeobj__127 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CDLXSIDEGAP3METHODS, 2630, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__127)) __PYX_ERR(2, 2630, __pyx_L1_error)
 
   /* "talib/_func.pxi":2662
  *     return outinteger
@@ -63137,7 +63060,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CEIL( np.ndarray real not None ):
  */
-  __pyx_codeobj__129 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CEIL, 2662, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__129)) __PYX_ERR(2, 2662, __pyx_L1_error)
+  __pyx_codeobj__128 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CEIL, 2662, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__128)) __PYX_ERR(2, 2662, __pyx_L1_error)
 
   /* "talib/_func.pxi":2691
  *     return outreal
@@ -63146,10 +63069,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CMO( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__130 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__130)) __PYX_ERR(2, 2691, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__130);
-  __Pyx_GIVEREF(__pyx_tuple__130);
-  __pyx_codeobj__131 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CMO, 2691, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__131)) __PYX_ERR(2, 2691, __pyx_L1_error)
+  __pyx_tuple__129 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__129)) __PYX_ERR(2, 2691, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__129);
+  __Pyx_GIVEREF(__pyx_tuple__129);
+  __pyx_codeobj__130 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CMO, 2691, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__130)) __PYX_ERR(2, 2691, __pyx_L1_error)
 
   /* "talib/_func.pxi":2722
  *     return outreal
@@ -63158,7 +63081,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CORREL( np.ndarray real0 not None , np.ndarray real1 not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__132 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__62, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CORREL, 2722, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__132)) __PYX_ERR(2, 2722, __pyx_L1_error)
+  __pyx_codeobj__131 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__61, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_CORREL, 2722, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__131)) __PYX_ERR(2, 2722, __pyx_L1_error)
 
   /* "talib/_func.pxi":2755
  *     return outreal
@@ -63167,7 +63090,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def COS( np.ndarray real not None ):
  */
-  __pyx_codeobj__133 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_COS, 2755, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__133)) __PYX_ERR(2, 2755, __pyx_L1_error)
+  __pyx_codeobj__132 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_COS, 2755, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__132)) __PYX_ERR(2, 2755, __pyx_L1_error)
 
   /* "talib/_func.pxi":2784
  *     return outreal
@@ -63176,7 +63099,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def COSH( np.ndarray real not None ):
  */
-  __pyx_codeobj__134 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_COSH, 2784, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__134)) __PYX_ERR(2, 2784, __pyx_L1_error)
+  __pyx_codeobj__133 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_COSH, 2784, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__133)) __PYX_ERR(2, 2784, __pyx_L1_error)
 
   /* "talib/_func.pxi":2813
  *     return outreal
@@ -63185,7 +63108,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def DEMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__135 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DEMA, 2813, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__135)) __PYX_ERR(2, 2813, __pyx_L1_error)
+  __pyx_codeobj__134 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DEMA, 2813, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__134)) __PYX_ERR(2, 2813, __pyx_L1_error)
 
   /* "talib/_func.pxi":2844
  *     return outreal
@@ -63194,7 +63117,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def DIV( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_codeobj__136 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__42, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DIV, 2844, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__136)) __PYX_ERR(2, 2844, __pyx_L1_error)
+  __pyx_codeobj__135 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__41, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DIV, 2844, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__135)) __PYX_ERR(2, 2844, __pyx_L1_error)
 
   /* "talib/_func.pxi":2875
  *     return outreal
@@ -63203,7 +63126,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def DX( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__137 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DX, 2875, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__137)) __PYX_ERR(2, 2875, __pyx_L1_error)
+  __pyx_codeobj__136 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_DX, 2875, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__136)) __PYX_ERR(2, 2875, __pyx_L1_error)
 
   /* "talib/_func.pxi":2908
  *     return outreal
@@ -63212,7 +63135,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def EMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__138 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_EMA, 2908, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__138)) __PYX_ERR(2, 2908, __pyx_L1_error)
+  __pyx_codeobj__137 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_EMA, 2908, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__137)) __PYX_ERR(2, 2908, __pyx_L1_error)
 
   /* "talib/_func.pxi":2939
  *     return outreal
@@ -63221,7 +63144,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def EXP( np.ndarray real not None ):
  */
-  __pyx_codeobj__139 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_EXP, 2939, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__139)) __PYX_ERR(2, 2939, __pyx_L1_error)
+  __pyx_codeobj__138 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_EXP, 2939, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__138)) __PYX_ERR(2, 2939, __pyx_L1_error)
 
   /* "talib/_func.pxi":2968
  *     return outreal
@@ -63230,7 +63153,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def FLOOR( np.ndarray real not None ):
  */
-  __pyx_codeobj__140 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_FLOOR, 2968, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__140)) __PYX_ERR(2, 2968, __pyx_L1_error)
+  __pyx_codeobj__139 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_FLOOR, 2968, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__139)) __PYX_ERR(2, 2968, __pyx_L1_error)
 
   /* "talib/_func.pxi":2997
  *     return outreal
@@ -63239,7 +63162,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_DCPERIOD( np.ndarray real not None ):
  */
-  __pyx_codeobj__141 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_DCPERIOD, 2997, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__141)) __PYX_ERR(2, 2997, __pyx_L1_error)
+  __pyx_codeobj__140 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_DCPERIOD, 2997, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__140)) __PYX_ERR(2, 2997, __pyx_L1_error)
 
   /* "talib/_func.pxi":3026
  *     return outreal
@@ -63248,7 +63171,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_DCPHASE( np.ndarray real not None ):
  */
-  __pyx_codeobj__142 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_DCPHASE, 3026, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__142)) __PYX_ERR(2, 3026, __pyx_L1_error)
+  __pyx_codeobj__141 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_DCPHASE, 3026, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__141)) __PYX_ERR(2, 3026, __pyx_L1_error)
 
   /* "talib/_func.pxi":3055
  *     return outreal
@@ -63257,10 +63180,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_PHASOR( np.ndarray real not None ):
  */
-  __pyx_tuple__143 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinphase, __pyx_n_s_outquadrature); if (unlikely(!__pyx_tuple__143)) __PYX_ERR(2, 3055, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__143);
-  __Pyx_GIVEREF(__pyx_tuple__143);
-  __pyx_codeobj__144 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__143, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_PHASOR, 3055, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__144)) __PYX_ERR(2, 3055, __pyx_L1_error)
+  __pyx_tuple__142 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinphase, __pyx_n_s_outquadrature); if (unlikely(!__pyx_tuple__142)) __PYX_ERR(2, 3055, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__142);
+  __Pyx_GIVEREF(__pyx_tuple__142);
+  __pyx_codeobj__143 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__142, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_PHASOR, 3055, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__143)) __PYX_ERR(2, 3055, __pyx_L1_error)
 
   /* "talib/_func.pxi":3087
  *     return outinphase , outquadrature
@@ -63269,10 +63192,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_SINE( np.ndarray real not None ):
  */
-  __pyx_tuple__145 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outsine, __pyx_n_s_outleadsine); if (unlikely(!__pyx_tuple__145)) __PYX_ERR(2, 3087, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__145);
-  __Pyx_GIVEREF(__pyx_tuple__145);
-  __pyx_codeobj__146 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__145, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_SINE, 3087, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__146)) __PYX_ERR(2, 3087, __pyx_L1_error)
+  __pyx_tuple__144 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outsine, __pyx_n_s_outleadsine); if (unlikely(!__pyx_tuple__144)) __PYX_ERR(2, 3087, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__144);
+  __Pyx_GIVEREF(__pyx_tuple__144);
+  __pyx_codeobj__145 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__144, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_SINE, 3087, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__145)) __PYX_ERR(2, 3087, __pyx_L1_error)
 
   /* "talib/_func.pxi":3119
  *     return outsine , outleadsine
@@ -63281,7 +63204,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_TRENDLINE( np.ndarray real not None ):
  */
-  __pyx_codeobj__147 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_TRENDLINE, 3119, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__147)) __PYX_ERR(2, 3119, __pyx_L1_error)
+  __pyx_codeobj__146 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_TRENDLINE, 3119, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__146)) __PYX_ERR(2, 3119, __pyx_L1_error)
 
   /* "talib/_func.pxi":3148
  *     return outreal
@@ -63290,10 +63213,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_TRENDMODE( np.ndarray real not None ):
  */
-  __pyx_tuple__148 = PyTuple_Pack(9, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__148)) __PYX_ERR(2, 3148, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__148);
-  __Pyx_GIVEREF(__pyx_tuple__148);
-  __pyx_codeobj__149 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__148, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_TRENDMODE, 3148, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__149)) __PYX_ERR(2, 3148, __pyx_L1_error)
+  __pyx_tuple__147 = PyTuple_Pack(9, __pyx_n_s_real, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger); if (unlikely(!__pyx_tuple__147)) __PYX_ERR(2, 3148, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__147);
+  __Pyx_GIVEREF(__pyx_tuple__147);
+  __pyx_codeobj__148 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__147, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_HT_TRENDMODE, 3148, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__148)) __PYX_ERR(2, 3148, __pyx_L1_error)
 
   /* "talib/_func.pxi":3177
  *     return outinteger
@@ -63302,7 +63225,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def KAMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__150 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_KAMA, 3177, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__150)) __PYX_ERR(2, 3177, __pyx_L1_error)
+  __pyx_codeobj__149 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_KAMA, 3177, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__149)) __PYX_ERR(2, 3177, __pyx_L1_error)
 
   /* "talib/_func.pxi":3208
  *     return outreal
@@ -63311,7 +63234,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LINEARREG( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__151 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG, 3208, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__151)) __PYX_ERR(2, 3208, __pyx_L1_error)
+  __pyx_codeobj__150 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG, 3208, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__150)) __PYX_ERR(2, 3208, __pyx_L1_error)
 
   /* "talib/_func.pxi":3239
  *     return outreal
@@ -63320,7 +63243,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LINEARREG_ANGLE( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__152 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_ANGLE, 3239, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__152)) __PYX_ERR(2, 3239, __pyx_L1_error)
+  __pyx_codeobj__151 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_ANGLE, 3239, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__151)) __PYX_ERR(2, 3239, __pyx_L1_error)
 
   /* "talib/_func.pxi":3270
  *     return outreal
@@ -63329,7 +63252,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LINEARREG_INTERCEPT( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__153 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_INTERCEPT, 3270, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__153)) __PYX_ERR(2, 3270, __pyx_L1_error)
+  __pyx_codeobj__152 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_INTERCEPT, 3270, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__152)) __PYX_ERR(2, 3270, __pyx_L1_error)
 
   /* "talib/_func.pxi":3301
  *     return outreal
@@ -63338,7 +63261,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LINEARREG_SLOPE( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__154 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_SLOPE, 3301, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__154)) __PYX_ERR(2, 3301, __pyx_L1_error)
+  __pyx_codeobj__153 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LINEARREG_SLOPE, 3301, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__153)) __PYX_ERR(2, 3301, __pyx_L1_error)
 
   /* "talib/_func.pxi":3332
  *     return outreal
@@ -63347,7 +63270,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LN( np.ndarray real not None ):
  */
-  __pyx_codeobj__155 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LN, 3332, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__155)) __PYX_ERR(2, 3332, __pyx_L1_error)
+  __pyx_codeobj__154 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LN, 3332, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__154)) __PYX_ERR(2, 3332, __pyx_L1_error)
 
   /* "talib/_func.pxi":3361
  *     return outreal
@@ -63356,7 +63279,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LOG10( np.ndarray real not None ):
  */
-  __pyx_codeobj__156 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LOG10, 3361, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__156)) __PYX_ERR(2, 3361, __pyx_L1_error)
+  __pyx_codeobj__155 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_LOG10, 3361, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__155)) __PYX_ERR(2, 3361, __pyx_L1_error)
 
   /* "talib/_func.pxi":3390
  *     return outreal
@@ -63365,10 +63288,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MA( np.ndarray real not None , int timeperiod=-2**31 , int matype=0 ):
  */
-  __pyx_tuple__157 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__157)) __PYX_ERR(2, 3390, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__157);
-  __Pyx_GIVEREF(__pyx_tuple__157);
-  __pyx_codeobj__158 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__157, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MA, 3390, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__158)) __PYX_ERR(2, 3390, __pyx_L1_error)
+  __pyx_tuple__156 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__156)) __PYX_ERR(2, 3390, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__156);
+  __Pyx_GIVEREF(__pyx_tuple__156);
+  __pyx_codeobj__157 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__156, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MA, 3390, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__157)) __PYX_ERR(2, 3390, __pyx_L1_error)
 
   /* "talib/_func.pxi":3422
  *     return outreal
@@ -63377,10 +63300,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MACD( np.ndarray real not None , int fastperiod=-2**31 , int slowperiod=-2**31 , int signalperiod=-2**31 ):
  */
-  __pyx_tuple__159 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_signalperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__159)) __PYX_ERR(2, 3422, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__159);
-  __Pyx_GIVEREF(__pyx_tuple__159);
-  __pyx_codeobj__160 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__159, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACD, 3422, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__160)) __PYX_ERR(2, 3422, __pyx_L1_error)
+  __pyx_tuple__158 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_slowperiod, __pyx_n_s_signalperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__158)) __PYX_ERR(2, 3422, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__158);
+  __Pyx_GIVEREF(__pyx_tuple__158);
+  __pyx_codeobj__159 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__158, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACD, 3422, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__159)) __PYX_ERR(2, 3422, __pyx_L1_error)
 
   /* "talib/_func.pxi":3461
  *     return outmacd , outmacdsignal , outmacdhist
@@ -63389,10 +63312,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MACDEXT( np.ndarray real not None , int fastperiod=-2**31 , int fastmatype=0 , int slowperiod=-2**31 , int slowmatype=0 , int signalperiod=-2**31 , int signalmatype=0 ):
  */
-  __pyx_tuple__161 = PyTuple_Pack(17, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_fastmatype, __pyx_n_s_slowperiod, __pyx_n_s_slowmatype, __pyx_n_s_signalperiod, __pyx_n_s_signalmatype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__161)) __PYX_ERR(2, 3461, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__161);
-  __Pyx_GIVEREF(__pyx_tuple__161);
-  __pyx_codeobj__162 = (PyObject*)__Pyx_PyCode_New(7, 0, 0, 17, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__161, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACDEXT, 3461, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__162)) __PYX_ERR(2, 3461, __pyx_L1_error)
+  __pyx_tuple__160 = PyTuple_Pack(17, __pyx_n_s_real, __pyx_n_s_fastperiod, __pyx_n_s_fastmatype, __pyx_n_s_slowperiod, __pyx_n_s_slowmatype, __pyx_n_s_signalperiod, __pyx_n_s_signalmatype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__160)) __PYX_ERR(2, 3461, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__160);
+  __Pyx_GIVEREF(__pyx_tuple__160);
+  __pyx_codeobj__161 = (PyObject*)__Pyx_PyCode_New(7, 0, 0, 17, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__160, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACDEXT, 3461, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__161)) __PYX_ERR(2, 3461, __pyx_L1_error)
 
   /* "talib/_func.pxi":3503
  *     return outmacd , outmacdsignal , outmacdhist
@@ -63401,10 +63324,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MACDFIX( np.ndarray real not None , int signalperiod=-2**31 ):
  */
-  __pyx_tuple__163 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_signalperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__163)) __PYX_ERR(2, 3503, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__163);
-  __Pyx_GIVEREF(__pyx_tuple__163);
-  __pyx_codeobj__164 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__163, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACDFIX, 3503, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__164)) __PYX_ERR(2, 3503, __pyx_L1_error)
+  __pyx_tuple__162 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_signalperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmacd, __pyx_n_s_outmacdsignal, __pyx_n_s_outmacdhist); if (unlikely(!__pyx_tuple__162)) __PYX_ERR(2, 3503, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__162);
+  __Pyx_GIVEREF(__pyx_tuple__162);
+  __pyx_codeobj__163 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__162, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MACDFIX, 3503, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__163)) __PYX_ERR(2, 3503, __pyx_L1_error)
 
   /* "talib/_func.pxi":3540
  *     return outmacd , outmacdsignal , outmacdhist
@@ -63413,10 +63336,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MAMA( np.ndarray real not None , double fastlimit=-4e37 , double slowlimit=-4e37 ):
  */
-  __pyx_tuple__165 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_fastlimit, __pyx_n_s_slowlimit, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmama, __pyx_n_s_outfama); if (unlikely(!__pyx_tuple__165)) __PYX_ERR(2, 3540, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__165);
-  __Pyx_GIVEREF(__pyx_tuple__165);
-  __pyx_codeobj__166 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__165, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAMA, 3540, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__166)) __PYX_ERR(2, 3540, __pyx_L1_error)
+  __pyx_tuple__164 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_fastlimit, __pyx_n_s_slowlimit, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmama, __pyx_n_s_outfama); if (unlikely(!__pyx_tuple__164)) __PYX_ERR(2, 3540, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__164);
+  __Pyx_GIVEREF(__pyx_tuple__164);
+  __pyx_codeobj__165 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__164, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAMA, 3540, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__165)) __PYX_ERR(2, 3540, __pyx_L1_error)
 
   /* "talib/_func.pxi":3575
  *     return outmama , outfama
@@ -63425,10 +63348,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MAVP( np.ndarray real not None , np.ndarray periods not None , int minperiod=-2**31 , int maxperiod=-2**31 , int matype=0 ):
  */
-  __pyx_tuple__167 = PyTuple_Pack(13, __pyx_n_s_real, __pyx_n_s_periods, __pyx_n_s_minperiod, __pyx_n_s_maxperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__167)) __PYX_ERR(2, 3575, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__167);
-  __Pyx_GIVEREF(__pyx_tuple__167);
-  __pyx_codeobj__168 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__167, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAVP, 3575, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__168)) __PYX_ERR(2, 3575, __pyx_L1_error)
+  __pyx_tuple__166 = PyTuple_Pack(13, __pyx_n_s_real, __pyx_n_s_periods, __pyx_n_s_minperiod, __pyx_n_s_maxperiod, __pyx_n_s_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__166)) __PYX_ERR(2, 3575, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__166);
+  __Pyx_GIVEREF(__pyx_tuple__166);
+  __pyx_codeobj__167 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__166, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAVP, 3575, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__167)) __PYX_ERR(2, 3575, __pyx_L1_error)
 
   /* "talib/_func.pxi":3610
  *     return outreal
@@ -63437,7 +63360,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MAX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__169 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAX, 3610, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__169)) __PYX_ERR(2, 3610, __pyx_L1_error)
+  __pyx_codeobj__168 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAX, 3610, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__168)) __PYX_ERR(2, 3610, __pyx_L1_error)
 
   /* "talib/_func.pxi":3641
  *     return outreal
@@ -63446,10 +63369,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MAXINDEX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__170 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger, __pyx_n_s_outinteger_data, __pyx_n_s_i); if (unlikely(!__pyx_tuple__170)) __PYX_ERR(2, 3641, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__170);
-  __Pyx_GIVEREF(__pyx_tuple__170);
-  __pyx_codeobj__171 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__170, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAXINDEX, 3641, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__171)) __PYX_ERR(2, 3641, __pyx_L1_error)
+  __pyx_tuple__169 = PyTuple_Pack(12, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outinteger, __pyx_n_s_outinteger_data, __pyx_n_s_i); if (unlikely(!__pyx_tuple__169)) __PYX_ERR(2, 3641, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__169);
+  __Pyx_GIVEREF(__pyx_tuple__169);
+  __pyx_codeobj__170 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__169, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MAXINDEX, 3641, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__170)) __PYX_ERR(2, 3641, __pyx_L1_error)
 
   /* "talib/_func.pxi":3675
  *     return outinteger
@@ -63458,10 +63381,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MEDPRICE( np.ndarray high not None , np.ndarray low not None ):
  */
-  __pyx_tuple__172 = PyTuple_Pack(10, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__172)) __PYX_ERR(2, 3675, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__172);
-  __Pyx_GIVEREF(__pyx_tuple__172);
-  __pyx_codeobj__173 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__172, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MEDPRICE, 3675, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__173)) __PYX_ERR(2, 3675, __pyx_L1_error)
+  __pyx_tuple__171 = PyTuple_Pack(10, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__171)) __PYX_ERR(2, 3675, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__171);
+  __Pyx_GIVEREF(__pyx_tuple__171);
+  __pyx_codeobj__172 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__171, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MEDPRICE, 3675, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__172)) __PYX_ERR(2, 3675, __pyx_L1_error)
 
   /* "talib/_func.pxi":3705
  *     return outreal
@@ -63470,10 +63393,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MFI( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , np.ndarray volume not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__174 = PyTuple_Pack(13, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__174)) __PYX_ERR(2, 3705, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__174);
-  __Pyx_GIVEREF(__pyx_tuple__174);
-  __pyx_codeobj__175 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__174, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MFI, 3705, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__175)) __PYX_ERR(2, 3705, __pyx_L1_error)
+  __pyx_tuple__173 = PyTuple_Pack(13, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_volume, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__173)) __PYX_ERR(2, 3705, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__173);
+  __Pyx_GIVEREF(__pyx_tuple__173);
+  __pyx_codeobj__174 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__173, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MFI, 3705, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__174)) __PYX_ERR(2, 3705, __pyx_L1_error)
 
   /* "talib/_func.pxi":3739
  *     return outreal
@@ -63482,7 +63405,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MIDPOINT( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__176 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIDPOINT, 3739, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__176)) __PYX_ERR(2, 3739, __pyx_L1_error)
+  __pyx_codeobj__175 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIDPOINT, 3739, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__175)) __PYX_ERR(2, 3739, __pyx_L1_error)
 
   /* "talib/_func.pxi":3770
  *     return outreal
@@ -63491,7 +63414,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MIDPRICE( np.ndarray high not None , np.ndarray low not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__177 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIDPRICE, 3770, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__177)) __PYX_ERR(2, 3770, __pyx_L1_error)
+  __pyx_codeobj__176 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__52, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIDPRICE, 3770, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__176)) __PYX_ERR(2, 3770, __pyx_L1_error)
 
   /* "talib/_func.pxi":3802
  *     return outreal
@@ -63500,7 +63423,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MIN( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__178 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIN, 3802, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__178)) __PYX_ERR(2, 3802, __pyx_L1_error)
+  __pyx_codeobj__177 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MIN, 3802, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__177)) __PYX_ERR(2, 3802, __pyx_L1_error)
 
   /* "talib/_func.pxi":3833
  *     return outreal
@@ -63509,7 +63432,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MININDEX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__179 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__170, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MININDEX, 3833, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__179)) __PYX_ERR(2, 3833, __pyx_L1_error)
+  __pyx_codeobj__178 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__169, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MININDEX, 3833, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__178)) __PYX_ERR(2, 3833, __pyx_L1_error)
 
   /* "talib/_func.pxi":3867
  *     return outinteger
@@ -63518,10 +63441,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MINMAX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__180 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmin, __pyx_n_s_outmax); if (unlikely(!__pyx_tuple__180)) __PYX_ERR(2, 3867, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__180);
-  __Pyx_GIVEREF(__pyx_tuple__180);
-  __pyx_codeobj__181 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__180, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINMAX, 3867, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__181)) __PYX_ERR(2, 3867, __pyx_L1_error)
+  __pyx_tuple__179 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outmin, __pyx_n_s_outmax); if (unlikely(!__pyx_tuple__179)) __PYX_ERR(2, 3867, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__179);
+  __Pyx_GIVEREF(__pyx_tuple__179);
+  __pyx_codeobj__180 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__179, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINMAX, 3867, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__180)) __PYX_ERR(2, 3867, __pyx_L1_error)
 
   /* "talib/_func.pxi":3901
  *     return outmin , outmax
@@ -63530,10 +63453,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MINMAXINDEX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_tuple__182 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outminidx, __pyx_n_s_outmaxidx, __pyx_n_s_outminidx_data, __pyx_n_s_i, __pyx_n_s_outmaxidx_data); if (unlikely(!__pyx_tuple__182)) __PYX_ERR(2, 3901, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__182);
-  __Pyx_GIVEREF(__pyx_tuple__182);
-  __pyx_codeobj__183 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__182, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINMAXINDEX, 3901, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__183)) __PYX_ERR(2, 3901, __pyx_L1_error)
+  __pyx_tuple__181 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outminidx, __pyx_n_s_outmaxidx, __pyx_n_s_outminidx_data, __pyx_n_s_i, __pyx_n_s_outmaxidx_data); if (unlikely(!__pyx_tuple__181)) __PYX_ERR(2, 3901, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__181);
+  __Pyx_GIVEREF(__pyx_tuple__181);
+  __pyx_codeobj__182 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__181, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINMAXINDEX, 3901, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__182)) __PYX_ERR(2, 3901, __pyx_L1_error)
 
   /* "talib/_func.pxi":3941
  *     return outminidx , outmaxidx
@@ -63542,7 +63465,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MINUS_DI( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__184 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINUS_DI, 3941, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__184)) __PYX_ERR(2, 3941, __pyx_L1_error)
+  __pyx_codeobj__183 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINUS_DI, 3941, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__183)) __PYX_ERR(2, 3941, __pyx_L1_error)
 
   /* "talib/_func.pxi":3974
  *     return outreal
@@ -63551,7 +63474,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MINUS_DM( np.ndarray high not None , np.ndarray low not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__185 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINUS_DM, 3974, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__185)) __PYX_ERR(2, 3974, __pyx_L1_error)
+  __pyx_codeobj__184 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__52, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MINUS_DM, 3974, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__184)) __PYX_ERR(2, 3974, __pyx_L1_error)
 
   /* "talib/_func.pxi":4006
  *     return outreal
@@ -63560,7 +63483,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MOM( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__186 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MOM, 4006, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__186)) __PYX_ERR(2, 4006, __pyx_L1_error)
+  __pyx_codeobj__185 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MOM, 4006, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__185)) __PYX_ERR(2, 4006, __pyx_L1_error)
 
   /* "talib/_func.pxi":4037
  *     return outreal
@@ -63569,7 +63492,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MULT( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_codeobj__187 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__42, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MULT, 4037, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__187)) __PYX_ERR(2, 4037, __pyx_L1_error)
+  __pyx_codeobj__186 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__41, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_MULT, 4037, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__186)) __PYX_ERR(2, 4037, __pyx_L1_error)
 
   /* "talib/_func.pxi":4068
  *     return outreal
@@ -63578,7 +63501,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def NATR( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__188 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_NATR, 4068, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__188)) __PYX_ERR(2, 4068, __pyx_L1_error)
+  __pyx_codeobj__187 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_NATR, 4068, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__187)) __PYX_ERR(2, 4068, __pyx_L1_error)
 
   /* "talib/_func.pxi":4101
  *     return outreal
@@ -63587,10 +63510,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def OBV( np.ndarray real not None , np.ndarray volume not None ):
  */
-  __pyx_tuple__189 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_volume, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__189)) __PYX_ERR(2, 4101, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__189);
-  __Pyx_GIVEREF(__pyx_tuple__189);
-  __pyx_codeobj__190 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__189, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_OBV, 4101, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__190)) __PYX_ERR(2, 4101, __pyx_L1_error)
+  __pyx_tuple__188 = PyTuple_Pack(10, __pyx_n_s_real, __pyx_n_s_volume, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__188)) __PYX_ERR(2, 4101, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__188);
+  __Pyx_GIVEREF(__pyx_tuple__188);
+  __pyx_codeobj__189 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__188, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_OBV, 4101, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__189)) __PYX_ERR(2, 4101, __pyx_L1_error)
 
   /* "talib/_func.pxi":4132
  *     return outreal
@@ -63599,7 +63522,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def PLUS_DI( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__191 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PLUS_DI, 4132, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__191)) __PYX_ERR(2, 4132, __pyx_L1_error)
+  __pyx_codeobj__190 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PLUS_DI, 4132, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__190)) __PYX_ERR(2, 4132, __pyx_L1_error)
 
   /* "talib/_func.pxi":4165
  *     return outreal
@@ -63608,7 +63531,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def PLUS_DM( np.ndarray high not None , np.ndarray low not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__192 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PLUS_DM, 4165, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__192)) __PYX_ERR(2, 4165, __pyx_L1_error)
+  __pyx_codeobj__191 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__52, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PLUS_DM, 4165, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__191)) __PYX_ERR(2, 4165, __pyx_L1_error)
 
   /* "talib/_func.pxi":4197
  *     return outreal
@@ -63617,7 +63540,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def PPO( np.ndarray real not None , int fastperiod=-2**31 , int slowperiod=-2**31 , int matype=0 ):
  */
-  __pyx_codeobj__193 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__49, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PPO, 4197, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__193)) __PYX_ERR(2, 4197, __pyx_L1_error)
+  __pyx_codeobj__192 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__48, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_PPO, 4197, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__192)) __PYX_ERR(2, 4197, __pyx_L1_error)
 
   /* "talib/_func.pxi":4230
  *     return outreal
@@ -63626,7 +63549,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ROC( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__194 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROC, 4230, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__194)) __PYX_ERR(2, 4230, __pyx_L1_error)
+  __pyx_codeobj__193 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROC, 4230, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__193)) __PYX_ERR(2, 4230, __pyx_L1_error)
 
   /* "talib/_func.pxi":4261
  *     return outreal
@@ -63635,7 +63558,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ROCP( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__195 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCP, 4261, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__195)) __PYX_ERR(2, 4261, __pyx_L1_error)
+  __pyx_codeobj__194 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCP, 4261, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__194)) __PYX_ERR(2, 4261, __pyx_L1_error)
 
   /* "talib/_func.pxi":4292
  *     return outreal
@@ -63644,7 +63567,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ROCR( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__196 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCR, 4292, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__196)) __PYX_ERR(2, 4292, __pyx_L1_error)
+  __pyx_codeobj__195 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCR, 4292, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__195)) __PYX_ERR(2, 4292, __pyx_L1_error)
 
   /* "talib/_func.pxi":4323
  *     return outreal
@@ -63653,7 +63576,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ROCR100( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__197 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCR100, 4323, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__197)) __PYX_ERR(2, 4323, __pyx_L1_error)
+  __pyx_codeobj__196 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ROCR100, 4323, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__196)) __PYX_ERR(2, 4323, __pyx_L1_error)
 
   /* "talib/_func.pxi":4354
  *     return outreal
@@ -63662,7 +63585,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def RSI( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__198 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_RSI, 4354, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__198)) __PYX_ERR(2, 4354, __pyx_L1_error)
+  __pyx_codeobj__197 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_RSI, 4354, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__197)) __PYX_ERR(2, 4354, __pyx_L1_error)
 
   /* "talib/_func.pxi":4385
  *     return outreal
@@ -63671,10 +63594,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SAR( np.ndarray high not None , np.ndarray low not None , double acceleration=0.02 , double maximum=0.2 ):
  */
-  __pyx_tuple__199 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_acceleration, __pyx_n_s_maximum, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__199)) __PYX_ERR(2, 4385, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__199);
-  __Pyx_GIVEREF(__pyx_tuple__199);
-  __pyx_codeobj__200 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__199, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SAR, 4385, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__200)) __PYX_ERR(2, 4385, __pyx_L1_error)
+  __pyx_tuple__198 = PyTuple_Pack(12, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_acceleration, __pyx_n_s_maximum, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__198)) __PYX_ERR(2, 4385, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__198);
+  __Pyx_GIVEREF(__pyx_tuple__198);
+  __pyx_codeobj__199 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__198, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SAR, 4385, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__199)) __PYX_ERR(2, 4385, __pyx_L1_error)
 
   /* "talib/_func.pxi":4418
  *     return outreal
@@ -63683,10 +63606,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SAREXT( np.ndarray high not None , np.ndarray low not None , double startvalue=-4e37 , double offsetonreverse=-4e37 , double accelerationinitlong=-4e37 , double accelerationlong=-4e37 , double accelerationmaxlong=-4e37 , double accelerationinitshort=-4e37 , double accelerationshort=-4e37 , double accelerationmaxshort=-4e37 ):
  */
-  __pyx_tuple__201 = PyTuple_Pack(18, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_startvalue, __pyx_n_s_offsetonreverse, __pyx_n_s_accelerationinitlong, __pyx_n_s_accelerationlong, __pyx_n_s_accelerationmaxlong, __pyx_n_s_accelerationinitshort, __pyx_n_s_accelerationshort, __pyx_n_s_accelerationmaxshort, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__201)) __PYX_ERR(2, 4418, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__201);
-  __Pyx_GIVEREF(__pyx_tuple__201);
-  __pyx_codeobj__202 = (PyObject*)__Pyx_PyCode_New(10, 0, 0, 18, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__201, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SAREXT, 4418, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__202)) __PYX_ERR(2, 4418, __pyx_L1_error)
+  __pyx_tuple__200 = PyTuple_Pack(18, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_startvalue, __pyx_n_s_offsetonreverse, __pyx_n_s_accelerationinitlong, __pyx_n_s_accelerationlong, __pyx_n_s_accelerationmaxlong, __pyx_n_s_accelerationinitshort, __pyx_n_s_accelerationshort, __pyx_n_s_accelerationmaxshort, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__200)) __PYX_ERR(2, 4418, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__200);
+  __Pyx_GIVEREF(__pyx_tuple__200);
+  __pyx_codeobj__201 = (PyObject*)__Pyx_PyCode_New(10, 0, 0, 18, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__200, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SAREXT, 4418, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__201)) __PYX_ERR(2, 4418, __pyx_L1_error)
 
   /* "talib/_func.pxi":4457
  *     return outreal
@@ -63695,7 +63618,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SIN( np.ndarray real not None ):
  */
-  __pyx_codeobj__203 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SIN, 4457, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__203)) __PYX_ERR(2, 4457, __pyx_L1_error)
+  __pyx_codeobj__202 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SIN, 4457, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__202)) __PYX_ERR(2, 4457, __pyx_L1_error)
 
   /* "talib/_func.pxi":4486
  *     return outreal
@@ -63704,7 +63627,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SINH( np.ndarray real not None ):
  */
-  __pyx_codeobj__204 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SINH, 4486, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__204)) __PYX_ERR(2, 4486, __pyx_L1_error)
+  __pyx_codeobj__203 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SINH, 4486, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__203)) __PYX_ERR(2, 4486, __pyx_L1_error)
 
   /* "talib/_func.pxi":4515
  *     return outreal
@@ -63713,7 +63636,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__205 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SMA, 4515, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__205)) __PYX_ERR(2, 4515, __pyx_L1_error)
+  __pyx_codeobj__204 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SMA, 4515, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__204)) __PYX_ERR(2, 4515, __pyx_L1_error)
 
   /* "talib/_func.pxi":4546
  *     return outreal
@@ -63722,7 +63645,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SQRT( np.ndarray real not None ):
  */
-  __pyx_codeobj__206 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SQRT, 4546, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__206)) __PYX_ERR(2, 4546, __pyx_L1_error)
+  __pyx_codeobj__205 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SQRT, 4546, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__205)) __PYX_ERR(2, 4546, __pyx_L1_error)
 
   /* "talib/_func.pxi":4575
  *     return outreal
@@ -63731,10 +63654,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def STDDEV( np.ndarray real not None , int timeperiod=-2**31 , double nbdev=-4e37 ):
  */
-  __pyx_tuple__207 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_nbdev, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__207)) __PYX_ERR(2, 4575, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__207);
-  __Pyx_GIVEREF(__pyx_tuple__207);
-  __pyx_codeobj__208 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__207, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STDDEV, 4575, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__208)) __PYX_ERR(2, 4575, __pyx_L1_error)
+  __pyx_tuple__206 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_nbdev, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__206)) __PYX_ERR(2, 4575, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__206);
+  __Pyx_GIVEREF(__pyx_tuple__206);
+  __pyx_codeobj__207 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__206, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STDDEV, 4575, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__207)) __PYX_ERR(2, 4575, __pyx_L1_error)
 
   /* "talib/_func.pxi":4607
  *     return outreal
@@ -63743,10 +63666,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def STOCH( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int fastk_period=-2**31 , int slowk_period=-2**31 , int slowk_matype=0 , int slowd_period=-2**31 , int slowd_matype=0 ):
  */
-  __pyx_tuple__209 = PyTuple_Pack(17, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_fastk_period, __pyx_n_s_slowk_period, __pyx_n_s_slowk_matype, __pyx_n_s_slowd_period, __pyx_n_s_slowd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outslowk, __pyx_n_s_outslowd); if (unlikely(!__pyx_tuple__209)) __PYX_ERR(2, 4607, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__209);
-  __Pyx_GIVEREF(__pyx_tuple__209);
-  __pyx_codeobj__210 = (PyObject*)__Pyx_PyCode_New(8, 0, 0, 17, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__209, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCH, 4607, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__210)) __PYX_ERR(2, 4607, __pyx_L1_error)
+  __pyx_tuple__208 = PyTuple_Pack(17, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_fastk_period, __pyx_n_s_slowk_period, __pyx_n_s_slowk_matype, __pyx_n_s_slowd_period, __pyx_n_s_slowd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outslowk, __pyx_n_s_outslowd); if (unlikely(!__pyx_tuple__208)) __PYX_ERR(2, 4607, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__208);
+  __Pyx_GIVEREF(__pyx_tuple__208);
+  __pyx_codeobj__209 = (PyObject*)__Pyx_PyCode_New(8, 0, 0, 17, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__208, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCH, 4607, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__209)) __PYX_ERR(2, 4607, __pyx_L1_error)
 
   /* "talib/_func.pxi":4647
  *     return outslowk , outslowd
@@ -63755,10 +63678,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def STOCHF( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int fastk_period=-2**31 , int fastd_period=-2**31 , int fastd_matype=0 ):
  */
-  __pyx_tuple__211 = PyTuple_Pack(15, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_fastk_period, __pyx_n_s_fastd_period, __pyx_n_s_fastd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outfastk, __pyx_n_s_outfastd); if (unlikely(!__pyx_tuple__211)) __PYX_ERR(2, 4647, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__211);
-  __Pyx_GIVEREF(__pyx_tuple__211);
-  __pyx_codeobj__212 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 15, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__211, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCHF, 4647, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__212)) __PYX_ERR(2, 4647, __pyx_L1_error)
+  __pyx_tuple__210 = PyTuple_Pack(15, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_fastk_period, __pyx_n_s_fastd_period, __pyx_n_s_fastd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outfastk, __pyx_n_s_outfastd); if (unlikely(!__pyx_tuple__210)) __PYX_ERR(2, 4647, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__210);
+  __Pyx_GIVEREF(__pyx_tuple__210);
+  __pyx_codeobj__211 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 15, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__210, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCHF, 4647, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__211)) __PYX_ERR(2, 4647, __pyx_L1_error)
 
   /* "talib/_func.pxi":4685
  *     return outfastk , outfastd
@@ -63767,10 +63690,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def STOCHRSI( np.ndarray real not None , int timeperiod=-2**31 , int fastk_period=-2**31 , int fastd_period=-2**31 , int fastd_matype=0 ):
  */
-  __pyx_tuple__213 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_fastk_period, __pyx_n_s_fastd_period, __pyx_n_s_fastd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outfastk, __pyx_n_s_outfastd); if (unlikely(!__pyx_tuple__213)) __PYX_ERR(2, 4685, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__213);
-  __Pyx_GIVEREF(__pyx_tuple__213);
-  __pyx_codeobj__214 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__213, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCHRSI, 4685, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__214)) __PYX_ERR(2, 4685, __pyx_L1_error)
+  __pyx_tuple__212 = PyTuple_Pack(14, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_fastk_period, __pyx_n_s_fastd_period, __pyx_n_s_fastd_matype, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outfastk, __pyx_n_s_outfastd); if (unlikely(!__pyx_tuple__212)) __PYX_ERR(2, 4685, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__212);
+  __Pyx_GIVEREF(__pyx_tuple__212);
+  __pyx_codeobj__213 = (PyObject*)__Pyx_PyCode_New(5, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__212, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_STOCHRSI, 4685, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__213)) __PYX_ERR(2, 4685, __pyx_L1_error)
 
   /* "talib/_func.pxi":4722
  *     return outfastk , outfastd
@@ -63779,7 +63702,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SUB( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_codeobj__215 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__42, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SUB, 4722, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__215)) __PYX_ERR(2, 4722, __pyx_L1_error)
+  __pyx_codeobj__214 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__41, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SUB, 4722, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__214)) __PYX_ERR(2, 4722, __pyx_L1_error)
 
   /* "talib/_func.pxi":4753
  *     return outreal
@@ -63788,7 +63711,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SUM( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__216 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SUM, 4753, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__216)) __PYX_ERR(2, 4753, __pyx_L1_error)
+  __pyx_codeobj__215 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_SUM, 4753, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__215)) __PYX_ERR(2, 4753, __pyx_L1_error)
 
   /* "talib/_func.pxi":4784
  *     return outreal
@@ -63797,10 +63720,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def T3( np.ndarray real not None , int timeperiod=-2**31 , double vfactor=-4e37 ):
  */
-  __pyx_tuple__217 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_vfactor, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__217)) __PYX_ERR(2, 4784, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__217);
-  __Pyx_GIVEREF(__pyx_tuple__217);
-  __pyx_codeobj__218 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__217, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_T3, 4784, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__218)) __PYX_ERR(2, 4784, __pyx_L1_error)
+  __pyx_tuple__216 = PyTuple_Pack(11, __pyx_n_s_real, __pyx_n_s_timeperiod, __pyx_n_s_vfactor, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__216)) __PYX_ERR(2, 4784, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__216);
+  __Pyx_GIVEREF(__pyx_tuple__216);
+  __pyx_codeobj__217 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__216, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_T3, 4784, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__217)) __PYX_ERR(2, 4784, __pyx_L1_error)
 
   /* "talib/_func.pxi":4816
  *     return outreal
@@ -63809,7 +63732,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TAN( np.ndarray real not None ):
  */
-  __pyx_codeobj__219 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TAN, 4816, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__219)) __PYX_ERR(2, 4816, __pyx_L1_error)
+  __pyx_codeobj__218 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TAN, 4816, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__218)) __PYX_ERR(2, 4816, __pyx_L1_error)
 
   /* "talib/_func.pxi":4845
  *     return outreal
@@ -63818,7 +63741,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TANH( np.ndarray real not None ):
  */
-  __pyx_codeobj__220 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__38, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TANH, 4845, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__220)) __PYX_ERR(2, 4845, __pyx_L1_error)
+  __pyx_codeobj__219 = (PyObject*)__Pyx_PyCode_New(1, 0, 0, 9, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__37, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TANH, 4845, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__219)) __PYX_ERR(2, 4845, __pyx_L1_error)
 
   /* "talib/_func.pxi":4874
  *     return outreal
@@ -63827,7 +63750,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TEMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__221 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TEMA, 4874, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__221)) __PYX_ERR(2, 4874, __pyx_L1_error)
+  __pyx_codeobj__220 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TEMA, 4874, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__220)) __PYX_ERR(2, 4874, __pyx_L1_error)
 
   /* "talib/_func.pxi":4905
  *     return outreal
@@ -63836,10 +63759,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TRANGE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_tuple__222 = PyTuple_Pack(11, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__222)) __PYX_ERR(2, 4905, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__222);
-  __Pyx_GIVEREF(__pyx_tuple__222);
-  __pyx_codeobj__223 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__222, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRANGE, 4905, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__223)) __PYX_ERR(2, 4905, __pyx_L1_error)
+  __pyx_tuple__221 = PyTuple_Pack(11, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__221)) __PYX_ERR(2, 4905, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__221);
+  __Pyx_GIVEREF(__pyx_tuple__221);
+  __pyx_codeobj__222 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__221, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRANGE, 4905, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__222)) __PYX_ERR(2, 4905, __pyx_L1_error)
 
   /* "talib/_func.pxi":4936
  *     return outreal
@@ -63848,7 +63771,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TRIMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__224 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRIMA, 4936, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__224)) __PYX_ERR(2, 4936, __pyx_L1_error)
+  __pyx_codeobj__223 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRIMA, 4936, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__223)) __PYX_ERR(2, 4936, __pyx_L1_error)
 
   /* "talib/_func.pxi":4967
  *     return outreal
@@ -63857,7 +63780,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TRIX( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__225 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRIX, 4967, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__225)) __PYX_ERR(2, 4967, __pyx_L1_error)
+  __pyx_codeobj__224 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TRIX, 4967, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__224)) __PYX_ERR(2, 4967, __pyx_L1_error)
 
   /* "talib/_func.pxi":4998
  *     return outreal
@@ -63866,7 +63789,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TSF( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__226 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TSF, 4998, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__226)) __PYX_ERR(2, 4998, __pyx_L1_error)
+  __pyx_codeobj__225 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TSF, 4998, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__225)) __PYX_ERR(2, 4998, __pyx_L1_error)
 
   /* "talib/_func.pxi":5029
  *     return outreal
@@ -63875,7 +63798,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TYPPRICE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__227 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__222, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TYPPRICE, 5029, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__227)) __PYX_ERR(2, 5029, __pyx_L1_error)
+  __pyx_codeobj__226 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__221, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_TYPPRICE, 5029, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__226)) __PYX_ERR(2, 5029, __pyx_L1_error)
 
   /* "talib/_func.pxi":5060
  *     return outreal
@@ -63884,10 +63807,10 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ULTOSC( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod1=-2**31 , int timeperiod2=-2**31 , int timeperiod3=-2**31 ):
  */
-  __pyx_tuple__228 = PyTuple_Pack(14, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_timeperiod1, __pyx_n_s_timeperiod2, __pyx_n_s_timeperiod3, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__228)) __PYX_ERR(2, 5060, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_tuple__228);
-  __Pyx_GIVEREF(__pyx_tuple__228);
-  __pyx_codeobj__229 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__228, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ULTOSC, 5060, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__229)) __PYX_ERR(2, 5060, __pyx_L1_error)
+  __pyx_tuple__227 = PyTuple_Pack(14, __pyx_n_s_high, __pyx_n_s_low, __pyx_n_s_close, __pyx_n_s_timeperiod1, __pyx_n_s_timeperiod2, __pyx_n_s_timeperiod3, __pyx_n_s_length, __pyx_n_s_begidx, __pyx_n_s_endidx, __pyx_n_s_lookback, __pyx_n_s_retCode, __pyx_n_s_outbegidx, __pyx_n_s_outnbelement, __pyx_n_s_outreal); if (unlikely(!__pyx_tuple__227)) __PYX_ERR(2, 5060, __pyx_L1_error)
+  __Pyx_GOTREF(__pyx_tuple__227);
+  __Pyx_GIVEREF(__pyx_tuple__227);
+  __pyx_codeobj__228 = (PyObject*)__Pyx_PyCode_New(6, 0, 0, 14, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__227, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_ULTOSC, 5060, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__228)) __PYX_ERR(2, 5060, __pyx_L1_error)
 
   /* "talib/_func.pxi":5095
  *     return outreal
@@ -63896,7 +63819,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def VAR( np.ndarray real not None , int timeperiod=-2**31 , double nbdev=-4e37 ):
  */
-  __pyx_codeobj__230 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__207, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_VAR, 5095, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__230)) __PYX_ERR(2, 5095, __pyx_L1_error)
+  __pyx_codeobj__229 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__206, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_VAR, 5095, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__229)) __PYX_ERR(2, 5095, __pyx_L1_error)
 
   /* "talib/_func.pxi":5127
  *     return outreal
@@ -63905,7 +63828,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def WCLPRICE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_codeobj__231 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__222, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WCLPRICE, 5127, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__231)) __PYX_ERR(2, 5127, __pyx_L1_error)
+  __pyx_codeobj__230 = (PyObject*)__Pyx_PyCode_New(3, 0, 0, 11, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__221, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WCLPRICE, 5127, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__230)) __PYX_ERR(2, 5127, __pyx_L1_error)
 
   /* "talib/_func.pxi":5158
  *     return outreal
@@ -63914,7 +63837,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def WILLR( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__232 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__46, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WILLR, 5158, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__232)) __PYX_ERR(2, 5158, __pyx_L1_error)
+  __pyx_codeobj__231 = (PyObject*)__Pyx_PyCode_New(4, 0, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WILLR, 5158, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__231)) __PYX_ERR(2, 5158, __pyx_L1_error)
 
   /* "talib/_func.pxi":5191
  *     return outreal
@@ -63923,7 +63846,7 @@ static CYTHON_SMALL_CODE int __Pyx_InitCachedConstants(void) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def WMA( np.ndarray real not None , int timeperiod=-2**31 ):
  */
-  __pyx_codeobj__233 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__130, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WMA, 5191, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__233)) __PYX_ERR(2, 5191, __pyx_L1_error)
+  __pyx_codeobj__232 = (PyObject*)__Pyx_PyCode_New(2, 0, 0, 10, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__129, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_talib__func_pxi, __pyx_n_s_WMA, 5191, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__232)) __PYX_ERR(2, 5191, __pyx_L1_error)
   __Pyx_RefNannyFinishContext();
   return 0;
   __pyx_L1_error:;
@@ -64027,7 +63950,7 @@ static int __Pyx_modinit_type_import_code(void) {
   __pyx_ptype_5numpy_complexfloating = __Pyx_ImportType_3_0_5(__pyx_t_1, "numpy", "complexfloating", sizeof(PyObject), __PYX_GET_STRUCT_ALIGNMENT_3_0_5(PyObject),__Pyx_ImportType_CheckSize_Warn_3_0_5); if (!__pyx_ptype_5numpy_complexfloating) __PYX_ERR(1, 823, __pyx_L1_error)
   __pyx_ptype_5numpy_flexible = __Pyx_ImportType_3_0_5(__pyx_t_1, "numpy", "flexible", sizeof(PyObject), __PYX_GET_STRUCT_ALIGNMENT_3_0_5(PyObject),__Pyx_ImportType_CheckSize_Warn_3_0_5); if (!__pyx_ptype_5numpy_flexible) __PYX_ERR(1, 825, __pyx_L1_error)
   __pyx_ptype_5numpy_character = __Pyx_ImportType_3_0_5(__pyx_t_1, "numpy", "character", sizeof(PyObject), __PYX_GET_STRUCT_ALIGNMENT_3_0_5(PyObject),__Pyx_ImportType_CheckSize_Warn_3_0_5); if (!__pyx_ptype_5numpy_character) __PYX_ERR(1, 827, __pyx_L1_error)
-  __pyx_ptype_5numpy_ufunc = __Pyx_ImportType_3_0_5(__pyx_t_1, "numpy", "ufunc", sizeof(PyUFuncObject), __PYX_GET_STRUCT_ALIGNMENT_3_0_5(PyUFuncObject),__Pyx_ImportType_CheckSize_Ignore_3_0_5); if (!__pyx_ptype_5numpy_ufunc) __PYX_ERR(1, 865, __pyx_L1_error)
+  __pyx_ptype_5numpy_ufunc = __Pyx_ImportType_3_0_5(__pyx_t_1, "numpy", "ufunc", sizeof(PyUFuncObject), __PYX_GET_STRUCT_ALIGNMENT_3_0_5(PyUFuncObject),__Pyx_ImportType_CheckSize_Ignore_3_0_5); if (!__pyx_ptype_5numpy_ufunc) __PYX_ERR(1, 866, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_RefNannyFinishContext();
   return 0;
@@ -64370,7 +64293,7 @@ if (!__Pyx_RefNanny) {
  *     if ret_code == 0:
  *         return True
  */
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_1_ta_check_success, 0, __pyx_n_s_ta_check_success, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__8)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 6, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_1_ta_check_success, 0, __pyx_n_s_ta_check_success, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__7)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 6, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_check_success, __pyx_t_2) < 0) __PYX_ERR(0, 6, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -64382,7 +64305,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_Initialize()
  */
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_3_ta_initialize, 0, __pyx_n_s_ta_initialize, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__10)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 50, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_3_ta_initialize, 0, __pyx_n_s_ta_initialize, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__9)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 50, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_initialize, __pyx_t_2) < 0) __PYX_ERR(0, 50, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -64394,7 +64317,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_Shutdown()
  */
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_5_ta_shutdown, 0, __pyx_n_s_ta_shutdown, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__11)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 55, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_5_ta_shutdown, 0, __pyx_n_s_ta_shutdown, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__10)); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 55, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_shutdown, __pyx_t_2) < 0) __PYX_ERR(0, 55, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -64406,14 +64329,14 @@ if (!__Pyx_RefNanny) {
  *     SMA, EMA, WMA, DEMA, TEMA, TRIMA, KAMA, MAMA, T3 = range(9)
  * 
  */
-  __pyx_t_2 = __Pyx_PEP560_update_bases(__pyx_tuple__13); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 60, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PEP560_update_bases(__pyx_tuple__12); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 60, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_3 = __Pyx_CalculateMetaclass(NULL, __pyx_t_2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 60, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_4 = __Pyx_Py3MetaclassPrepare(__pyx_t_3, __pyx_t_2, __pyx_n_s_MA_Type, __pyx_n_s_MA_Type, (PyObject *) NULL, __pyx_n_s_talib__ta_lib, (PyObject *) NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 60, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  if (__pyx_t_2 != __pyx_tuple__13) {
-    if (unlikely((PyDict_SetItemString(__pyx_t_4, "__orig_bases__", __pyx_tuple__13) < 0))) __PYX_ERR(0, 60, __pyx_L1_error)
+  if (__pyx_t_2 != __pyx_tuple__12) {
+    if (unlikely((PyDict_SetItemString(__pyx_t_4, "__orig_bases__", __pyx_tuple__12) < 0))) __PYX_ERR(0, 60, __pyx_L1_error)
   }
 
   /* "talib/_common.pxi":61
@@ -64423,7 +64346,7 @@ if (!__Pyx_RefNanny) {
  * 
  *     def __init__(self):
  */
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__14, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 61, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__13, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 61, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   if ((likely(PyTuple_CheckExact(__pyx_t_5))) || (PyList_CheckExact(__pyx_t_5))) {
     PyObject* sequence = __pyx_t_5;
@@ -64525,7 +64448,7 @@ if (!__Pyx_RefNanny) {
  *         self._lookup = {
  *             MA_Type.SMA: 'Simple Moving Average',
  */
-  __pyx_t_5 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7MA_Type_1__init__, 0, __pyx_n_s_MA_Type___init, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__16)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 63, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7MA_Type_1__init__, 0, __pyx_n_s_MA_Type___init, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__15)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 63, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   if (__Pyx_SetNameInClass(__pyx_t_4, __pyx_n_s_init, __pyx_t_5) < 0) __PYX_ERR(0, 63, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -64537,7 +64460,7 @@ if (!__Pyx_RefNanny) {
  *         return self._lookup[type_]
  * 
  */
-  __pyx_t_5 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7MA_Type_3__getitem__, 0, __pyx_n_s_MA_Type___getitem, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__18)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 76, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7MA_Type_3__getitem__, 0, __pyx_n_s_MA_Type___getitem, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__17)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 76, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   if (__Pyx_SetNameInClass(__pyx_t_4, __pyx_n_s_getitem, __pyx_t_5) < 0) __PYX_ERR(0, 76, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -64724,7 +64647,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     cdef TA_FuncUnstId id = _ta_func_unst_ids[name]
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7_ta_set_unstable_period, 0, __pyx_n_s_ta_set_unstable_period, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__20)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 90, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_7_ta_set_unstable_period, 0, __pyx_n_s_ta_set_unstable_period, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__19)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 90, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_set_unstable_period, __pyx_t_3) < 0) __PYX_ERR(0, 90, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -64736,7 +64659,7 @@ if (!__Pyx_RefNanny) {
  *     cdef unsigned int period
  *     cdef TA_FuncUnstId id = _ta_func_unst_ids[name]
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_9_ta_get_unstable_period, 0, __pyx_n_s_ta_get_unstable_period, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__22)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 96, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_9_ta_get_unstable_period, 0, __pyx_n_s_ta_get_unstable_period, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__21)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 96, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_get_unstable_period, __pyx_t_3) < 0) __PYX_ERR(0, 96, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -64748,7 +64671,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_SetCompatibility(value)
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_11_ta_set_compatibility, 0, __pyx_n_s_ta_set_compatibility, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__24)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 102, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_11_ta_set_compatibility, 0, __pyx_n_s_ta_set_compatibility, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__23)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 102, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_set_compatibility, __pyx_t_3) < 0) __PYX_ERR(0, 102, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -64760,7 +64683,7 @@ if (!__Pyx_RefNanny) {
  *     cdef int value
  *     value = lib.TA_GetCompatibility()
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_13_ta_get_compatibility, 0, __pyx_n_s_ta_get_compatibility, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__26)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 107, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_13_ta_get_compatibility, 0, __pyx_n_s_ta_get_compatibility, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__25)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 107, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_get_compatibility, __pyx_t_3) < 0) __PYX_ERR(0, 107, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -64772,14 +64695,14 @@ if (!__Pyx_RefNanny) {
  *     BodyLong, BodyVeryLong, BodyShort, BodyDoji, ShadowLong, ShadowVeryLong, \
  *     ShadowShort, ShadowVeryShort, Near, Far, Equal, AllCandleSettings = \
  */
-  __pyx_t_3 = __Pyx_PEP560_update_bases(__pyx_tuple__28); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 112, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PEP560_update_bases(__pyx_tuple__27); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 112, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_4 = __Pyx_CalculateMetaclass(NULL, __pyx_t_3); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 112, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_2 = __Pyx_Py3MetaclassPrepare(__pyx_t_4, __pyx_t_3, __pyx_n_s_CandleSettingType, __pyx_n_s_CandleSettingType, (PyObject *) NULL, __pyx_n_s_talib__ta_lib, (PyObject *) NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 112, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  if (__pyx_t_3 != __pyx_tuple__28) {
-    if (unlikely((PyDict_SetItemString(__pyx_t_2, "__orig_bases__", __pyx_tuple__28) < 0))) __PYX_ERR(0, 112, __pyx_L1_error)
+  if (__pyx_t_3 != __pyx_tuple__27) {
+    if (unlikely((PyDict_SetItemString(__pyx_t_2, "__orig_bases__", __pyx_tuple__27) < 0))) __PYX_ERR(0, 112, __pyx_L1_error)
   }
 
   /* "talib/_common.pxi":115
@@ -64789,7 +64712,7 @@ if (!__Pyx_RefNanny) {
  * 
  * CandleSettingType = CandleSettingType()
  */
-  __pyx_t_14 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__29, NULL); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 115, __pyx_L1_error)
+  __pyx_t_14 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__28, NULL); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 115, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_14);
   if ((likely(PyTuple_CheckExact(__pyx_t_14))) || (PyList_CheckExact(__pyx_t_14))) {
     PyObject* sequence = __pyx_t_14;
@@ -64944,14 +64867,14 @@ if (!__Pyx_RefNanny) {
  *     RealBody, HighLow, Shadows = range(3)
  * 
  */
-  __pyx_t_4 = __Pyx_PEP560_update_bases(__pyx_tuple__31); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 119, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PEP560_update_bases(__pyx_tuple__30); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 119, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_3 = __Pyx_CalculateMetaclass(NULL, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 119, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_2 = __Pyx_Py3MetaclassPrepare(__pyx_t_3, __pyx_t_4, __pyx_n_s_RangeType, __pyx_n_s_RangeType, (PyObject *) NULL, __pyx_n_s_talib__ta_lib, (PyObject *) NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 119, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  if (__pyx_t_4 != __pyx_tuple__31) {
-    if (unlikely((PyDict_SetItemString(__pyx_t_2, "__orig_bases__", __pyx_tuple__31) < 0))) __PYX_ERR(0, 119, __pyx_L1_error)
+  if (__pyx_t_4 != __pyx_tuple__30) {
+    if (unlikely((PyDict_SetItemString(__pyx_t_2, "__orig_bases__", __pyx_tuple__30) < 0))) __PYX_ERR(0, 119, __pyx_L1_error)
   }
 
   /* "talib/_common.pxi":120
@@ -64961,7 +64884,7 @@ if (!__Pyx_RefNanny) {
  * 
  * RangeType = RangeType()
  */
-  __pyx_t_14 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__32, NULL); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 120, __pyx_L1_error)
+  __pyx_t_14 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_tuple__31, NULL); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 120, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_14);
   if ((likely(PyTuple_CheckExact(__pyx_t_14))) || (PyList_CheckExact(__pyx_t_14))) {
     PyObject* sequence = __pyx_t_14;
@@ -65060,7 +64983,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_SetCandleSettings(settingtype, rangetype, avgperiod, factor)
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_15_ta_set_candle_settings, 0, __pyx_n_s_ta_set_candle_settings, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__34)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 124, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_15_ta_set_candle_settings, 0, __pyx_n_s_ta_set_candle_settings, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__33)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 124, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_set_candle_settings, __pyx_t_3) < 0) __PYX_ERR(0, 124, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65072,7 +64995,7 @@ if (!__Pyx_RefNanny) {
  *     cdef TA_RetCode ret_code
  *     ret_code = lib.TA_RestoreCandleDefaultSettings(settingtype)
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_17_ta_restore_candle_default_settings, 0, __pyx_n_s_ta_restore_candle_default_setti, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__36)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 129, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_17_ta_restore_candle_default_settings, 0, __pyx_n_s_ta_restore_candle_default_setti, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__35)); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 129, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ta_restore_candle_default_setti, __pyx_t_3) < 0) __PYX_ERR(0, 129, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65126,7 +65049,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ACOS( np.ndarray real not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_19ACOS, 0, __pyx_n_s_ACOS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__39)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 142, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_19ACOS, 0, __pyx_n_s_ACOS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__38)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 142, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ACOS, __pyx_t_4) < 0) __PYX_ERR(2, 142, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65138,7 +65061,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AD( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None , np.ndarray volume not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_21AD, 0, __pyx_n_s_AD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__41)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 171, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_21AD, 0, __pyx_n_s_AD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__40)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 171, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_AD, __pyx_t_4) < 0) __PYX_ERR(2, 171, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65150,7 +65073,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ADD( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_23ADD, 0, __pyx_n_s_ADD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__43)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 203, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_23ADD, 0, __pyx_n_s_ADD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__42)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 203, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ADD, __pyx_t_4) < 0) __PYX_ERR(2, 203, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65182,7 +65105,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_2, 1, __pyx_t_3)) __PYX_ERR(2, 234, __pyx_L1_error);
   __pyx_t_4 = 0;
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_25ADOSC, 0, __pyx_n_s_ADOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__45)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 234, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_25ADOSC, 0, __pyx_n_s_ADOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__44)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 234, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_2);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -65211,7 +65134,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_3)) __PYX_ERR(2, 269, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_27ADX, 0, __pyx_n_s_ADX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__47)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 269, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_27ADX, 0, __pyx_n_s_ADX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__46)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 269, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_2);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -65240,7 +65163,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_3)) __PYX_ERR(2, 302, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_29ADXR, 0, __pyx_n_s_ADXR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__48)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 302, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_29ADXR, 0, __pyx_n_s_ADXR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__47)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 302, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_2);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -65279,7 +65202,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_3 = 0;
   __pyx_t_2 = 0;
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_31APO, 0, __pyx_n_s_APO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__50)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 335, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_31APO, 0, __pyx_n_s_APO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__49)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 335, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_14);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -65308,7 +65231,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_4)) __PYX_ERR(2, 368, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_33AROON, 0, __pyx_n_s_AROON, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__52)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 368, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_33AROON, 0, __pyx_n_s_AROON, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__51)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 368, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_14);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -65337,7 +65260,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_4)) __PYX_ERR(2, 403, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_35AROONOSC, 0, __pyx_n_s_AROONOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__54)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 403, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_35AROONOSC, 0, __pyx_n_s_AROONOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__53)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 403, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_14);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -65351,7 +65274,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ASIN( np.ndarray real not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_37ASIN, 0, __pyx_n_s_ASIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__55)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 435, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_37ASIN, 0, __pyx_n_s_ASIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__54)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 435, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ASIN, __pyx_t_4) < 0) __PYX_ERR(2, 435, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65363,7 +65286,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def ATAN( np.ndarray real not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_39ATAN, 0, __pyx_n_s_ATAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__56)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 464, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_39ATAN, 0, __pyx_n_s_ATAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__55)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 464, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_ATAN, __pyx_t_4) < 0) __PYX_ERR(2, 464, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65390,7 +65313,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_4)) __PYX_ERR(2, 493, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_41ATR, 0, __pyx_n_s_ATR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__57)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 493, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_41ATR, 0, __pyx_n_s_ATR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__56)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 493, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_14);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -65404,7 +65327,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def AVGPRICE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_43AVGPRICE, 0, __pyx_n_s_AVGPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__59)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 526, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_43AVGPRICE, 0, __pyx_n_s_AVGPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__58)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 526, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_AVGPRICE, __pyx_t_4) < 0) __PYX_ERR(2, 526, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -65446,7 +65369,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_14 = 0;
   __pyx_t_2 = 0;
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_45BBANDS, 0, __pyx_n_s_BBANDS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__61)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 558, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_45BBANDS, 0, __pyx_n_s_BBANDS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__60)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 558, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65475,7 +65398,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 598, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_47BETA, 0, __pyx_n_s_BETA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__63)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 598, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_47BETA, 0, __pyx_n_s_BETA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__62)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 598, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65489,7 +65412,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def BOP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_49BOP, 0, __pyx_n_s_BOP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__64)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 631, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_49BOP, 0, __pyx_n_s_BOP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__63)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 631, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_BOP, __pyx_t_3) < 0) __PYX_ERR(2, 631, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65516,7 +65439,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 663, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_51CCI, 0, __pyx_n_s_CCI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__65)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 663, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_51CCI, 0, __pyx_n_s_CCI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__64)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 663, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65530,7 +65453,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL2CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_53CDL2CROWS, 0, __pyx_n_s_CDL2CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__67)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 696, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_53CDL2CROWS, 0, __pyx_n_s_CDL2CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__66)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 696, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL2CROWS, __pyx_t_3) < 0) __PYX_ERR(2, 696, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65542,7 +65465,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3BLACKCROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_55CDL3BLACKCROWS, 0, __pyx_n_s_CDL3BLACKCROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__68)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 728, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_55CDL3BLACKCROWS, 0, __pyx_n_s_CDL3BLACKCROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__67)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 728, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3BLACKCROWS, __pyx_t_3) < 0) __PYX_ERR(2, 728, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65554,7 +65477,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3INSIDE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_57CDL3INSIDE, 0, __pyx_n_s_CDL3INSIDE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__69)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 760, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_57CDL3INSIDE, 0, __pyx_n_s_CDL3INSIDE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__68)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 760, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3INSIDE, __pyx_t_3) < 0) __PYX_ERR(2, 760, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65566,7 +65489,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3LINESTRIKE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_59CDL3LINESTRIKE, 0, __pyx_n_s_CDL3LINESTRIKE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__70)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 792, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_59CDL3LINESTRIKE, 0, __pyx_n_s_CDL3LINESTRIKE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__69)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 792, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3LINESTRIKE, __pyx_t_3) < 0) __PYX_ERR(2, 792, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65578,7 +65501,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3OUTSIDE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_61CDL3OUTSIDE, 0, __pyx_n_s_CDL3OUTSIDE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__71)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 824, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_61CDL3OUTSIDE, 0, __pyx_n_s_CDL3OUTSIDE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__70)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 824, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3OUTSIDE, __pyx_t_3) < 0) __PYX_ERR(2, 824, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65590,7 +65513,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3STARSINSOUTH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_63CDL3STARSINSOUTH, 0, __pyx_n_s_CDL3STARSINSOUTH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__72)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 856, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_63CDL3STARSINSOUTH, 0, __pyx_n_s_CDL3STARSINSOUTH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__71)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 856, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3STARSINSOUTH, __pyx_t_3) < 0) __PYX_ERR(2, 856, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65602,7 +65525,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDL3WHITESOLDIERS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_65CDL3WHITESOLDIERS, 0, __pyx_n_s_CDL3WHITESOLDIERS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__73)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 888, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_65CDL3WHITESOLDIERS, 0, __pyx_n_s_CDL3WHITESOLDIERS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__72)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 888, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDL3WHITESOLDIERS, __pyx_t_3) < 0) __PYX_ERR(2, 888, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65629,7 +65552,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 920, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_67CDLABANDONEDBABY, 0, __pyx_n_s_CDLABANDONEDBABY, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__75)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 920, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_67CDLABANDONEDBABY, 0, __pyx_n_s_CDLABANDONEDBABY, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__74)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 920, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65643,7 +65566,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLADVANCEBLOCK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_69CDLADVANCEBLOCK, 0, __pyx_n_s_CDLADVANCEBLOCK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__76)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 954, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_69CDLADVANCEBLOCK, 0, __pyx_n_s_CDLADVANCEBLOCK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__75)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 954, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLADVANCEBLOCK, __pyx_t_3) < 0) __PYX_ERR(2, 954, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65655,7 +65578,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLBELTHOLD( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_71CDLBELTHOLD, 0, __pyx_n_s_CDLBELTHOLD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__77)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 986, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_71CDLBELTHOLD, 0, __pyx_n_s_CDLBELTHOLD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__76)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 986, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLBELTHOLD, __pyx_t_3) < 0) __PYX_ERR(2, 986, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65667,7 +65590,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLBREAKAWAY( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_73CDLBREAKAWAY, 0, __pyx_n_s_CDLBREAKAWAY, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__78)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1018, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_73CDLBREAKAWAY, 0, __pyx_n_s_CDLBREAKAWAY, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__77)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1018, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLBREAKAWAY, __pyx_t_3) < 0) __PYX_ERR(2, 1018, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65679,7 +65602,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCLOSINGMARUBOZU( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_75CDLCLOSINGMARUBOZU, 0, __pyx_n_s_CDLCLOSINGMARUBOZU, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__79)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1050, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_75CDLCLOSINGMARUBOZU, 0, __pyx_n_s_CDLCLOSINGMARUBOZU, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__78)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1050, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLCLOSINGMARUBOZU, __pyx_t_3) < 0) __PYX_ERR(2, 1050, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65691,7 +65614,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCONCEALBABYSWALL( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_77CDLCONCEALBABYSWALL, 0, __pyx_n_s_CDLCONCEALBABYSWALL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__80)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1082, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_77CDLCONCEALBABYSWALL, 0, __pyx_n_s_CDLCONCEALBABYSWALL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__79)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1082, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLCONCEALBABYSWALL, __pyx_t_3) < 0) __PYX_ERR(2, 1082, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65703,7 +65626,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLCOUNTERATTACK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_79CDLCOUNTERATTACK, 0, __pyx_n_s_CDLCOUNTERATTACK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__81)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1114, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_79CDLCOUNTERATTACK, 0, __pyx_n_s_CDLCOUNTERATTACK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__80)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1114, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLCOUNTERATTACK, __pyx_t_3) < 0) __PYX_ERR(2, 1114, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65730,7 +65653,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 1146, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_81CDLDARKCLOUDCOVER, 0, __pyx_n_s_CDLDARKCLOUDCOVER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__82)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1146, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_81CDLDARKCLOUDCOVER, 0, __pyx_n_s_CDLDARKCLOUDCOVER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__81)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1146, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65744,7 +65667,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_83CDLDOJI, 0, __pyx_n_s_CDLDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__83)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1180, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_83CDLDOJI, 0, __pyx_n_s_CDLDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__82)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1180, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLDOJI, __pyx_t_3) < 0) __PYX_ERR(2, 1180, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65756,7 +65679,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDOJISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_85CDLDOJISTAR, 0, __pyx_n_s_CDLDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__84)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1212, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_85CDLDOJISTAR, 0, __pyx_n_s_CDLDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__83)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1212, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLDOJISTAR, __pyx_t_3) < 0) __PYX_ERR(2, 1212, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65768,7 +65691,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLDRAGONFLYDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_87CDLDRAGONFLYDOJI, 0, __pyx_n_s_CDLDRAGONFLYDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__85)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1244, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_87CDLDRAGONFLYDOJI, 0, __pyx_n_s_CDLDRAGONFLYDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__84)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1244, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLDRAGONFLYDOJI, __pyx_t_3) < 0) __PYX_ERR(2, 1244, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65780,7 +65703,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLENGULFING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_89CDLENGULFING, 0, __pyx_n_s_CDLENGULFING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__86)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1276, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_89CDLENGULFING, 0, __pyx_n_s_CDLENGULFING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__85)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLENGULFING, __pyx_t_3) < 0) __PYX_ERR(2, 1276, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65807,7 +65730,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 1308, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_91CDLEVENINGDOJISTAR, 0, __pyx_n_s_CDLEVENINGDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__87)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1308, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_91CDLEVENINGDOJISTAR, 0, __pyx_n_s_CDLEVENINGDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__86)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1308, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65836,7 +65759,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 1342, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_93CDLEVENINGSTAR, 0, __pyx_n_s_CDLEVENINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__88)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1342, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_93CDLEVENINGSTAR, 0, __pyx_n_s_CDLEVENINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__87)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1342, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -65850,7 +65773,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLGAPSIDESIDEWHITE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_95CDLGAPSIDESIDEWHITE, 0, __pyx_n_s_CDLGAPSIDESIDEWHITE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__89)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1376, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_95CDLGAPSIDESIDEWHITE, 0, __pyx_n_s_CDLGAPSIDESIDEWHITE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__88)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1376, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLGAPSIDESIDEWHITE, __pyx_t_3) < 0) __PYX_ERR(2, 1376, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65862,7 +65785,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLGRAVESTONEDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_97CDLGRAVESTONEDOJI, 0, __pyx_n_s_CDLGRAVESTONEDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__90)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1408, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_97CDLGRAVESTONEDOJI, 0, __pyx_n_s_CDLGRAVESTONEDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__89)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1408, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLGRAVESTONEDOJI, __pyx_t_3) < 0) __PYX_ERR(2, 1408, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65874,7 +65797,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHAMMER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_99CDLHAMMER, 0, __pyx_n_s_CDLHAMMER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__91)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1440, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_99CDLHAMMER, 0, __pyx_n_s_CDLHAMMER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__90)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1440, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHAMMER, __pyx_t_3) < 0) __PYX_ERR(2, 1440, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65886,7 +65809,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHANGINGMAN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_101CDLHANGINGMAN, 0, __pyx_n_s_CDLHANGINGMAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__92)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1472, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_101CDLHANGINGMAN, 0, __pyx_n_s_CDLHANGINGMAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__91)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1472, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHANGINGMAN, __pyx_t_3) < 0) __PYX_ERR(2, 1472, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65898,7 +65821,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHARAMI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_103CDLHARAMI, 0, __pyx_n_s_CDLHARAMI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__93)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1504, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_103CDLHARAMI, 0, __pyx_n_s_CDLHARAMI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__92)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1504, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHARAMI, __pyx_t_3) < 0) __PYX_ERR(2, 1504, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65910,7 +65833,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHARAMICROSS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_105CDLHARAMICROSS, 0, __pyx_n_s_CDLHARAMICROSS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__94)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1536, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_105CDLHARAMICROSS, 0, __pyx_n_s_CDLHARAMICROSS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__93)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1536, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHARAMICROSS, __pyx_t_3) < 0) __PYX_ERR(2, 1536, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65922,7 +65845,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIGHWAVE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_107CDLHIGHWAVE, 0, __pyx_n_s_CDLHIGHWAVE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__95)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1568, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_107CDLHIGHWAVE, 0, __pyx_n_s_CDLHIGHWAVE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__94)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1568, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHIGHWAVE, __pyx_t_3) < 0) __PYX_ERR(2, 1568, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65934,7 +65857,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIKKAKE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_109CDLHIKKAKE, 0, __pyx_n_s_CDLHIKKAKE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__96)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1600, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_109CDLHIKKAKE, 0, __pyx_n_s_CDLHIKKAKE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__95)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1600, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHIKKAKE, __pyx_t_3) < 0) __PYX_ERR(2, 1600, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65946,7 +65869,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHIKKAKEMOD( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_111CDLHIKKAKEMOD, 0, __pyx_n_s_CDLHIKKAKEMOD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__97)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1632, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_111CDLHIKKAKEMOD, 0, __pyx_n_s_CDLHIKKAKEMOD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__96)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1632, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHIKKAKEMOD, __pyx_t_3) < 0) __PYX_ERR(2, 1632, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65958,7 +65881,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLHOMINGPIGEON( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_113CDLHOMINGPIGEON, 0, __pyx_n_s_CDLHOMINGPIGEON, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__98)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1664, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_113CDLHOMINGPIGEON, 0, __pyx_n_s_CDLHOMINGPIGEON, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__97)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1664, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLHOMINGPIGEON, __pyx_t_3) < 0) __PYX_ERR(2, 1664, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65970,7 +65893,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLIDENTICAL3CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_115CDLIDENTICAL3CROWS, 0, __pyx_n_s_CDLIDENTICAL3CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__99)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1696, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_115CDLIDENTICAL3CROWS, 0, __pyx_n_s_CDLIDENTICAL3CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__98)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1696, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLIDENTICAL3CROWS, __pyx_t_3) < 0) __PYX_ERR(2, 1696, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65982,7 +65905,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLINNECK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_117CDLINNECK, 0, __pyx_n_s_CDLINNECK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__100)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1728, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_117CDLINNECK, 0, __pyx_n_s_CDLINNECK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__99)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1728, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLINNECK, __pyx_t_3) < 0) __PYX_ERR(2, 1728, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -65994,7 +65917,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLINVERTEDHAMMER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_119CDLINVERTEDHAMMER, 0, __pyx_n_s_CDLINVERTEDHAMMER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__101)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1760, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_119CDLINVERTEDHAMMER, 0, __pyx_n_s_CDLINVERTEDHAMMER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__100)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1760, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLINVERTEDHAMMER, __pyx_t_3) < 0) __PYX_ERR(2, 1760, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66006,7 +65929,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLKICKING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_121CDLKICKING, 0, __pyx_n_s_CDLKICKING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__102)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1792, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_121CDLKICKING, 0, __pyx_n_s_CDLKICKING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__101)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1792, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLKICKING, __pyx_t_3) < 0) __PYX_ERR(2, 1792, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66018,7 +65941,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLKICKINGBYLENGTH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_123CDLKICKINGBYLENGTH, 0, __pyx_n_s_CDLKICKINGBYLENGTH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__103)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1824, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_123CDLKICKINGBYLENGTH, 0, __pyx_n_s_CDLKICKINGBYLENGTH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__102)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1824, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLKICKINGBYLENGTH, __pyx_t_3) < 0) __PYX_ERR(2, 1824, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66030,7 +65953,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLADDERBOTTOM( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_125CDLLADDERBOTTOM, 0, __pyx_n_s_CDLLADDERBOTTOM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__104)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1856, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_125CDLLADDERBOTTOM, 0, __pyx_n_s_CDLLADDERBOTTOM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__103)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1856, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLLADDERBOTTOM, __pyx_t_3) < 0) __PYX_ERR(2, 1856, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66042,7 +65965,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLONGLEGGEDDOJI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_127CDLLONGLEGGEDDOJI, 0, __pyx_n_s_CDLLONGLEGGEDDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__105)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1888, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_127CDLLONGLEGGEDDOJI, 0, __pyx_n_s_CDLLONGLEGGEDDOJI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__104)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1888, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLLONGLEGGEDDOJI, __pyx_t_3) < 0) __PYX_ERR(2, 1888, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66054,7 +65977,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLLONGLINE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_129CDLLONGLINE, 0, __pyx_n_s_CDLLONGLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__106)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1920, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_129CDLLONGLINE, 0, __pyx_n_s_CDLLONGLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__105)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1920, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLLONGLINE, __pyx_t_3) < 0) __PYX_ERR(2, 1920, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66066,7 +65989,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMARUBOZU( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_131CDLMARUBOZU, 0, __pyx_n_s_CDLMARUBOZU, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__107)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1952, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_131CDLMARUBOZU, 0, __pyx_n_s_CDLMARUBOZU, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__106)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1952, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLMARUBOZU, __pyx_t_3) < 0) __PYX_ERR(2, 1952, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66078,7 +66001,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLMATCHINGLOW( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_133CDLMATCHINGLOW, 0, __pyx_n_s_CDLMATCHINGLOW, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__108)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1984, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_133CDLMATCHINGLOW, 0, __pyx_n_s_CDLMATCHINGLOW, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__107)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 1984, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLMATCHINGLOW, __pyx_t_3) < 0) __PYX_ERR(2, 1984, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66105,7 +66028,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2016, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_135CDLMATHOLD, 0, __pyx_n_s_CDLMATHOLD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__109)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2016, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_135CDLMATHOLD, 0, __pyx_n_s_CDLMATHOLD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__108)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2016, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66134,7 +66057,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2050, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_137CDLMORNINGDOJISTAR, 0, __pyx_n_s_CDLMORNINGDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__110)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2050, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_137CDLMORNINGDOJISTAR, 0, __pyx_n_s_CDLMORNINGDOJISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__109)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2050, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66163,7 +66086,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2084, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_139CDLMORNINGSTAR, 0, __pyx_n_s_CDLMORNINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__111)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2084, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_139CDLMORNINGSTAR, 0, __pyx_n_s_CDLMORNINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__110)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2084, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66177,7 +66100,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLONNECK( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_141CDLONNECK, 0, __pyx_n_s_CDLONNECK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__112)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2118, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_141CDLONNECK, 0, __pyx_n_s_CDLONNECK, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__111)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2118, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLONNECK, __pyx_t_3) < 0) __PYX_ERR(2, 2118, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66189,7 +66112,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLPIERCING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_143CDLPIERCING, 0, __pyx_n_s_CDLPIERCING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__113)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2150, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_143CDLPIERCING, 0, __pyx_n_s_CDLPIERCING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__112)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2150, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLPIERCING, __pyx_t_3) < 0) __PYX_ERR(2, 2150, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66201,7 +66124,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLRICKSHAWMAN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_145CDLRICKSHAWMAN, 0, __pyx_n_s_CDLRICKSHAWMAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__114)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2182, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_145CDLRICKSHAWMAN, 0, __pyx_n_s_CDLRICKSHAWMAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__113)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2182, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLRICKSHAWMAN, __pyx_t_3) < 0) __PYX_ERR(2, 2182, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66213,7 +66136,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLRISEFALL3METHODS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_147CDLRISEFALL3METHODS, 0, __pyx_n_s_CDLRISEFALL3METHODS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__115)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2214, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_147CDLRISEFALL3METHODS, 0, __pyx_n_s_CDLRISEFALL3METHODS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__114)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2214, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLRISEFALL3METHODS, __pyx_t_3) < 0) __PYX_ERR(2, 2214, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66225,7 +66148,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSEPARATINGLINES( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_149CDLSEPARATINGLINES, 0, __pyx_n_s_CDLSEPARATINGLINES, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__116)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2246, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_149CDLSEPARATINGLINES, 0, __pyx_n_s_CDLSEPARATINGLINES, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__115)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2246, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSEPARATINGLINES, __pyx_t_3) < 0) __PYX_ERR(2, 2246, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66237,7 +66160,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSHOOTINGSTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_151CDLSHOOTINGSTAR, 0, __pyx_n_s_CDLSHOOTINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__117)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2278, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_151CDLSHOOTINGSTAR, 0, __pyx_n_s_CDLSHOOTINGSTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__116)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2278, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSHOOTINGSTAR, __pyx_t_3) < 0) __PYX_ERR(2, 2278, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66249,7 +66172,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSHORTLINE( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_153CDLSHORTLINE, 0, __pyx_n_s_CDLSHORTLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__118)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2310, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_153CDLSHORTLINE, 0, __pyx_n_s_CDLSHORTLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__117)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2310, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSHORTLINE, __pyx_t_3) < 0) __PYX_ERR(2, 2310, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66261,7 +66184,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSPINNINGTOP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_155CDLSPINNINGTOP, 0, __pyx_n_s_CDLSPINNINGTOP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__119)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2342, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_155CDLSPINNINGTOP, 0, __pyx_n_s_CDLSPINNINGTOP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__118)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2342, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSPINNINGTOP, __pyx_t_3) < 0) __PYX_ERR(2, 2342, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66273,7 +66196,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSTALLEDPATTERN( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_157CDLSTALLEDPATTERN, 0, __pyx_n_s_CDLSTALLEDPATTERN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__120)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2374, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_157CDLSTALLEDPATTERN, 0, __pyx_n_s_CDLSTALLEDPATTERN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__119)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2374, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSTALLEDPATTERN, __pyx_t_3) < 0) __PYX_ERR(2, 2374, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66285,7 +66208,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLSTICKSANDWICH( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_159CDLSTICKSANDWICH, 0, __pyx_n_s_CDLSTICKSANDWICH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__121)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2406, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_159CDLSTICKSANDWICH, 0, __pyx_n_s_CDLSTICKSANDWICH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__120)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2406, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLSTICKSANDWICH, __pyx_t_3) < 0) __PYX_ERR(2, 2406, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66297,7 +66220,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTAKURI( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_161CDLTAKURI, 0, __pyx_n_s_CDLTAKURI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__122)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2438, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_161CDLTAKURI, 0, __pyx_n_s_CDLTAKURI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__121)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2438, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLTAKURI, __pyx_t_3) < 0) __PYX_ERR(2, 2438, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66309,7 +66232,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTASUKIGAP( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_163CDLTASUKIGAP, 0, __pyx_n_s_CDLTASUKIGAP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__123)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2470, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_163CDLTASUKIGAP, 0, __pyx_n_s_CDLTASUKIGAP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__122)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2470, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLTASUKIGAP, __pyx_t_3) < 0) __PYX_ERR(2, 2470, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66321,7 +66244,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTHRUSTING( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_165CDLTHRUSTING, 0, __pyx_n_s_CDLTHRUSTING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__124)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2502, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_165CDLTHRUSTING, 0, __pyx_n_s_CDLTHRUSTING, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__123)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2502, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLTHRUSTING, __pyx_t_3) < 0) __PYX_ERR(2, 2502, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66333,7 +66256,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLTRISTAR( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_167CDLTRISTAR, 0, __pyx_n_s_CDLTRISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__125)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2534, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_167CDLTRISTAR, 0, __pyx_n_s_CDLTRISTAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__124)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2534, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLTRISTAR, __pyx_t_3) < 0) __PYX_ERR(2, 2534, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66345,7 +66268,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLUNIQUE3RIVER( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_169CDLUNIQUE3RIVER, 0, __pyx_n_s_CDLUNIQUE3RIVER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__126)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2566, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_169CDLUNIQUE3RIVER, 0, __pyx_n_s_CDLUNIQUE3RIVER, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__125)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2566, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLUNIQUE3RIVER, __pyx_t_3) < 0) __PYX_ERR(2, 2566, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66357,7 +66280,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLUPSIDEGAP2CROWS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_171CDLUPSIDEGAP2CROWS, 0, __pyx_n_s_CDLUPSIDEGAP2CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__127)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2598, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_171CDLUPSIDEGAP2CROWS, 0, __pyx_n_s_CDLUPSIDEGAP2CROWS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__126)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2598, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLUPSIDEGAP2CROWS, __pyx_t_3) < 0) __PYX_ERR(2, 2598, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66369,7 +66292,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CDLXSIDEGAP3METHODS( np.ndarray open not None , np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_173CDLXSIDEGAP3METHODS, 0, __pyx_n_s_CDLXSIDEGAP3METHODS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__128)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2630, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_173CDLXSIDEGAP3METHODS, 0, __pyx_n_s_CDLXSIDEGAP3METHODS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__127)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2630, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CDLXSIDEGAP3METHODS, __pyx_t_3) < 0) __PYX_ERR(2, 2630, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66381,7 +66304,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def CEIL( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_175CEIL, 0, __pyx_n_s_CEIL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__129)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2662, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_175CEIL, 0, __pyx_n_s_CEIL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__128)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2662, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_CEIL, __pyx_t_3) < 0) __PYX_ERR(2, 2662, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66408,7 +66331,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2691, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_177CMO, 0, __pyx_n_s_CMO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__131)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2691, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_177CMO, 0, __pyx_n_s_CMO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__130)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2691, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66437,7 +66360,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2722, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_179CORREL, 0, __pyx_n_s_CORREL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__132)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2722, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_179CORREL, 0, __pyx_n_s_CORREL, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__131)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2722, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66451,7 +66374,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def COS( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_181COS, 0, __pyx_n_s_COS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__133)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2755, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_181COS, 0, __pyx_n_s_COS, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__132)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2755, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_COS, __pyx_t_3) < 0) __PYX_ERR(2, 2755, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66463,7 +66386,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def COSH( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_183COSH, 0, __pyx_n_s_COSH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__134)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2784, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_183COSH, 0, __pyx_n_s_COSH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__133)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2784, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_COSH, __pyx_t_3) < 0) __PYX_ERR(2, 2784, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66490,7 +66413,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2813, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_185DEMA, 0, __pyx_n_s_DEMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__135)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2813, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_185DEMA, 0, __pyx_n_s_DEMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__134)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2813, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66504,7 +66427,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def DIV( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_187DIV, 0, __pyx_n_s_DIV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__136)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2844, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_187DIV, 0, __pyx_n_s_DIV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__135)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2844, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_DIV, __pyx_t_3) < 0) __PYX_ERR(2, 2844, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66531,7 +66454,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2875, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_189DX, 0, __pyx_n_s_DX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__137)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2875, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_189DX, 0, __pyx_n_s_DX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__136)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2875, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66560,7 +66483,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 2908, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_191EMA, 0, __pyx_n_s_EMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__138)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2908, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_191EMA, 0, __pyx_n_s_EMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__137)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2908, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66574,7 +66497,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def EXP( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_193EXP, 0, __pyx_n_s_EXP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__139)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2939, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_193EXP, 0, __pyx_n_s_EXP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__138)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2939, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_EXP, __pyx_t_3) < 0) __PYX_ERR(2, 2939, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66586,7 +66509,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def FLOOR( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_195FLOOR, 0, __pyx_n_s_FLOOR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__140)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2968, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_195FLOOR, 0, __pyx_n_s_FLOOR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__139)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2968, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_FLOOR, __pyx_t_3) < 0) __PYX_ERR(2, 2968, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66598,7 +66521,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_DCPERIOD( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_197HT_DCPERIOD, 0, __pyx_n_s_HT_DCPERIOD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__141)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2997, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_197HT_DCPERIOD, 0, __pyx_n_s_HT_DCPERIOD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__140)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 2997, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_DCPERIOD, __pyx_t_3) < 0) __PYX_ERR(2, 2997, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66610,7 +66533,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_DCPHASE( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_199HT_DCPHASE, 0, __pyx_n_s_HT_DCPHASE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__142)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3026, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_199HT_DCPHASE, 0, __pyx_n_s_HT_DCPHASE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__141)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3026, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_DCPHASE, __pyx_t_3) < 0) __PYX_ERR(2, 3026, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66622,7 +66545,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_PHASOR( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_201HT_PHASOR, 0, __pyx_n_s_HT_PHASOR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__144)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3055, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_201HT_PHASOR, 0, __pyx_n_s_HT_PHASOR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__143)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3055, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_PHASOR, __pyx_t_3) < 0) __PYX_ERR(2, 3055, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66634,7 +66557,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_SINE( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_203HT_SINE, 0, __pyx_n_s_HT_SINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__146)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3087, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_203HT_SINE, 0, __pyx_n_s_HT_SINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__145)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3087, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_SINE, __pyx_t_3) < 0) __PYX_ERR(2, 3087, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66646,7 +66569,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_TRENDLINE( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_205HT_TRENDLINE, 0, __pyx_n_s_HT_TRENDLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__147)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3119, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_205HT_TRENDLINE, 0, __pyx_n_s_HT_TRENDLINE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__146)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3119, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_TRENDLINE, __pyx_t_3) < 0) __PYX_ERR(2, 3119, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66658,7 +66581,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def HT_TRENDMODE( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_207HT_TRENDMODE, 0, __pyx_n_s_HT_TRENDMODE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__149)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3148, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_207HT_TRENDMODE, 0, __pyx_n_s_HT_TRENDMODE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__148)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3148, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_HT_TRENDMODE, __pyx_t_3) < 0) __PYX_ERR(2, 3148, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66685,7 +66608,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 3177, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_209KAMA, 0, __pyx_n_s_KAMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__150)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3177, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_209KAMA, 0, __pyx_n_s_KAMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__149)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3177, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66714,7 +66637,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 3208, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_211LINEARREG, 0, __pyx_n_s_LINEARREG, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__151)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3208, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_211LINEARREG, 0, __pyx_n_s_LINEARREG, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__150)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3208, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66743,7 +66666,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 3239, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_213LINEARREG_ANGLE, 0, __pyx_n_s_LINEARREG_ANGLE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__152)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3239, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_213LINEARREG_ANGLE, 0, __pyx_n_s_LINEARREG_ANGLE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__151)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3239, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66772,7 +66695,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 3270, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_215LINEARREG_INTERCEPT, 0, __pyx_n_s_LINEARREG_INTERCEPT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__153)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3270, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_215LINEARREG_INTERCEPT, 0, __pyx_n_s_LINEARREG_INTERCEPT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__152)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3270, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66801,7 +66724,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_3)) __PYX_ERR(2, 3301, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_217LINEARREG_SLOPE, 0, __pyx_n_s_LINEARREG_SLOPE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__154)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3301, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_217LINEARREG_SLOPE, 0, __pyx_n_s_LINEARREG_SLOPE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__153)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3301, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -66815,7 +66738,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LN( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_219LN, 0, __pyx_n_s_LN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__155)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3332, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_219LN, 0, __pyx_n_s_LN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__154)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3332, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_LN, __pyx_t_3) < 0) __PYX_ERR(2, 3332, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66827,7 +66750,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def LOG10( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_221LOG10, 0, __pyx_n_s_LOG10, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__156)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3361, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_221LOG10, 0, __pyx_n_s_LOG10, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__155)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3361, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_LOG10, __pyx_t_3) < 0) __PYX_ERR(2, 3361, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -66859,7 +66782,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_2, 1, __pyx_t_15)) __PYX_ERR(2, 3390, __pyx_L1_error);
   __pyx_t_3 = 0;
   __pyx_t_15 = 0;
-  __pyx_t_15 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_223MA, 0, __pyx_n_s_MA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__158)); if (unlikely(!__pyx_t_15)) __PYX_ERR(2, 3390, __pyx_L1_error)
+  __pyx_t_15 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_223MA, 0, __pyx_n_s_MA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__157)); if (unlikely(!__pyx_t_15)) __PYX_ERR(2, 3390, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_15);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_15, __pyx_t_2);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -66898,7 +66821,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_15 = 0;
   __pyx_t_2 = 0;
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_225MACD, 0, __pyx_n_s_MACD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__160)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3422, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_225MACD, 0, __pyx_n_s_MACD, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__159)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 3422, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_14);
   __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -66952,7 +66875,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_15 = 0;
   __pyx_t_4 = 0;
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_227MACDEXT, 0, __pyx_n_s_MACDEXT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__162)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3461, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_227MACDEXT, 0, __pyx_n_s_MACDEXT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__161)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3461, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -66981,7 +66904,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_18)) __PYX_ERR(2, 3503, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_229MACDFIX, 0, __pyx_n_s_MACDFIX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__164)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3503, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_229MACDFIX, 0, __pyx_n_s_MACDFIX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__163)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3503, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67015,7 +66938,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_4, 1, __pyx_t_19)) __PYX_ERR(2, 3540, __pyx_L1_error);
   __pyx_t_18 = 0;
   __pyx_t_19 = 0;
-  __pyx_t_19 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_231MAMA, 0, __pyx_n_s_MAMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__166)); if (unlikely(!__pyx_t_19)) __PYX_ERR(2, 3540, __pyx_L1_error)
+  __pyx_t_19 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_231MAMA, 0, __pyx_n_s_MAMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__165)); if (unlikely(!__pyx_t_19)) __PYX_ERR(2, 3540, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_19);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_19, __pyx_t_4);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
@@ -67054,7 +66977,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_19 = 0;
   __pyx_t_4 = 0;
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_233MAVP, 0, __pyx_n_s_MAVP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__168)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3575, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_233MAVP, 0, __pyx_n_s_MAVP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__167)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3575, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67083,7 +67006,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3610, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_235MAX, 0, __pyx_n_s_MAX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__169)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3610, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_235MAX, 0, __pyx_n_s_MAX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__168)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3610, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67112,7 +67035,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3641, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_237MAXINDEX, 0, __pyx_n_s_MAXINDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__171)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3641, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_237MAXINDEX, 0, __pyx_n_s_MAXINDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__170)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3641, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67126,7 +67049,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MEDPRICE( np.ndarray high not None , np.ndarray low not None ):
  */
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_239MEDPRICE, 0, __pyx_n_s_MEDPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__173)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3675, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_239MEDPRICE, 0, __pyx_n_s_MEDPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__172)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3675, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_MEDPRICE, __pyx_t_18) < 0) __PYX_ERR(2, 3675, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -67153,7 +67076,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3705, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_241MFI, 0, __pyx_n_s_MFI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__175)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3705, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_241MFI, 0, __pyx_n_s_MFI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__174)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3705, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67182,7 +67105,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3739, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_243MIDPOINT, 0, __pyx_n_s_MIDPOINT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__176)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3739, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_243MIDPOINT, 0, __pyx_n_s_MIDPOINT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__175)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3739, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67211,7 +67134,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3770, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_245MIDPRICE, 0, __pyx_n_s_MIDPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__177)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3770, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_245MIDPRICE, 0, __pyx_n_s_MIDPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__176)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3770, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67240,7 +67163,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3802, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_247MIN, 0, __pyx_n_s_MIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__178)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3802, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_247MIN, 0, __pyx_n_s_MIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__177)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3802, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67269,7 +67192,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3833, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_249MININDEX, 0, __pyx_n_s_MININDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__179)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3833, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_249MININDEX, 0, __pyx_n_s_MININDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__178)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3833, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67298,7 +67221,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3867, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_251MINMAX, 0, __pyx_n_s_MINMAX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__181)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3867, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_251MINMAX, 0, __pyx_n_s_MINMAX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__180)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3867, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67327,7 +67250,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3901, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_253MINMAXINDEX, 0, __pyx_n_s_MINMAXINDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__183)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3901, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_253MINMAXINDEX, 0, __pyx_n_s_MINMAXINDEX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__182)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3901, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67356,7 +67279,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3941, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_255MINUS_DI, 0, __pyx_n_s_MINUS_DI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__184)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3941, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_255MINUS_DI, 0, __pyx_n_s_MINUS_DI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__183)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3941, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67385,7 +67308,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 3974, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_257MINUS_DM, 0, __pyx_n_s_MINUS_DM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__185)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3974, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_257MINUS_DM, 0, __pyx_n_s_MINUS_DM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__184)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 3974, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67414,7 +67337,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 4006, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_259MOM, 0, __pyx_n_s_MOM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__186)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4006, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_259MOM, 0, __pyx_n_s_MOM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__185)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4006, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67428,7 +67351,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def MULT( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_261MULT, 0, __pyx_n_s_MULT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__187)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4037, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_261MULT, 0, __pyx_n_s_MULT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__186)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4037, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_MULT, __pyx_t_18) < 0) __PYX_ERR(2, 4037, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -67455,7 +67378,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 4068, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_263NATR, 0, __pyx_n_s_NATR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__188)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4068, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_263NATR, 0, __pyx_n_s_NATR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__187)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4068, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67469,7 +67392,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def OBV( np.ndarray real not None , np.ndarray volume not None ):
  */
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_265OBV, 0, __pyx_n_s_OBV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__190)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4101, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_265OBV, 0, __pyx_n_s_OBV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__189)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4101, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_OBV, __pyx_t_18) < 0) __PYX_ERR(2, 4101, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -67496,7 +67419,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 4132, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_267PLUS_DI, 0, __pyx_n_s_PLUS_DI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__191)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4132, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_267PLUS_DI, 0, __pyx_n_s_PLUS_DI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__190)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4132, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67525,7 +67448,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_18);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 0, __pyx_t_18)) __PYX_ERR(2, 4165, __pyx_L1_error);
   __pyx_t_18 = 0;
-  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_269PLUS_DM, 0, __pyx_n_s_PLUS_DM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__192)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4165, __pyx_L1_error)
+  __pyx_t_18 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_269PLUS_DM, 0, __pyx_n_s_PLUS_DM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__191)); if (unlikely(!__pyx_t_18)) __PYX_ERR(2, 4165, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_18);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_18, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67564,7 +67487,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_18 = 0;
   __pyx_t_15 = 0;
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_271PPO, 0, __pyx_n_s_PPO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__193)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4197, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_271PPO, 0, __pyx_n_s_PPO, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__192)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4197, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67593,7 +67516,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_4)) __PYX_ERR(2, 4230, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_273ROC, 0, __pyx_n_s_ROC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__194)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4230, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_273ROC, 0, __pyx_n_s_ROC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__193)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4230, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67622,7 +67545,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_4)) __PYX_ERR(2, 4261, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_275ROCP, 0, __pyx_n_s_ROCP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__195)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4261, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_275ROCP, 0, __pyx_n_s_ROCP, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__194)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4261, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67651,7 +67574,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_4)) __PYX_ERR(2, 4292, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_277ROCR, 0, __pyx_n_s_ROCR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__196)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4292, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_277ROCR, 0, __pyx_n_s_ROCR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__195)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4292, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67680,7 +67603,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_4)) __PYX_ERR(2, 4323, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_279ROCR100, 0, __pyx_n_s_ROCR100, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__197)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4323, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_279ROCR100, 0, __pyx_n_s_ROCR100, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__196)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4323, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67709,7 +67632,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_4);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_19, 0, __pyx_t_4)) __PYX_ERR(2, 4354, __pyx_L1_error);
   __pyx_t_4 = 0;
-  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_281RSI, 0, __pyx_n_s_RSI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__198)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4354, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_281RSI, 0, __pyx_n_s_RSI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__197)); if (unlikely(!__pyx_t_4)) __PYX_ERR(2, 4354, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_4, __pyx_t_19);
   __Pyx_DECREF(__pyx_t_19); __pyx_t_19 = 0;
@@ -67743,7 +67666,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_15, 1, __pyx_t_19)) __PYX_ERR(2, 4385, __pyx_L1_error);
   __pyx_t_4 = 0;
   __pyx_t_19 = 0;
-  __pyx_t_19 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_283SAR, 0, __pyx_n_s_SAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__200)); if (unlikely(!__pyx_t_19)) __PYX_ERR(2, 4385, __pyx_L1_error)
+  __pyx_t_19 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_283SAR, 0, __pyx_n_s_SAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__199)); if (unlikely(!__pyx_t_19)) __PYX_ERR(2, 4385, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_19);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_19, __pyx_t_15);
   __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
@@ -67807,7 +67730,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_14 = 0;
   __pyx_t_3 = 0;
   __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_285SAREXT, 0, __pyx_n_s_SAREXT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__202)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4418, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_285SAREXT, 0, __pyx_n_s_SAREXT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__201)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4418, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_6, __pyx_t_7);
   __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
@@ -67821,7 +67744,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SIN( np.ndarray real not None ):
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_287SIN, 0, __pyx_n_s_SIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__203)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4457, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_287SIN, 0, __pyx_n_s_SIN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__202)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4457, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_SIN, __pyx_t_6) < 0) __PYX_ERR(2, 4457, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -67833,7 +67756,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SINH( np.ndarray real not None ):
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_289SINH, 0, __pyx_n_s_SINH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__204)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4486, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_289SINH, 0, __pyx_n_s_SINH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__203)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4486, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_SINH, __pyx_t_6) < 0) __PYX_ERR(2, 4486, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -67860,7 +67783,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_6);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_6)) __PYX_ERR(2, 4515, __pyx_L1_error);
   __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_291SMA, 0, __pyx_n_s_SMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__205)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4515, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_291SMA, 0, __pyx_n_s_SMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__204)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4515, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_6, __pyx_t_7);
   __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
@@ -67874,7 +67797,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SQRT( np.ndarray real not None ):
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_293SQRT, 0, __pyx_n_s_SQRT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__206)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4546, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_293SQRT, 0, __pyx_n_s_SQRT, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__205)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 4546, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_SQRT, __pyx_t_6) < 0) __PYX_ERR(2, 4546, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -67906,7 +67829,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_3, 1, __pyx_t_7)) __PYX_ERR(2, 4575, __pyx_L1_error);
   __pyx_t_6 = 0;
   __pyx_t_7 = 0;
-  __pyx_t_7 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_295STDDEV, 0, __pyx_n_s_STDDEV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__208)); if (unlikely(!__pyx_t_7)) __PYX_ERR(2, 4575, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_295STDDEV, 0, __pyx_n_s_STDDEV, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__207)); if (unlikely(!__pyx_t_7)) __PYX_ERR(2, 4575, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_7, __pyx_t_3);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -67955,7 +67878,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_6 = 0;
   __pyx_t_14 = 0;
   __pyx_t_2 = 0;
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_297STOCH, 0, __pyx_n_s_STOCH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__210)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4607, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_297STOCH, 0, __pyx_n_s_STOCH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__209)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4607, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_2, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -67994,7 +67917,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_2 = 0;
   __pyx_t_18 = 0;
   __pyx_t_14 = 0;
-  __pyx_t_14 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_299STOCHF, 0, __pyx_n_s_STOCHF, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__212)); if (unlikely(!__pyx_t_14)) __PYX_ERR(2, 4647, __pyx_L1_error)
+  __pyx_t_14 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_299STOCHF, 0, __pyx_n_s_STOCHF, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__211)); if (unlikely(!__pyx_t_14)) __PYX_ERR(2, 4647, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_14);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_14, __pyx_t_6);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -68038,7 +67961,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_6 = 0;
   __pyx_t_18 = 0;
   __pyx_t_2 = 0;
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_301STOCHRSI, 0, __pyx_n_s_STOCHRSI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__214)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4685, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_301STOCHRSI, 0, __pyx_n_s_STOCHRSI, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__213)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4685, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_2, __pyx_t_3);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68052,7 +67975,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def SUB( np.ndarray real0 not None , np.ndarray real1 not None ):
  */
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_303SUB, 0, __pyx_n_s_SUB, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__215)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4722, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_303SUB, 0, __pyx_n_s_SUB, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__214)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4722, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_SUB, __pyx_t_2) < 0) __PYX_ERR(2, 4722, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
@@ -68079,7 +68002,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_2);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_2)) __PYX_ERR(2, 4753, __pyx_L1_error);
   __pyx_t_2 = 0;
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_305SUM, 0, __pyx_n_s_SUM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__216)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4753, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_305SUM, 0, __pyx_n_s_SUM, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__215)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 4753, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_2, __pyx_t_3);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68113,7 +68036,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 1, __pyx_t_3)) __PYX_ERR(2, 4784, __pyx_L1_error);
   __pyx_t_2 = 0;
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_307T3, 0, __pyx_n_s_T3, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__218)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4784, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_307T3, 0, __pyx_n_s_T3, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__217)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4784, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68127,7 +68050,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TAN( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_309TAN, 0, __pyx_n_s_TAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__219)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4816, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_309TAN, 0, __pyx_n_s_TAN, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__218)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4816, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_TAN, __pyx_t_3) < 0) __PYX_ERR(2, 4816, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68139,7 +68062,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TANH( np.ndarray real not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_311TANH, 0, __pyx_n_s_TANH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__220)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4845, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_311TANH, 0, __pyx_n_s_TANH, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__219)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4845, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_TANH, __pyx_t_3) < 0) __PYX_ERR(2, 4845, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68166,7 +68089,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_3)) __PYX_ERR(2, 4874, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_313TEMA, 0, __pyx_n_s_TEMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__221)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4874, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_313TEMA, 0, __pyx_n_s_TEMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__220)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4874, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68180,7 +68103,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TRANGE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_315TRANGE, 0, __pyx_n_s_TRANGE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__223)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4905, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_315TRANGE, 0, __pyx_n_s_TRANGE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__222)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4905, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_TRANGE, __pyx_t_3) < 0) __PYX_ERR(2, 4905, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68207,7 +68130,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_3)) __PYX_ERR(2, 4936, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_317TRIMA, 0, __pyx_n_s_TRIMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__224)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4936, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_317TRIMA, 0, __pyx_n_s_TRIMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__223)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4936, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68236,7 +68159,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_3)) __PYX_ERR(2, 4967, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_319TRIX, 0, __pyx_n_s_TRIX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__225)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4967, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_319TRIX, 0, __pyx_n_s_TRIX, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__224)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4967, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68265,7 +68188,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_3);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_3)) __PYX_ERR(2, 4998, __pyx_L1_error);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_321TSF, 0, __pyx_n_s_TSF, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__226)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4998, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_321TSF, 0, __pyx_n_s_TSF, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__225)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 4998, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_3, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68279,7 +68202,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def TYPPRICE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_323TYPPRICE, 0, __pyx_n_s_TYPPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__227)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 5029, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_323TYPPRICE, 0, __pyx_n_s_TYPPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__226)); if (unlikely(!__pyx_t_3)) __PYX_ERR(2, 5029, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_TYPPRICE, __pyx_t_3) < 0) __PYX_ERR(2, 5029, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -68316,7 +68239,7 @@ if (!__Pyx_RefNanny) {
   __pyx_t_3 = 0;
   __pyx_t_18 = 0;
   __pyx_t_2 = 0;
-  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_325ULTOSC, 0, __pyx_n_s_ULTOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__229)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 5060, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_325ULTOSC, 0, __pyx_n_s_ULTOSC, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__228)); if (unlikely(!__pyx_t_2)) __PYX_ERR(2, 5060, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_2, __pyx_t_6);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -68350,7 +68273,7 @@ if (!__Pyx_RefNanny) {
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 1, __pyx_t_6)) __PYX_ERR(2, 5095, __pyx_L1_error);
   __pyx_t_2 = 0;
   __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_327VAR, 0, __pyx_n_s_VAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__230)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5095, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_327VAR, 0, __pyx_n_s_VAR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__229)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5095, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_6, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68364,7 +68287,7 @@ if (!__Pyx_RefNanny) {
  * @boundscheck(False) # turn off bounds-checking for entire function
  * def WCLPRICE( np.ndarray high not None , np.ndarray low not None , np.ndarray close not None ):
  */
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_329WCLPRICE, 0, __pyx_n_s_WCLPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__231)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5127, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_329WCLPRICE, 0, __pyx_n_s_WCLPRICE, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__230)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5127, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   if (PyDict_SetItem(__pyx_d, __pyx_n_s_WCLPRICE, __pyx_t_6) < 0) __PYX_ERR(2, 5127, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -68391,7 +68314,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_6);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_6)) __PYX_ERR(2, 5158, __pyx_L1_error);
   __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_331WILLR, 0, __pyx_n_s_WILLR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__232)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5158, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_331WILLR, 0, __pyx_n_s_WILLR, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__231)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5158, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_6, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -68420,7 +68343,7 @@ if (!__Pyx_RefNanny) {
   __Pyx_GIVEREF(__pyx_t_6);
   if (__Pyx_PyTuple_SET_ITEM(__pyx_t_18, 0, __pyx_t_6)) __PYX_ERR(2, 5191, __pyx_L1_error);
   __pyx_t_6 = 0;
-  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_333WMA, 0, __pyx_n_s_WMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__233)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5191, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_CyFunction_New(&__pyx_mdef_5talib_7_ta_lib_333WMA, 0, __pyx_n_s_WMA, NULL, __pyx_n_s_talib__ta_lib, __pyx_d, ((PyObject *)__pyx_codeobj__232)); if (unlikely(!__pyx_t_6)) __PYX_ERR(2, 5191, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_CyFunction_SetDefaultsTuple(__pyx_t_6, __pyx_t_18);
   __Pyx_DECREF(__pyx_t_18); __pyx_t_18 = 0;
@@ -72377,7 +72300,7 @@ static PyObject* __Pyx_ImportFrom(PyObject* module, PyObject* name) {
         if (unlikely(!module_name_str)) { goto modbad; }
         module_name = PyUnicode_FromString(module_name_str);
         if (unlikely(!module_name)) { goto modbad; }
-        module_dot = PyUnicode_Concat(module_name, __pyx_kp_u__37);
+        module_dot = PyUnicode_Concat(module_name, __pyx_kp_u__36);
         if (unlikely(!module_dot)) { goto modbad; }
         full_name = PyUnicode_Concat(module_dot, name);
         if (unlikely(!full_name)) { goto modbad; }
@@ -75167,7 +75090,7 @@ __Pyx_PyType_GetName(PyTypeObject* tp)
     if (unlikely(name == NULL) || unlikely(!PyUnicode_Check(name))) {
         PyErr_Clear();
         Py_XDECREF(name);
-        name = __Pyx_NewRef(__pyx_n_s__234);
+        name = __Pyx_NewRef(__pyx_n_s__233);
     }
     return name;
 }

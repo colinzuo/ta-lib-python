@@ -1,6 +1,7 @@
 docs/html
 docs/.tadoc.org.html
 
+*.pyd
 *.pyc
 build/
 dist/
